@@ -50,13 +50,10 @@ $currentPage = $_SERVER["PHP_SELF"];
                         <a class="nav-link" href="">Informacion Institucional</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="">MIPG</a>
+                        <a class="nav-link" href="index_mapa.php">Calidad</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="">Seguridad y salud en el trabajo</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="">Bienestar social</a>
+                        <a class="nav-link" href="">Seguridad y salud</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="">Capacitaciones</a>
