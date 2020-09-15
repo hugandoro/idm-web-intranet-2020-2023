@@ -89,20 +89,20 @@ $currentPage = $_SERVER["PHP_SELF"];
  
                 <h3>Formatos</h3>
                 <ul class="tmo_list">
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Evaluación de Gestión por Dependencia.docx" rel="nofollow">Evaluación de Gestión por Dependencia</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Evaluacion de Gestion por Dependencia.docx" rel="nofollow">Evaluación de Gestión por Dependencia</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Informe de Auditoria Interna.docx" rel="nofollow">Informe de Auditoria Interna</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Informe Definitivo Auditoria Control Interno.doc" rel="nofollow">Informe Definitivo Auditoria Control Interno</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Lista de chequeo Auditoria Interna.docx" rel="nofollow">Lista de chequeo Auditoria Interna</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Plan de Acción de Control Interno.xls" rel="nofollow">Plan de Acción de Control Interno</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Plan de Accion de Control Interno.xls" rel="nofollow">Plan de Acción de Control Interno</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Plan de Auditoria Interna C.I.docx" rel="nofollow">Plan de Auditoria Interna C.I</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Plan de Auditoria Interna.docx" rel="nofollow">Plan de Auditoria Interna</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Plan de Mejoramiento.doc" rel="nofollow">Plan de Mejoramiento</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Programa Anual de auditoria C.I.xls" rel="nofollow">Programa Anual de auditoria C.I</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Programación Auditoria Interna.docx" rel="nofollow">Programación Auditoria Interna</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Reporte de Acto de Corrupción o Irregularidad Administrativa V.1.docx" rel="nofollow">Reporte de Acto de Corrupción o Irregularidad Administrativa V.1</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Programacion Auditoria Interna.docx" rel="nofollow">Programación Auditoria Interna</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Reporte de Acto de Corrupcion o Irregularidad Administrativa V.1.docx" rel="nofollow">Reporte de Acto de Corrupción o Irregularidad Administrativa V.1</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Seguimiento 2a linea de defensa V2.docx" rel="nofollow">Seguimiento 2a linea de defensa V2</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Seguimiento al  Plan Anticorrupción y de Atención al Ciudadano.docx" rel="nofollow">Seguimiento al  Plan Anticorrupción y de Atención al Ciudadano</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Seguimiento Mapa de Riesgos de Corrupción.docx" rel="nofollow">Seguimiento Mapa de Riesgos de Corrupción</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Seguimiento al  Plan Anticorrupcion y de Atencion al Ciudadano.docx" rel="nofollow">Seguimiento al  Plan Anticorrupción y de Atención al Ciudadano</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Seguimiento Mapa de Riesgos de Corrupcion.docx" rel="nofollow">Seguimiento Mapa de Riesgos de Corrupción</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Carta de Compromiso.doc" rel="nofollow">Carta de Compromiso</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Seguimiento a procedimientos 2a linea de defensa (1).docx" rel="nofollow">Seguimiento a procedimientos 2a linea de defensa</a></li>
                 </ul>
@@ -110,10 +110,10 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <h3>Procedimientos</h3>
                 <ul class="tmo_list">
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/procedimientos/Accion Correctiva y Preventiva Calidad y  SST (4).doc" rel="nofollow">Accion Correctiva y Preventiva Calidad y  SST (4)</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/procedimientos/Administración y Valoración del Riesgo.doc" rel="nofollow">Administración y Valoración del Riesgo</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/procedimientos/Administracion y Valoracion del Riesgo.doc" rel="nofollow">Administración y Valoración del Riesgo</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/procedimientos/Auditoria Interna de Calidad y SST (1).docx" rel="nofollow">Auditoria Interna de Calidad y SST (1)</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/procedimientos/Auditorias de Control Interno.doc" rel="nofollow">Auditorias de Control Interno</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/procedimientos/Evaluación y Seguimiento Control Interno.doc" rel="nofollow">Evaluación y Seguimiento Control Interno</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/procedimientos/Evaluacion y Seguimiento Control Interno.doc" rel="nofollow">Evaluación y Seguimiento Control Interno</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/procedimientos/Informes de Control Interno.doc" rel="nofollow">Informes de Control Interno</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/procedimientos/Evaluacion Idepend-Calidad  y MECI.doc" rel="nofollow">Evaluacion Idepend-Calidad  y MECI</a></li>
                 </ul>
@@ -121,15 +121,15 @@ $currentPage = $_SERVER["PHP_SELF"];
                                         
                 <h3>Otros Documentos</h3>
                 <ul class="tmo_list">
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/OTROS DOCUMENTOS/Caracterización Control y Evaluación.xls" rel="nofollow">Caracterización Control y Evaluación</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/OTROS DOCUMENTOS/Codigo de Ética Auditor Interno.docx" rel="nofollow">Codigo de Ética Auditor Interno</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/OTROS DOCUMENTOS/Caracterizacion Control y Evaluacion.xls" rel="nofollow">Caracterización Control y Evaluación</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/OTROS DOCUMENTOS/Codigo de Etica Auditor Interno.docx" rel="nofollow">Codigo de Ética Auditor Interno</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/OTROS DOCUMENTOS/Estatuto Control Interno.docx" rel="nofollow">Estatuto Control Interno</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/OTROS DOCUMENTOS/Indicador  Planes de Mejoramiento Concertados.docx" rel="nofollow">Indicador  Planes de Mejoramiento Concertados.docx</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/OTROS DOCUMENTOS/Indicador del Cumplimiento de Auditorias.docx" rel="nofollow">Indicador del Cumplimiento de Auditorias</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/OTROS DOCUMENTOS/Indicador Fomento de la Cultura de la Prevención.docx" rel="nofollow">Indicador Fomento de la Cultura de la Prevención</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/OTROS DOCUMENTOS/Indicador Fomento de la Cultura de la Prevencion.docx" rel="nofollow">Indicador Fomento de la Cultura de la Prevención</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/OTROS DOCUMENTOS/Lista de Chequeo para AutoEvaluar Procesos.docx" rel="nofollow">Lista de Chequeo para AutoEvaluar Procesos</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/OTROS DOCUMENTOS/Mapa de Riesgos Control y Evaluación.xls" rel="nofollow">Mapa de Riesgos Control y Evaluación</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/OTROS DOCUMENTOS/Matriz de Partes Interesadas  Control y Evaluación.xls" rel="nofollow">Matriz de Partes Interesadas  Control y Evaluación</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/OTROS DOCUMENTOS/Mapa de Riesgos Control y Evaluacion.xls" rel="nofollow">Mapa de Riesgos Control y Evaluación</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/OTROS DOCUMENTOS/Matriz de Partes Interesadas  Control y Evaluacion.xls" rel="nofollow">Matriz de Partes Interesadas  Control y Evaluación</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/OTROS DOCUMENTOS/Normograma.docx" rel="nofollow">Normograma</a></li>
                 </ul>            
                     
