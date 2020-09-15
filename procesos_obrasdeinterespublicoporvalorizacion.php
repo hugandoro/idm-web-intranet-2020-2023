@@ -50,7 +50,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                         <a class="nav-link" href="">Informacion Institucional</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="mapa_procesos/index_mapa.php">Calidad</a>
+                        <a class="nav-link" href="index_mapa.php">Calidad</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="">Seguridad y salud</a>
@@ -76,7 +76,7 @@ $currentPage = $_SERVER["PHP_SELF"];
         <div class="row">
             <div class="col-md-12" align="center">
                 <div style="font-size: 28pt"><b>Intranet Institucional</b></div>
-                <div style="font-size: 18pt">IDM | Instituto de Desarrollo Municipal | Dosquebradas</div>
+                <div style="font-size: 18pt">IDM | Mapa de procesos | Obras de interes por valorizacion</div>
             </div>
         </div>
 

@@ -50,7 +50,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                         <a class="nav-link" href="">Informacion Institucional</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="mapa_procesos/index_mapa.php">Calidad</a>
+                        <a class="nav-link" href="index_mapa.php">Calidad</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="">Seguridad y salud</a>
@@ -76,7 +76,7 @@ $currentPage = $_SERVER["PHP_SELF"];
         <div class="row">
             <div class="col-md-12" align="center">
                 <div style="font-size: 28pt"><b>Intranet Institucional</b></div>
-                <div style="font-size: 18pt">IDM | Instituto de Desarrollo Municipal | Dosquebradas</div>
+                <div style="font-size: 18pt">IDM | Mapa de procesos | Salud en el trabajo</div>
             </div>
         </div>
 
@@ -87,6 +87,76 @@ $currentPage = $_SERVER["PHP_SELF"];
         <div class="row">
             <div class="col-lg-12 mb-12">
  
+                <h3>Formatos</h3>
+                <ul class="tmo_list">
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/formatos/Control uso Boutiquin.xls" rel="nofollow">Control uso Boutiquin</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/formatos/Entrega Individual de EPP.xls" rel="nofollow">Entrega Individual de EPP</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/formatos/Evaluación de Simulacros SST.doc" rel="nofollow">Evaluación de Simulacros SST</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/formatos/Gestion del cambio en SST.doc" rel="nofollow">Gestion del cambio en SST</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/formatos/Inspeccion de Seguridad.xls" rel="nofollow">Inspeccion de Seguridad</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/formatos/Inspección Mensual de botiquines.doc" rel="nofollow">Inspección Mensual de botiquines</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/formatos/Inspección Mensual de Extintores.doc" rel="nofollow">Inspección Mensual de Extintores</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/formatos/Investigación de incidentes y accidentes de trabajo.xls" rel="nofollow">Investigación de incidentes y accidentes de trabajo</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/formatos/Programa de capacitacion SST.doc" rel="nofollow">Programa de capacitacion SST</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/formatos/Registro de Limpieza y Desinfección.docx" rel="nofollow">Registro de Limpieza y Desinfección</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/formatos/Formato SST Registro de temperatura Y Entrega Tapabocas.docx" rel="nofollow">Formato SST Registro de temperatura Y Entrega Tapabocas</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/formatos/Reporte de condiciones inseguras y de salud.doc" rel="nofollow">Reporte de condiciones inseguras y de salud</a></li>
+                </ul>
+
+                <h3>Instructivos</h3>
+                <ul class="tmo_list">
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/instructivos/Instructivo Identificacion de Peligros y Valoracion de riesgos SST.doc" rel="nofollow">Instructivo Identificacion de Peligros y Valoracion de riesgos SST</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/instructivos/Instructivo para Control de Requisitos legales SST.doc" rel="nofollow">Instructivo para Control de Requisitos legales SST</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/instructivos/Instructivo para Investigación de Incidentes, Accidentes de trabajo  y Enfermedad laboral.doc" rel="nofollow">Instructivo para Investigación de Incidentes, Accidentes de trabajo  y Enfermedad laboral</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/instructivos/Instructivo para la Gestión del Cambio SST.doc" rel="nofollow">Instructivo para la Gestión del Cambio SST</a></li>
+                </ul>
+                                        
+                <h3>Otros Documentos</h3>
+                <ul class="tmo_list">
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Diagnostico SG-SST IDM  OCT 2015.xls" rel="nofollow">Diagnostico SG-SST IDM  OCT 2015</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Evaluación Inicial  SG-SST  2015.xls" rel="nofollow">Evaluación Inicial  SG-SST  2015</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Hoja de seguridad Hipoclorito de Sodio.docx" rel="nofollow">Hoja de seguridad Hipoclorito de Sodio</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Indicadores estructura SST.doc" rel="nofollow">Indicadores estructura SST</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Indicadores proceso y resultado SST.xls" rel="nofollow">Indicadores proceso y resultado SST</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Matriz Legal SST.xls" rel="nofollow">Matriz Legal SST</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Reglamento de Higiene y seguridad.doc" rel="nofollow">Reglamento de Higiene y seguridad</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Reglamento SST Contratistas.doc" rel="nofollow">Reglamento SST Contratistas</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Rendicion de cuentas SST 2017.pptx" rel="nofollow">Rendicion de cuentas SST 2017</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Roles y Responsabilidades SST.doc" rel="nofollow">Roles y Responsabilidades SST</a></li>
+                </ul>            
+                    
+                <h3>Plan de Emergencias</h3>
+                <ul class="tmo_list">
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/Plan de Emergencias/Plan de Emergencias IDM.doc" rel="nofollow">Plan de Emergencias IDM</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/Plan de Emergencias/Ruta de Evacuación IDM.pdf" rel="nofollow">Ruta de Evacuación IDM</a></li>
+                </ul>  
+
+                <h3>PVE osteomuscular 2016-2017</h3>
+                <ul class="tmo_list">
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/PVE osteomuscular 2016-2017/Análisis ausentismo 2016.xls" rel="nofollow">Análisis ausentismo 2016</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/PVE osteomuscular 2016-2017/Análisis demográfico 2016.xls" rel="nofollow">Análisis demográfico 2016</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/PVE osteomuscular 2016-2017/Cronograma de Actividades 2017.xls" rel="nofollow">Cronograma de Actividades 2017</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/PVE osteomuscular 2016-2017/Diagnóstico de condiciones de salud y de trabajo 2016.pdf" rel="nofollow">Diagnóstico de condiciones de salud y de trabajo 2016</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/PVE osteomuscular 2016-2017/Diagnostico de Salud 2016.xlsx" rel="nofollow">Diagnostico de Salud 2016</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/PVE osteomuscular 2016-2017/Encuesta Riesgo Osteomuscular 2016.pdf" rel="nofollow">Encuesta Riesgo Osteomuscular 2016</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/PVE osteomuscular 2016-2017/Línea basal Riesgo Osteomuscular 2016.xlsx" rel="nofollow">Línea basal Riesgo Osteomuscular 2016</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/PVE osteomuscular 2016-2017/Matriz Legal Riesgo Osteomuscular 2016.xlsx" rel="nofollow">Matriz Legal Riesgo Osteomuscular 2016</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/PVE osteomuscular 2016-2017/PVE Osteomuscular 2016-2017.pdf" rel="nofollow">PVE Osteomuscular 2016-2017</a></li>
+                </ul>
+
+                <h3>PVE Psicosocial 2016-2017</h3>
+                <ul class="tmo_list">
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/PVE Psicosocial 2016-2017/Analisis DxRP IDM 2016.pdf" rel="nofollow">Analisis DxRP IDM 2016</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/PVE Psicosocial 2016-2017/Consulta Sociodemografica DxRP IDM 2016.xlsm" rel="nofollow">Consulta Sociodemografica DxRP IDM 2016</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/PVE Psicosocial 2016-2017/Matriz de Resultados DxRP IDM 2016.xlsx" rel="nofollow">Matriz de Resultados DxRP IDM 2016</a></li>
+                </ul>
+
+                <h3>Formulario Para Ausentismo Laboral</h3>
+                <div id="qrcode">
+                    <img src="https://www.codigos-qr.com/qr/php/qr_img.php?d=https%3A%2F%2Fforms.gle%2FkP1wDFqAmS6B3HDQ7&s=6&e=m" alt="Generador de Códigos QR Codes"/>
+                    <br/>
+                </div>
+
             </div>
         </div>
 
