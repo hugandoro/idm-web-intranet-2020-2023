@@ -50,7 +50,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                         <a class="nav-link" href="">Informacion Institucional</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="mapa_procesos/index_mapa.php">Calidad</a>
+                        <a class="nav-link" href="index_mapa.php">Calidad</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="">Seguridad y salud</a>
@@ -76,7 +76,7 @@ $currentPage = $_SERVER["PHP_SELF"];
         <div class="row">
             <div class="col-md-12" align="center">
                 <div style="font-size: 28pt"><b>Intranet Institucional</b></div>
-                <div style="font-size: 18pt">IDM | Instituto de Desarrollo Municipal | Dosquebradas</div>
+                <div style="font-size: 18pt">IDM | Mapa de procesos | Gestion juridica</div>
             </div>
         </div>
 
@@ -87,6 +87,57 @@ $currentPage = $_SERVER["PHP_SELF"];
         <div class="row">
             <div class="col-lg-12 mb-12">
  
+                <h3>Formatos</h3>
+                <ul class="tmo_list">
+                <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Acta de Evaluación Técnica, Jurídica y Financiera.doc" rel="nofollow">Acta de Evaluación Técnica, Jurídica y Financiera</a></li>
+                <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Acta de inicio  de obra.docx" rel="nofollow">Acta de inicio  de obra</a></li>
+                <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Acta de recibo parcial y balance presupuestal.xls" rel="nofollow">Acta de recibo parcial y balance presupuestal</a></li>
+                <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Acta de Reunión requerimiento.docx" rel="nofollow">Acta de Reunión requerimiento</a></li>
+                <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Acta de terminacion de contrato.xls" rel="nofollow">Acta de terminacion de contrato</a></li>
+                <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Acta SeguimientoContrato.doc" rel="nofollow">Acta SeguimientoContrato</a></li>
+                <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/ACTAS IDM 2019 Version 3.1.xlsx" rel="nofollow">ACTAS IDM 2019 Version 3.1</a></li>
+                <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Asistencia a Visita de Obra.doc" rel="nofollow">Asistencia a Visita de Obra</a></li>
+                <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Asistencia Audiencia Pública.doc" rel="nofollow">Asistencia Audiencia Pública</a></li>
+                <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Caratula Procesos Jurídicos.doc" rel="nofollow">Caratula Procesos Jurídicos</a></li>
+                <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Certificación de Visita de Obra.doc" rel="nofollow">Certificación de Visita de Obra</a></li>
+                <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Evaluación Economica.docx" rel="nofollow">Evaluación Economica</a></li>
+                <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/FORMATOS OBRAS 2019 versión 3.xlsx" rel="nofollow">FORMATOS OBRAS 2019 versión 3</a></li>
+                <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Lista de Chequeo Minima cuantia contratacion.doc" rel="nofollow">lista de Chequeo Minima cuantia contratacion</a></li>
+                <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Lista de Chequeo otras Modaliddaes Contratacion.doc" rel="nofollow">Lista de Chequeo otras Modaliddaes Contratacion</a></li>
+                <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Informe Ejecutivo Mensual de Interventoría.xls" rel="nofollow">Informe Ejecutivo Mensual de Interventoría</a></li>
+                <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Lista de Chequeo Contratación Directa vr 2.doc" rel="nofollow">Lista de Chequeo Contratación Directa vr 2</a></li>
+                <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Lista de chequeo para iniciación del contrato.doc" rel="nofollow">Lista de chequeo para iniciación del contrato</a></li>
+                <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Registro Entrega de Propuesta.doc" rel="nofollow">Registro Entrega de Propuesta</a></li>
+                <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Solicitud de Adicion y o Prorroga.xls" rel="nofollow">Solicitud de Adicion y o Prorroga</a></li>
+                </ul>
+
+                <h3>Manuales</h3>
+                <ul class="tmo_list">
+                <li><a href="mapa_procesos/mapa/gestionjuridica/manuales/MANUAL DE CONTRATACION IDM 2014.pdf" rel="nofollow">MANUAL DE CONTRATACION IDM 2014</a></li>
+                <li><a href="mapa_procesos/mapa/gestionjuridica/manuales/RESOLUCION 213 MANUAL INTERVENTORIA Y SUPERVISION.pdf" rel="nofollow">RESOLUCION 213 MANUAL INTERVENTORIA Y SUPERVISION</a></li>
+                </ul>
+                
+                <h3>Procedimientos</h3>
+                <ul class="tmo_list">
+                <li><a href="mapa_procesos/mapa/gestionjuridica/procedimientos/Acción de Tutela-.doc" rel="nofollow">Acción de Tutela</a></li>
+                <li><a href="mapa_procesos/mapa/gestionjuridica/procedimientos/Derechos de Petición.doc" rel="nofollow">Derechos de Petición</a></li>
+                <li><a href="mapa_procesos/mapa/gestionjuridica/procedimientos/Para Proceso Ordinario ( Control Disciplinario).doc" rel="nofollow">Para Proceso Ordinario ( Control Disciplinario)</a></li>
+                <li><a href="mapa_procesos/mapa/gestionjuridica/procedimientos/Procedimiento Contractual para las distintas Modalidades de selección vr 2.doc" rel="nofollow">Procedimiento Contractual para las distintas Modalidades de selección vr 2</a></li>
+                <li><a href="mapa_procesos/mapa/gestionjuridica/procedimientos/Procedimiento Recursos de Reposición.doc" rel="nofollow">Procedimiento Recursos de Reposición</a></li>
+                <li><a href="mapa_procesos/mapa/gestionjuridica/procedimientos/Proceso para Recursos ( Cotrol Disiciplinario).doc" rel="nofollow">Proceso para Recursos ( Cotrol Disiciplinario)</a></li>
+                <li><a href="mapa_procesos/mapa/gestionjuridica/procedimientos/Proceso Verbal ( Control Disciplinario).doc" rel="nofollow">Proceso Verbal ( Control Disciplinario)</a></li>
+                </ul>
+                    
+                    
+                <h3>Otros Documentos</h3>
+                <ul class="tmo_list">
+                <li><a href="mapa_procesos/mapa/gestionjuridica/otros documentos/Caracterización.xls" rel="nofollow">Caracterización</a></li>
+                <li><a href="mapa_procesos/mapa/gestionjuridica/otros documentos/Hoja de Vida Indicadores contratacion.doc" rel="nofollow">Hoja de Vida Indicadores contratacion</a></li>
+                <li><a href="mapa_procesos/mapa/gestionjuridica/otros documentos/Mapa de Riesgos Gestión Juridica.xls" rel="nofollow">Mapa de Riesgos Gestión Juridica</a></li>
+                <li><a href="mapa_procesos/mapa/gestionjuridica/otros documentos/Matriz de interacción Partes Interesadas.xls" rel="nofollow">Matriz de interacción Partes Interesadas</a></li>
+                <li><a href="mapa_procesos/mapa/gestionjuridica/otros documentos/Normograma.doc" rel="nofollow">Normograma</a></li>
+                </ul>      
+
             </div>
         </div>
 
