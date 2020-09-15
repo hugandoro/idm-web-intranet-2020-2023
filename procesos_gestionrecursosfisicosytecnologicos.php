@@ -50,7 +50,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                         <a class="nav-link" href="">Informacion Institucional</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="mapa_procesos/index_mapa.php">Calidad</a>
+                        <a class="nav-link" href="index_mapa.php">Calidad</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="">Seguridad y salud</a>
@@ -76,7 +76,7 @@ $currentPage = $_SERVER["PHP_SELF"];
         <div class="row">
             <div class="col-md-12" align="center">
                 <div style="font-size: 28pt"><b>Intranet Institucional</b></div>
-                <div style="font-size: 18pt">IDM | Instituto de Desarrollo Municipal | Dosquebradas</div>
+                <div style="font-size: 18pt">IDM | Mapa de procesos | Gestion de recursos fisicos y tecnologicos</div>
             </div>
         </div>
 
@@ -87,6 +87,55 @@ $currentPage = $_SERVER["PHP_SELF"];
         <div class="row">
             <div class="col-lg-12 mb-12">
  
+                <h3>Formatos</h3>
+                <ul class="tmo_list">
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Actualización de documentos.doc" rel="nofollow">Actualización de documentos</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Carátula Legajos  de Archivo.doc" rel="nofollow">Carátula Legajos  de Archivo</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Depreciaciones.xls" rel="nofollow">Depreciaciones</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Entrega de Papelería V2.xlsx" rel="nofollow">Entrega de Papelería V2</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Entrega de insumos para identificación.doc" rel="nofollow">Entrega de insumos para identificación</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Ficha de Inventario.xlsx" rel="nofollow">Ficha de Inventario</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Ficha de Publicación WEB.docx" rel="nofollow">Ficha de Publicación WEB</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/FORMATO DE WORD.docx" rel="nofollow">FORMATO DE WORD</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Hoja de Control.docx" rel="nofollow">Hoja de Control</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Inventario Manual.docx" rel="nofollow">Inventario Manual</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Inventario Unico Documental FIUD.doc" rel="nofollow">Inventario Unico Documental FIUD</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Prestamo Logistica.doc" rel="nofollow">Prestamo Logistica</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Solicitud Documentos- Archivo.docx" rel="nofollow">Solicitud Documentos- Archivo</a></li>
+                </ul>
+
+                <h3>Manuales</h3>
+                <ul class="tmo_list">
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/manuales/RES 283  MANUAL DE ARCHIVO.pdf" rel="nofollow">RES 283  MANUAL DE ARCHIVO</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/manuales/RESOLUCION 263-14  MANUAL DE SEGURIDAD.docx" rel="nofollow">RESOLUCION 263-14  MANUAL DE SEGURIDAD</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/manuales/RESOLUCIÓN 051-2020 PGD.pdf" rel="nofollow">RESOLUCIÓN 051-2020 PGD</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/manuales/RESOLUCIÓN 052-2020 PGD.pdf" rel="nofollow">RESOLUCIÓN 052-2020 PGD</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/manuales/PROGRAMA DE GESTION DOCUMENTAL DEL IDM.pdf" rel="nofollow">PROGRAMA DE GESTION DOCUMENTAL DEL IDM</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/manuales/POLITICA DE GESTION DOCUMENTAL.pdf" rel="nofollow">POLITICA DE GESTION DOCUMENTAL</a></li>
+                </ul>
+
+                <h3>Procedimientos</h3>
+                <ul class="tmo_list">
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/procedimientos/Administracion de Recursos Tecnologicos V2.pdf" rel="nofollow">Administracion de Recursos Tecnologicos V2</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/procedimientos/Atencion en Ventanilla Unica.doc" rel="nofollow">Atencion en Ventanilla Unica</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/procedimientos/Control de la Información Documentada.doc" rel="nofollow">Control de la Información Documentada</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/procedimientos/Registro de Inventarios.doc" rel="nofollow">Registro de Inventarios</a></li>
+                </ul>
+                                        
+                <h3>Otros Documentos</h3>
+                <ul class="tmo_list">
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Caracterización Rec Fisicos y tecnologicos.xls" rel="nofollow">Caracterización Rec Fisicos y tecnologicos</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Indicador Hoja de Vida  Inventarios.docx" rel="nofollow">Indicador Hoja de Vida  Inventarios</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Indicador Mantenimientos Preventivos por Equipo.docx" rel="nofollow">Indicador Mantenimientos Preventivos por Equipo</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Mapa de Riesgos REc Fisicos y Tec.xls" rel="nofollow">Mapa de Riesgos REc Fisicos y Tec</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Matriz Comunicación Interna.doc" rel="nofollow">Matriz Comunicación Interna</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Matriz de partes interesadas REc Fis y Tec.xls" rel="nofollow">Matriz de partes interesadas REc Fis y Tec</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Normograma Rec Fis y Tec.docx" rel="nofollow">Normograma Rec Fis y Tec</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/T.R.Documental.doc" rel="nofollow">T.R.Documental</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Tablas de Valoración documental.doc" rel="nofollow">Tablas de Valoración documental</a></li>
+                </ul>            
+
+
             </div>
         </div>
 
