@@ -124,20 +124,20 @@ $currentPage = $_SERVER["PHP_SELF"];
 
                 <h3>Otros Documentos</h3>
                 <ul class="tmo_list">
-                <li><a href="mapa_procesos/Mapa/direccionamientoyplaneacion/otrosdocumentos/Caracterizacion Direccionamiento y Planeación.xls" rel="nofollow">Caracterizacion Direccionamiento y Planeación</a></li>
-                <li><a href="mapa_procesos/Mapa/direccionamientoyplaneacion/otrosdocumentos/indicador cumplimiento plan de accion.doc" rel="nofollow">indicador cumplimiento plan de accion</a></li>
-                <li><a href="mapa_procesos/Mapa/direccionamientoyplaneacion/otrosdocumentos/indicador sanciones.doc" rel="nofollow">indicador sanciones</a></li>
-                <li><a href="mapa_procesos/Mapa/direccionamientoyplaneacion/otrosdocumentos/indicador satisfaccion del cliente.doc" rel="nofollow">indicador satisfaccion del cliente</a></li>
-                <li><a href="mapa_procesos/Mapa/direccionamientoyplaneacion/otrosdocumentos/Mapa de Riegos de Corrupción.xls" rel="nofollow">Mapa de Riegos de Corrupción</a></li>
-                <li><a href="mapa_procesos/Mapa/direccionamientoyplaneacion/otrosdocumentos/Mapa de riesgos Direccionamiento y planeacion.xlsx" rel="nofollow">Mapa de riesgos Direccionamiento y planeacion</a></li>
-                <li><a href="mapa_procesos/Mapa/direccionamientoyplaneacion/otrosdocumentos/Matriz de interacción Partes Interesadas.xls" rel="nofollow">Matriz de interacción Partes Interesadas</a></li>
-                <li><a href="mapa_procesos/Mapa/direccionamientoyplaneacion/otrosdocumentos/Matriz Requisitos VS Procesos IDM.doc" rel="nofollow">Matriz Requisitos VS Procesos IDM</a></li>
-                <li><a href="mapa_procesos/Mapa/direccionamientoyplaneacion/otrosdocumentos/Misión.doc" rel="nofollow">Misión</a></li>
-                <li><a href="mapa_procesos/Mapa/direccionamientoyplaneacion/otrosdocumentos/Normograma Direcciónamiento y Planeación.doc" rel="nofollow">Normograma Direcciónamiento y Planeación</a></li>
-                <li><a href="mapa_procesos/Mapa/direccionamientoyplaneacion/otrosdocumentos/Objetivos del sistema de Gestión Integral.docx" rel="nofollow">Objetivos del sistema de Gestión Integral</a></li>
-                <li><a href="mapa_procesos/Mapa/direccionamientoyplaneacion/otrosdocumentos/Politica de Calidad, Seguridad y salud en el Trabajo.doc" rel="nofollow">Politica de Calidad, Seguridad y salud en el Trabajo</a></li>
-                <li><a href="mapa_procesos/Mapa/direccionamientoyplaneacion/otrosdocumentos/Politica de Gestion del Riesgo.docx" rel="nofollow">Politica de Gestion del Riesgo</a></li>
-                <li><a href="mapa_procesos/Mapa/direccionamientoyplaneacion/otrosdocumentos/Visión.doc" rel="nofollow">Visión</a></li>
+                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/Caracterizacion Direccionamiento y Planeación.xls" rel="nofollow">Caracterizacion Direccionamiento y Planeación</a></li>
+                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/indicador cumplimiento plan de accion.doc" rel="nofollow">indicador cumplimiento plan de accion</a></li>
+                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/indicador sanciones.doc" rel="nofollow">indicador sanciones</a></li>
+                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/indicador satisfaccion del cliente.doc" rel="nofollow">indicador satisfaccion del cliente</a></li>
+                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/Mapa de Riegos de Corrupción.xls" rel="nofollow">Mapa de Riegos de Corrupción</a></li>
+                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/Mapa de riesgos Direccionamiento y planeacion.xlsx" rel="nofollow">Mapa de riesgos Direccionamiento y planeacion</a></li>
+                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/Matriz de interacción Partes Interesadas.xls" rel="nofollow">Matriz de interacción Partes Interesadas</a></li>
+                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/Matriz Requisitos VS Procesos IDM.doc" rel="nofollow">Matriz Requisitos VS Procesos IDM</a></li>
+                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/Misión.doc" rel="nofollow">Misión</a></li>
+                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/Normograma Direcciónamiento y Planeación.doc" rel="nofollow">Normograma Direcciónamiento y Planeación</a></li>
+                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/Objetivos del sistema de Gestión Integral.docx" rel="nofollow">Objetivos del sistema de Gestión Integral</a></li>
+                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/Politica de Calidad, Seguridad y salud en el Trabajo.doc" rel="nofollow">Politica de Calidad, Seguridad y salud en el Trabajo</a></li>
+                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/Politica de Gestion del Riesgo.docx" rel="nofollow">Politica de Gestion del Riesgo</a></li>
+                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/Visión.doc" rel="nofollow">Visión</a></li>
                 </ul>
 
             </div>
