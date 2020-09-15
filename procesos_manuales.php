@@ -89,67 +89,67 @@ $currentPage = $_SERVER["PHP_SELF"];
  
                 <h3>Procesos de Control y Evaluación</h3>
                 <ul class="tmo_list">
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/PROCES CONTROL Y EVALUACION/Accion Correctiva y Preventiva Calidad y  SST (4).doc" rel="nofollow">Accion Correctiva y Preventiva Calidad y  SST (4)</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/PROCES CONTROL Y EVALUACION/Administración y Valoración del Riesgo.doc" rel="nofollow">Administración y Valoración del Riesgo</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/PROCES CONTROL Y EVALUACION/Auditoria Interna de Calidad y SST (1).docx" rel="nofollow">Auditoria Interna de Calidad y SST (1)</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/PROCES CONTROL Y EVALUACION/Auditorias de Control Interno.doc" rel="nofollow">Auditorias de Control Interno</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/PROCES CONTROL Y EVALUACION/Evaluación y Seguimiento Control Interno.doc" rel="nofollow">Evaluación y Seguimiento Control Interno</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/PROCES CONTROL Y EVALUACION/Informes de Control Interno.doc" rel="nofollow">Informes de Control Interno</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/procesos_control_evaluacion/Accion Correctiva y Preventiva Calidad y  SST (4).doc" rel="nofollow">Accion Correctiva y Preventiva Calidad y  SST (4)</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/procesos_control_evaluacion/Administración y Valoración del Riesgo.doc" rel="nofollow">Administración y Valoración del Riesgo</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/procesos_control_evaluacion/Auditoria Interna de Calidad y SST (1).docx" rel="nofollow">Auditoria Interna de Calidad y SST (1)</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/procesos_control_evaluacion/Auditorias de Control Interno.doc" rel="nofollow">Auditorias de Control Interno</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/procesos_control_evaluacion/Evaluación y Seguimiento Control Interno.doc" rel="nofollow">Evaluación y Seguimiento Control Interno</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/procesos_control_evaluacion/Informes de Control Interno.doc" rel="nofollow">Informes de Control Interno</a></li>
                 </ul>
 
                 <h3>Procesos de Direccionamiento y Planeación</h3>
                 <ul class="tmo_list">
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/PROCES. DIRECCIONAMIENTO  Y PLANEACIÓN/Atención  la Comunidad.doc" rel="nofollow">Atención  la Comunidad</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/PROCES. DIRECCIONAMIENTO  Y PLANEACIÓN/Elaboración del plan operativo anual de inversión.docx" rel="nofollow">Elaboración del plan operativo anual de inversión</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/PROCES. DIRECCIONAMIENTO  Y PLANEACIÓN/Elaboración Plan de Acción.docx" rel="nofollow">Elaboración Plan de Acción</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/PROCES. DIRECCIONAMIENTO  Y PLANEACIÓN/Elaboración Proyectos de Inversión.docx" rel="nofollow">Elaboración Proyectos de Inversión</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/PROCES. DIRECCIONAMIENTO  Y PLANEACIÓN/Medir la  Satisfacción de la Comunidad.doc" rel="nofollow">Medir la  Satisfacción de la Comunidad</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/PROCES. DIRECCIONAMIENTO  Y PLANEACIÓN/Revisión por la Direccion IDM.doc" rel="nofollow">Revisión por la Direccion IDM</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/PROCES. DIRECCIONAMIENTO  Y PLANEACIÓN/Tratamiento de Quejas, Reclamos y Sugerencias-o.k.doc" rel="nofollow">Tratamiento de Quejas, Reclamos y Sugerencias-o.k</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/procesos_direccionamiento/Atención  la Comunidad.doc" rel="nofollow">Atención  la Comunidad</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/procesos_direccionamiento/Elaboración del plan operativo anual de inversión.docx" rel="nofollow">Elaboración del plan operativo anual de inversión</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/procesos_direccionamiento/Elaboración Plan de Acción.docx" rel="nofollow">Elaboración Plan de Acción</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/procesos_direccionamiento/Elaboración Proyectos de Inversión.docx" rel="nofollow">Elaboración Proyectos de Inversión</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/procesos_direccionamiento/Medir la  Satisfacción de la Comunidad.doc" rel="nofollow">Medir la  Satisfacción de la Comunidad</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/procesos_direccionamiento/Revisión por la Direccion IDM.doc" rel="nofollow">Revisión por la Direccion IDM</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/procesos_direccionamiento/Tratamiento de Quejas, Reclamos y Sugerencias-o.k.doc" rel="nofollow">Tratamiento de Quejas, Reclamos y Sugerencias-o.k</a></li>
                 </ul> 
                                     
                 <h3>Procesos de Gestión del Recurso Humano</h3>
                 <ul class="tmo_list">
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/PROCES. GESTION DEL RECURSO HUMANO/Administracion de Personal.doc" rel="nofollow">Administracion de Personal</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/PROCES. GESTION DEL RECURSO HUMANO/Bienestar Social e Incentivos.doc" rel="nofollow">Bienestar Social e Incentivos</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/PROCES. GESTION DEL RECURSO HUMANO/Desarrollo de Competencias Laborales.doc" rel="nofollow">Desarrollo de Competencias Laborales</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/PROCES. GESTION DEL RECURSO HUMANO/Planificación y Evaluación de Desempeño ( 1).doc" rel="nofollow">Planificación y Evaluación de Desempeño ( 1)</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/procesos_humano/Administracion de Personal.doc" rel="nofollow">Administracion de Personal</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/procesos_humano/Bienestar Social e Incentivos.doc" rel="nofollow">Bienestar Social e Incentivos</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/procesos_humano/Desarrollo de Competencias Laborales.doc" rel="nofollow">Desarrollo de Competencias Laborales</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/procesos_humano/Planificación y Evaluación de Desempeño ( 1).doc" rel="nofollow">Planificación y Evaluación de Desempeño ( 1)</a></li>
                 </ul>            
                     
                 <h3>Procesos Gestión Financiera</h3>
                 <ul class="tmo_list">
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/PROCES. GESTION FINANCIERA/Elaboración, Ejecución y Modificación del Presupuesto.doc" rel="nofollow">Elaboración, Ejecución y Modificación del Presupuesto</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/PROCES. GESTION FINANCIERA/Pagos a Proveedores.doc" rel="nofollow">Pagos a Proveedores</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/PROCES. GESTION FINANCIERA/Recaudos.doc" rel="nofollow">Recaudos</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/PROCES. GESTION FINANCIERA/Registro y Actualización Contable.doc" rel="nofollow">Registro y Actualización Contable</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/procesos_financiera/Elaboración, Ejecución y Modificación del Presupuesto.doc" rel="nofollow">Elaboración, Ejecución y Modificación del Presupuesto</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/procesos_financiera/Pagos a Proveedores.doc" rel="nofollow">Pagos a Proveedores</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/procesos_financiera/Recaudos.doc" rel="nofollow">Recaudos</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/procesos_financiera/Registro y Actualización Contable.doc" rel="nofollow">Registro y Actualización Contable</a></li>
                 </ul>  
 
                 <h3>Procesos Gestión Jurídica</h3>
                 <ul class="tmo_list">
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/PROCES. GESTION JURIDICA/Acción de Tutela-.doc" rel="nofollow">Acción de Tutela</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/PROCES. GESTION JURIDICA/Derechos de Petición.doc" rel="nofollow">Derechos de Petición</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/PROCES. GESTION JURIDICA/Para Proceso Ordinario ( Control Disciplinario).doc" rel="nofollow">Para Proceso Ordinario ( Control Disciplinario)</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/PROCES. GESTION JURIDICA/Procedimiento Contractual para las distintas Modalidades de selección.doc" rel="nofollow">Procedimiento Contractual para las distintas Modalidades de selección</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/PROCES. GESTION JURIDICA/Procedimiento Recursos de Reposición.doc" rel="nofollow">Procedimiento Recursos de Reposición</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/PROCES. GESTION JURIDICA/Proceso para Recursos ( Cotrol Disiciplinario).doc" rel="nofollow">Proceso para Recursos ( Cotrol Disiciplinario)</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/PROCES. GESTION JURIDICA/Proceso Verbal ( Control Disciplinario).doc" rel="nofollow">Proceso Verbal ( Control Disciplinario)</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/procesos_juridica/Acción de Tutela-.doc" rel="nofollow">Acción de Tutela</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/procesos_juridica/Derechos de Petición.doc" rel="nofollow">Derechos de Petición</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/procesos_juridica/Para Proceso Ordinario ( Control Disciplinario).doc" rel="nofollow">Para Proceso Ordinario ( Control Disciplinario)</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/procesos_juridica/Procedimiento Contractual para las distintas Modalidades de selección.doc" rel="nofollow">Procedimiento Contractual para las distintas Modalidades de selección</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/procesos_juridica/Procedimiento Recursos de Reposición.doc" rel="nofollow">Procedimiento Recursos de Reposición</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/procesos_juridica/Proceso para Recursos ( Cotrol Disiciplinario).doc" rel="nofollow">Proceso para Recursos ( Cotrol Disiciplinario)</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/procesos_juridica/Proceso Verbal ( Control Disciplinario).doc" rel="nofollow">Proceso Verbal ( Control Disciplinario)</a></li>
                 </ul>
 
                 <h3>Procesos de Vivienda, Urbanismo y Obras de Interés Público</h3>
                 <ul class="tmo_list">
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/PROCES. VIVIENDA, URBANISMO Y OBRAS DE INTERES PUBLICO/Apoyo Social.doc" rel="nofollow">Apoyo Social</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/PROCES. VIVIENDA, URBANISMO Y OBRAS DE INTERES PUBLICO/Cerramiento de Lotes.doc" rel="nofollow">Cerramiento de Lotes</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/PROCES. VIVIENDA, URBANISMO Y OBRAS DE INTERES PUBLICO/Control de salidas no Conformes.doc" rel="nofollow">Control de salidas no Conformes</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/PROCES. VIVIENDA, URBANISMO Y OBRAS DE INTERES PUBLICO/Diseño y Desarrollo.doc" rel="nofollow">Diseño y Desarrollo</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/PROCES. VIVIENDA, URBANISMO Y OBRAS DE INTERES PUBLICO/Organización e Impulso a la Vivienda.doc" rel="nofollow">Organización e Impulso a la Vivienda</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/procesos_vivienda_urbanismo/Apoyo Social.doc" rel="nofollow">Apoyo Social</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/procesos_vivienda_urbanismo/Cerramiento de Lotes.doc" rel="nofollow">Cerramiento de Lotes</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/procesos_vivienda_urbanismo/Control de salidas no Conformes.doc" rel="nofollow">Control de salidas no Conformes</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/procesos_vivienda_urbanismo/Diseño y Desarrollo.doc" rel="nofollow">Diseño y Desarrollo</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/procesos_vivienda_urbanismo/Organización e Impulso a la Vivienda.doc" rel="nofollow">Organización e Impulso a la Vivienda</a></li>
                 </ul>  
 
                 <h3>Procesos de Gestión de Recursos Físicos y Tecnológicos</h3>
                 <ul class="tmo_list">
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/PROCES.GESTION DE RECURSOS FISICOS Y TECNOLOGICOS/Administración de Recursos Técnologicos.doc" rel="nofollow">Administración de Recursos Técnologicos</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/PROCES.GESTION DE RECURSOS FISICOS Y TECNOLOGICOS/Control de la Gestión Documentada del Sistema Integral de Gestión.doc" rel="nofollow">Control de la Gestión Documentada del Sistema Integral de Gestión</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/PROCES.GESTION DE RECURSOS FISICOS Y TECNOLOGICOS/Registro de Inventarios.doc" rel="nofollow">Registro de Inventarios</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/PROCES.GESTION DE RECURSOS FISICOS Y TECNOLOGICOS/Ventanilla Unica V1 (1).doc" rel="nofollow">Ventanilla Unica V1 (1)</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/procesos_recursos_fisicos_tic/Administración de Recursos Técnologicos.doc" rel="nofollow">Administración de Recursos Técnologicos</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/procesos_recursos_fisicos_tic/Control de la Gestión Documentada del Sistema Integral de Gestión.doc" rel="nofollow">Control de la Gestión Documentada del Sistema Integral de Gestión</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/procesos_recursos_fisicos_tic/Registro de Inventarios.doc" rel="nofollow">Registro de Inventarios</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/manualdeprocesosyprocedimientos/procesos_recursos_fisicos_tic/Ventanilla Unica V1 (1).doc" rel="nofollow">Ventanilla Unica V1 (1)</a></li>
                 </ul>
 
             </div>
