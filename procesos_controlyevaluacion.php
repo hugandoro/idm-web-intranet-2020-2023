@@ -121,16 +121,16 @@ $currentPage = $_SERVER["PHP_SELF"];
                                         
                 <h3>Otros Documentos</h3>
                 <ul class="tmo_list">
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/OTROS DOCUMENTOS/Caracterizacion Control y Evaluacion.xls" rel="nofollow">Caracterización Control y Evaluación</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/OTROS DOCUMENTOS/Codigo de Etica Auditor Interno.docx" rel="nofollow">Codigo de Ética Auditor Interno</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/OTROS DOCUMENTOS/Estatuto Control Interno.docx" rel="nofollow">Estatuto Control Interno</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/OTROS DOCUMENTOS/Indicador  Planes de Mejoramiento Concertados.docx" rel="nofollow">Indicador  Planes de Mejoramiento Concertados.docx</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/OTROS DOCUMENTOS/Indicador del Cumplimiento de Auditorias.docx" rel="nofollow">Indicador del Cumplimiento de Auditorias</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/OTROS DOCUMENTOS/Indicador Fomento de la Cultura de la Prevencion.docx" rel="nofollow">Indicador Fomento de la Cultura de la Prevención</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/OTROS DOCUMENTOS/Lista de Chequeo para AutoEvaluar Procesos.docx" rel="nofollow">Lista de Chequeo para AutoEvaluar Procesos</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/OTROS DOCUMENTOS/Mapa de Riesgos Control y Evaluacion.xls" rel="nofollow">Mapa de Riesgos Control y Evaluación</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/OTROS DOCUMENTOS/Matriz de Partes Interesadas  Control y Evaluacion.xls" rel="nofollow">Matriz de Partes Interesadas  Control y Evaluación</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/OTROS DOCUMENTOS/Normograma.docx" rel="nofollow">Normograma</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/otros documentos/Caracterizacion Control y Evaluacion.xls" rel="nofollow">Caracterización Control y Evaluación</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/otros documentos/Codigo de Etica Auditor Interno.docx" rel="nofollow">Codigo de Ética Auditor Interno</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/otros documentos/Estatuto Control Interno.docx" rel="nofollow">Estatuto Control Interno</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/otros documentos/Indicador  Planes de Mejoramiento Concertados.docx" rel="nofollow">Indicador  Planes de Mejoramiento Concertados.docx</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/otros documentos/Indicador del Cumplimiento de Auditorias.docx" rel="nofollow">Indicador del Cumplimiento de Auditorias</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/otros documentos/Indicador Fomento de la Cultura de la Prevencion.docx" rel="nofollow">Indicador Fomento de la Cultura de la Prevención</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/otros documentos/Lista de Chequeo para AutoEvaluar Procesos.docx" rel="nofollow">Lista de Chequeo para AutoEvaluar Procesos</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/otros documentos/Mapa de Riesgos Control y Evaluacion.xls" rel="nofollow">Mapa de Riesgos Control y Evaluación</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/otros documentos/Matriz de Partes Interesadas  Control y Evaluacion.xls" rel="nofollow">Matriz de Partes Interesadas  Control y Evaluación</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/otros documentos/Normograma.docx" rel="nofollow">Normograma</a></li>
                 </ul>            
                     
                 <a href="procesos_manuales.php" rel="nofollow"><h3>Manual de Procesos y Procedimientos</h3></a>
