@@ -65,7 +65,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                         <a class="nav-link" href="">Area social</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="">Directorio</a>
+                        <a class="nav-link" href="https://www.idm.gov.co/4pl1c4t1v0s/DIRECTORIO/index.php">Directorio</a>
                     </li>
                 </ul>
             </div>
