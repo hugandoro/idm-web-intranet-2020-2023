@@ -90,6 +90,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <h3>Formatos</h3>
                 <ul class="tmo_list">
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Acta de Compromiso.docx" rel="nofollow">Acta de Compromiso</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Acta de Entrega de Cargo V1.docx" rel="nofollow">Acta de Entrega de Cargo (Nuevo)</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Asistencia a Reuniones y Visitas Externas.doc" rel="nofollow">Asistencia a Reuniones y Visitas Externas</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Asistencia Reuniones y Actividades.docx" rel="nofollow">Asistencia Reuniones y Actividades</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Constancia de Inducción Contratistas.doc" rel="nofollow">Constancia de Inducción Contratistas</a></li>
