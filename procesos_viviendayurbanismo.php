@@ -106,7 +106,6 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Evaluación de Postulaciones mejoramiento  de vivienda.docx" rel="nofollow">Evaluación de Postulaciones mejoramiento  de vivienda</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Lista de Chequeo (SST).xlsx" rel="nofollow">Lista de Chequeo (SST)</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Presupuesto Mejoramiento de Vivienda.xls" rel="nofollow">Presupuesto Mejoramiento de Vivienda</a></li>
-                <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Programación Semanal de Transporte Definitivo.docx" rel="nofollow">Programación Semanal de Transporte Definitivo</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Programación Semanal de Transporte V2.docx" rel="nofollow">Programación Semanal de Transporte V2</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Queja de Lote sin Cerramiento.docx" rel="nofollow">Queja de Lote sin Cerramiento</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Recibo de Predio por Proceso de Reubicación.docx" rel="nofollow">Recibo de Predio por Proceso de Reubicación</a></li>
