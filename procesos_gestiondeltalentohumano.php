@@ -105,7 +105,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Estado de Vacaciones.xls" rel="nofollow">Estado de Vacaciones</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Evaluacion de la eficacia de la capacitacion.doc" rel="nofollow">Evaluacion de la eficacia de la capacitacion</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Evaluacion induccion y reinduccion 2.doc" rel="nofollow">Evaluacion induccion y reinduccion 2</a></li>
-                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Hoja de Control.docx" rel="nofollow">Hoja de Control</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Hoja de control de historias laborales V1.doc" rel="nofollow">Hoja de control de historias laborales V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Inscripcion actividades de Bienestar social.xlsx" rel="nofollow">Inscripcion actividades de Bienestar social</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Listado de Funcionarios de Planta.xls" rel="nofollow">Listado de Funcionarios de Planta</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Notificacion del cargo.docx" rel="nofollow">Notificacion del cargo (Nuevo)</a></li>

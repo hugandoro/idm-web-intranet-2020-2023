@@ -91,8 +91,8 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <ul class="tmo_list">
                 <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/formatos/Acta de Reunión.docx" rel="nofollow">Acta de Reunión</a></li>
                 <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/formatos/Encuesta Satisfacción a la Comunidad actualizado.doc" rel="nofollow">Encuesta Satisfacción a la Comunidad actualizado</a></li>
-                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/formatos/ENCUESTA PARTICIPACION CIUDADANA INTERNA.doc" rel="nofollow">ENCUESTA PARTICIPACION CIUDADANA INTERNA</a></li>
-                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/formatos/ENCUESTA DE PARTICIPACIÓN CIUDADANA EXTERNA.doc" rel="nofollow">ENCUESTA DE PARTICIPACIÓN CIUDADANA EXTERNA</a></li>
+                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/formatos/Encuesta de participacion ciudadana interna V1.doc" rel="nofollow">ENCUESTA PARTICIPACION CIUDADANA INTERNA</a></li>
+                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/formatos/Encuesta de participacion ciudadana externa V1.doc" rel="nofollow">ENCUESTA DE PARTICIPACIÓN CIUDADANA EXTERNA</a></li>
                 <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/formatos/Ficha de Indicadores.docx" rel="nofollow">Ficha de Indicadores</a></li>
                 <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/formatos/Encuesta PAAC.doc" rel="nofollow">Encuesta PAAC</a></li>
                 <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/formatos/Medición de Indicadores.docx" rel="nofollow">Medición de Indicadores</a></li>

@@ -118,6 +118,10 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Indicadores estructura SST.doc" rel="nofollow">Indicadores estructura SST</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Indicadores proceso y resultado SST.xls" rel="nofollow">Indicadores proceso y resultado SST</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Matriz Legal SST.xls" rel="nofollow">Matriz Legal SST</a></li>
+                
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Matriz de peligros y riesgos V2 Dic 2019.xls" rel="nofollow">Matriz de peligros y riesgos</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Matriz legal SST V2 Dic 2019.xls" rel="nofollow">Matriz Legal SST - Dic 2019</a></li>
+
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Reglamento de Higiene y seguridad.doc" rel="nofollow">Reglamento de Higiene y seguridad</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Reglamento SST Contratistas.doc" rel="nofollow">Reglamento SST Contratistas</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Rendicion de cuentas SST 2017.pptx" rel="nofollow">Rendicion de cuentas SST 2017</a></li>
@@ -127,6 +131,9 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <h3>Plan de Emergencias</h3>
                 <ul class="tmo_list">
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/Plan de Emergencias/Ruta de Evacuación IDM.pdf" rel="nofollow">Ruta de Evacuación IDM</a></li>
+                
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/Plan de Emergencias/Plan de Emergencias V2.doc" rel="nofollow">Plan de emergencia V2</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/Plan de Emergencias/Plan de Emergencias V2 - Anexo matriz de vulnerabilidad.xls" rel="nofollow">Plan de emergencia V2 - Anexo</a></li>
                 </ul>  
 
                 <h3>PVE osteomuscular 2016-2017</h3>
