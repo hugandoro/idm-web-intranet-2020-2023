@@ -90,10 +90,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <h3>Formatos</h3>
                 <ul class="tmo_list">
                 <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Acta de Evaluación Técnica, Jurídica y Financiera.doc" rel="nofollow">Acta de Evaluación Técnica, Jurídica y Financiera</a></li>
-                <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Acta de inicio  de obra.docx" rel="nofollow">Acta de inicio  de obra</a></li>
-                <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Acta de recibo parcial y balance presupuestal.xls" rel="nofollow">Acta de recibo parcial y balance presupuestal</a></li>
                 <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Acta de Reunión requerimiento.docx" rel="nofollow">Acta de Reunión requerimiento</a></li>
-                <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Acta de terminacion de contrato.xls" rel="nofollow">Acta de terminacion de contrato</a></li>
                 <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Acta SeguimientoContrato.doc" rel="nofollow">Acta SeguimientoContrato</a></li>
                 <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/ACTAS IDM 2019 Version 3.1.xlsx" rel="nofollow">ACTAS IDM 2019 Version 3.1</a></li>
                 <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Asistencia a Visita de Obra.doc" rel="nofollow">Asistencia a Visita de Obra</a></li>
@@ -101,14 +98,11 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Caratula Procesos Jurídicos.doc" rel="nofollow">Caratula Procesos Jurídicos</a></li>
                 <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Certificación de Visita de Obra.doc" rel="nofollow">Certificación de Visita de Obra</a></li>
                 <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Evaluación Economica.docx" rel="nofollow">Evaluación Economica</a></li>
-                <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/FORMATOS OBRAS 2019 versión 3.xlsx" rel="nofollow">FORMATOS OBRAS 2019 versión 3</a></li>
                 <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Lista de Chequeo Minima cuantia contratacion.doc" rel="nofollow">lista de Chequeo Minima cuantia contratacion</a></li>
                 <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Lista de Chequeo otras Modaliddaes Contratacion.doc" rel="nofollow">Lista de Chequeo otras Modaliddaes Contratacion</a></li>
-                <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Informe Ejecutivo Mensual de Interventoría.xls" rel="nofollow">Informe Ejecutivo Mensual de Interventoría</a></li>
                 <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Lista de Chequeo Contratación Directa vr 2.doc" rel="nofollow">Lista de Chequeo Contratación Directa vr 2</a></li>
                 <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Lista de chequeo para iniciación del contrato.doc" rel="nofollow">Lista de chequeo para iniciación del contrato</a></li>
                 <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Registro Entrega de Propuesta.doc" rel="nofollow">Registro Entrega de Propuesta</a></li>
-                <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Solicitud de Adicion y o Prorroga.xls" rel="nofollow">Solicitud de Adicion y o Prorroga</a></li>
                 </ul>
 
                 <h3>Manuales</h3>

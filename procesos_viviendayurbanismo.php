@@ -89,11 +89,9 @@ $currentPage = $_SERVER["PHP_SELF"];
  
                 <h3>Formatos</h3>
                 <ul class="tmo_list">
-                <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Acta de Aceptación y Conocimiento de Obra.doc" rel="nofollow">Acta de Aceptación y Conocimiento de Obra</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Acta de compromiso cerramiento de lote.doc" rel="nofollow">Acta de compromiso cerramiento de lote</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Acta de Seguimiento Compromisos.docx" rel="nofollow">Acta de Seguimiento Compromisos</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Acta de Seguimiento Concepto Tecnico Remitido por la DIGER.docx" rel="nofollow">Acta de Seguimiento Concepto Tecnico Remitido por la DIGER</a></li>
-                <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Acta de vecindad.xls" rel="nofollow">Acta de vecindad</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Acta de Visita Técnica  Legalización.docx" rel="nofollow">Acta de Visita Técnica  Legalización</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Acta de Visita Técnica Cerramiento de Lote V2.doc" rel="nofollow">Acta de Visita Técnica Cerramiento de Lote V2</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Acta de Visita Técnica Mejoramiento de Vivienda.docx" rel="nofollow">Acta de Visita Técnica Mejoramiento de Vivienda</a></li>
@@ -116,7 +114,6 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Registro diseño Arquitectonico.doc" rel="nofollow">Registro diseño Arquitectonico</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Registro fotografico.docx" rel="nofollow">Registro fotografico</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Registro y Control para Firma de Escrituración.docx" rel="nofollow">Registro y Control para Firma de Escrituración</a></li>
-                <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Relación de planos.xls" rel="nofollow">Relación de planos</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Visita seguimiento Unificada.doc" rel="nofollow">Visita seguimiento Unificada</a></li>
                 </ul>
 
@@ -135,7 +132,6 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/procedimientos/Cerramiento de Lotes V2.doc" rel="nofollow">Cerramiento de Lotes V2</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/procedimientos/Control de salidas no Conformes.doc" rel="nofollow">Control de salidas no Conformes</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/procedimientos/Diseño y Desarrollo v 3.0.pdf" rel="nofollow">Diseño y Desarrollo v 3.0</a></li>
-                <li><a href="mapa_procesos/mapa/viviendayurbanismo/procedimientos/Gestión de Obras de Interés público.doc" rel="nofollow">Gestión de Obras de Interés público</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/procedimientos/Organización e Impulso a la Vivienda V2.doc" rel="nofollow">Organización e Impulso a la Vivienda V2</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/Procedimiento Sancionatorio Restitucion de Subsidios.docx">Procedimiento sancionatorio restitución de subsidios</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/procedimientos/Apoyo Social V2.doc" rel="nofollow">Apoyo Social V2</a></li>

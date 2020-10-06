@@ -100,11 +100,10 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Programa Anual de auditoria C.I.xls" rel="nofollow">Programa Anual de auditoria C.I</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Programacion Auditoria Interna.docx" rel="nofollow">Programación Auditoria Interna</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Reporte de Acto de Corrupcion o Irregularidad Administrativa V.1.docx" rel="nofollow">Reporte de Acto de Corrupción o Irregularidad Administrativa V.1</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Seguimiento 2a linea de defensa V2.docx" rel="nofollow">Seguimiento 2a linea de defensa V2</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Seguimiento 2a linea de defensa V2.doc" rel="nofollow">Seguimiento 2a linea de defensa V2</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Seguimiento al  Plan Anticorrupcion y de Atencion al Ciudadano.docx" rel="nofollow">Seguimiento al  Plan Anticorrupción y de Atención al Ciudadano</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Seguimiento Mapa de Riesgos de Corrupcion.docx" rel="nofollow">Seguimiento Mapa de Riesgos de Corrupción</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Carta de Compromiso.doc" rel="nofollow">Carta de Compromiso</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Seguimiento a procedimientos 2a linea de defensa (1).docx" rel="nofollow">Seguimiento a procedimientos 2a linea de defensa</a></li>
                 </ul>
 
                 <h3>Procedimientos</h3>
@@ -115,7 +114,6 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/procedimientos/Auditorias de Control Interno.doc" rel="nofollow">Auditorias de Control Interno</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/procedimientos/Evaluacion y Seguimiento Control Interno.doc" rel="nofollow">Evaluación y Seguimiento Control Interno</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/procedimientos/Informes de Control Interno.doc" rel="nofollow">Informes de Control Interno</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/procedimientos/Evaluacion Idepend-Calidad  y MECI.doc" rel="nofollow">Evaluacion Idepend-Calidad  y MECI</a></li>
                 </ul>
                     
                                         

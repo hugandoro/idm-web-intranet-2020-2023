@@ -78,6 +78,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <div style="font-size: 28pt"><b>Intranet Institucional</b></div>
                 <div style="font-size: 18pt">IDM | Mapa de procesos | Obras de interes por valorizacion</div>
             </div>
+
         </div>
 
         <hr>
@@ -86,7 +87,17 @@ $currentPage = $_SERVER["PHP_SELF"];
         <!-- Tarjetas -->
         <div class="row">
             <div class="col-lg-12 mb-12">
- 
+
+                <h3>Formatos</h3>
+                <ul class="tmo_list">
+                    <li><a href="mapa_procesos/mapa/obrasinterespublico/formatos/Formato obras.xlsx" rel="nofollow">Formatos obras</a></li>
+                </ul>
+
+                <h3>Procedimientos</h3>
+                <ul class="tmo_list">
+                    <li><a href="mapa_procesos/mapa/obrasinterespublico/procedimientos/Gestión de Obras de Interés público.doc" rel="nofollow">Gestión de Obras de Interés público</a></li>
+                </ul>
+
             </div>
         </div>
 

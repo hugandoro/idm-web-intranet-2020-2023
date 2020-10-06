@@ -113,7 +113,6 @@ $currentPage = $_SERVER["PHP_SELF"];
                                         
                 <h3>Otros Documentos</h3>
                 <ul class="tmo_list">
-                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Diagnostico SG-SST IDM  OCT 2015.xls" rel="nofollow">Diagnostico SG-SST IDM  OCT 2015</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Evaluación Inicial  SG-SST  2015.xls" rel="nofollow">Evaluación Inicial  SG-SST  2015</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Hoja de seguridad Hipoclorito de Sodio.docx" rel="nofollow">Hoja de seguridad Hipoclorito de Sodio</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Indicadores estructura SST.doc" rel="nofollow">Indicadores estructura SST</a></li>
@@ -127,7 +126,6 @@ $currentPage = $_SERVER["PHP_SELF"];
                     
                 <h3>Plan de Emergencias</h3>
                 <ul class="tmo_list">
-                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/Plan de Emergencias/Plan de Emergencias IDM.doc" rel="nofollow">Plan de Emergencias IDM</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/Plan de Emergencias/Ruta de Evacuación IDM.pdf" rel="nofollow">Ruta de Evacuación IDM</a></li>
                 </ul>  
 

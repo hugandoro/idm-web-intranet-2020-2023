@@ -95,7 +95,6 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Cierre de Tesoreria.xlsx" rel="nofollow">Cierre de Tesoreria</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Conciliación de Gastos.xls" rel="nofollow">Conciliación de Gastos</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Conciliación de Ingresos.xls" rel="nofollow">Conciliación de Ingresos</a></li>
-                <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Desprendible Nonomina.xls" rel="nofollow">Desprendible Nonomina</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Ejecución  Presupuestal Gastos.xls" rel="nofollow">Ejecución  Presupuestal Gastos</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Ejecución Presupuestal Ingresos.xls" rel="nofollow">Ejecución Presupuestal Ingresos</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Estado de Cambios  Patrimonio.xls" rel="nofollow">Estado de Cambios  Patrimonio</a></li>
