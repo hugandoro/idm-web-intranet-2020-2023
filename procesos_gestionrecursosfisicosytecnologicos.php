@@ -91,7 +91,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <ul class="tmo_list">
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Actualización de documentos.doc" rel="nofollow">Actualización de documentos</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Carátula Legajos  de Archivo.doc" rel="nofollow">Carátula Legajos  de Archivo</a></li>
-                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Cronograma mantenimiento computadores  y equipos V1" rel="nofollow">Cronograma mantenimiento computadores y equipos V1</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Cronograma mantenimiento computadores  y equipos V1.xls" rel="nofollow">Cronograma mantenimiento computadores y equipos V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Depreciaciones.xls" rel="nofollow">Depreciaciones</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Entrega de Papelería V2.xlsx" rel="nofollow">Entrega de Papelería V2</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Entrega de insumos para identificación.doc" rel="nofollow">Entrega de insumos para identificación</a></li>
