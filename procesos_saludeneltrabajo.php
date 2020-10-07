@@ -93,7 +93,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/formatos/Entrega Individual de EPP.xls" rel="nofollow">Entrega Individual de EPP</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/formatos/Evaluación de Simulacros SST.doc" rel="nofollow">Evaluación de Simulacros SST</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/formatos/Gestion del cambio en SST.doc" rel="nofollow">Gestion del cambio en SST</a></li>
-                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/formatos/Inspeccion de Seguridad.xls" rel="nofollow">Inspeccion de Seguridad</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/formatos/Inspección de Seguridad V2.xls" rel="nofollow">Inspeccion de Seguridad V2</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/formatos/Inspección Mensual de botiquines.doc" rel="nofollow">Inspección Mensual de botiquines</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/formatos/Inspección Mensual de Extintores.doc" rel="nofollow">Inspección Mensual de Extintores</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/formatos/Investigación de incidentes y accidentes de trabajo.xls" rel="nofollow">Investigación de incidentes y accidentes de trabajo</a></li>

@@ -116,7 +116,7 @@ $currentPage = $_SERVER["PHP_SELF"];
 
                 <h3>Procedimientos</h3>
                 <ul class="tmo_list">
-                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/procedimientos/Administracion de Recursos Tecnologicos V2.pdf" rel="nofollow">Administracion de Recursos Tecnologicos V2</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/procedimientos/Administracion de recursos tecnologicos V2.pdf" rel="nofollow">Administracion de Recursos Tecnologicos V2</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/procedimientos/Atencion en Ventanilla Unica.doc" rel="nofollow">Atencion en Ventanilla Unica</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/procedimientos/Control de la Información Documentada.doc" rel="nofollow">Control de la Información Documentada</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/procedimientos/Registro de Inventarios.doc" rel="nofollow">Registro de Inventarios</a></li>

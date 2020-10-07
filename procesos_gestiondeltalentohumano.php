@@ -90,7 +90,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <h3>Formatos</h3>
                 <ul class="tmo_list">
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Acta de Compromiso.docx" rel="nofollow">Acta de Compromiso</a></li>
-                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Aceptacion del cargo.docx" rel="nofollow">Aceptacion del cargo (Nuevo)</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Aceptacion de cargo V1.doc" rel="nofollow">Aceptacion del cargo V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Acta de Entrega de Cargo V1.docx" rel="nofollow">Acta de Entrega de Cargo (Nuevo)</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Asistencia a Reuniones y Visitas Externas.doc" rel="nofollow">Asistencia a Reuniones y Visitas Externas</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Asistencia Reuniones y Actividades.docx" rel="nofollow">Asistencia Reuniones y Actividades</a></li>
@@ -108,7 +108,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Hoja de control de historias laborales V1.doc" rel="nofollow">Hoja de control de historias laborales V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Inscripcion actividades de Bienestar social.xlsx" rel="nofollow">Inscripcion actividades de Bienestar social</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Listado de Funcionarios de Planta.xls" rel="nofollow">Listado de Funcionarios de Planta</a></li>
-                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Notificacion del cargo.docx" rel="nofollow">Notificacion del cargo (Nuevo)</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Notificacion de cargo V1" rel="nofollow">Notificacion del cargo V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Planilla de vacaciones compensadas.xls" rel="nofollow">Planilla de vacaciones compensadas</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Planilla funcionarios aptos para votaciones internas.xls" rel="nofollow">Planilla funcionarios aptos para votaciones internas</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Programa de capacitacion general.xls" rel="nofollow">Programa de capacitacion general</a></li>
