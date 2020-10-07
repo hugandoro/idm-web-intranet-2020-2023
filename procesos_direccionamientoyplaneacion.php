@@ -90,6 +90,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <h3>Formatos</h3>
                 <ul class="tmo_list">
                 <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/formatos/Acta de Reunión.docx" rel="nofollow">Acta de Reunión</a></li>
+                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/formatos/Autorizacion y tratamiento de datos personales V1.doc" rel="nofollow">Autorizacion y tratamiento de datos personales V1.doc</a></li>
                 <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/formatos/Encuesta Satisfacción a la Comunidad actualizado.doc" rel="nofollow">Encuesta Satisfacción a la Comunidad actualizado</a></li>
                 <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/formatos/Encuesta de participacion ciudadana interna V1.doc" rel="nofollow">ENCUESTA PARTICIPACION CIUDADANA INTERNA</a></li>
                 <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/formatos/Encuesta de participacion ciudadana externa V1.doc" rel="nofollow">ENCUESTA DE PARTICIPACIÓN CIUDADANA EXTERNA</a></li>
