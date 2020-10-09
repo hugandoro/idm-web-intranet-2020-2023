@@ -90,7 +90,7 @@ $currentPage = $_SERVER["PHP_SELF"];
 
                 <h3>Formatos</h3>
                 <ul class="tmo_list">
-                    <li><a href="mapa_procesos/mapa/obrasinterespublico/formatos/Formato obras.xlsx" rel="nofollow">Formatos obras</a></li>
+                    <li><a href="mapa_procesos/mapa/obrasinterespublico/formatos/Formatos Obras V4.xls" rel="nofollow">Formatos obras V4</a></li>
                 </ul>
 
                 <h3>Procedimientos</h3>

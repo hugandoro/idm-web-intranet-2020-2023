@@ -94,7 +94,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Acta de Seguimiento Concepto Tecnico Remitido por la DIGER.docx" rel="nofollow">Acta de Seguimiento Concepto Tecnico Remitido por la DIGER</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Acta de Visita Técnica  Legalización.docx" rel="nofollow">Acta de Visita Técnica  Legalización</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Acta de Visita Técnica Cerramiento de Lote V2.doc" rel="nofollow">Acta de Visita Técnica Cerramiento de Lote V2</a></li>
-                <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Acta de Visita Técnica Mejoramiento de Vivienda.docx" rel="nofollow">Acta de Visita Técnica Mejoramiento de Vivienda</a></li>
+                <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Acta de Visita Tecnica Mejoramiento de Vivienda V2.doc" rel="nofollow">Acta de Visita Técnica Mejoramiento de Vivienda V2</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Acta de Visita Técnica Reubicación.docx" rel="nofollow">Acta de Visita Técnica Reubicación</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Acta entrega de Obra.docx" rel="nofollow">Acta entrega de Obra</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Caracterización OPV.doc" rel="nofollow">Caracterización OPV</a></li>
@@ -102,6 +102,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Encuesta de Satisfacción Atención a la Comunidad Vivienda Gratuita.doc" rel="nofollow">Encuesta de Satisfacción Atención a la Comunidad Vivienda Gratuita</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Estudio Socioeconomico.docx" rel="nofollow">Estudio Socioeconomico</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Evaluación de Postulaciones mejoramiento  de vivienda.docx" rel="nofollow">Evaluación de Postulaciones mejoramiento  de vivienda</a></li>
+                <li><a href="mapa_procesos/mapa/obrasinterespublico/formatos/Formatos Obras V4.xls" rel="nofollow">Formatos obras V4</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Lista de Chequeo (SST).xlsx" rel="nofollow">Lista de Chequeo (SST)</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Presupuesto Mejoramiento de Vivienda.xls" rel="nofollow">Presupuesto Mejoramiento de Vivienda</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Programación Semanal de Transporte V2.docx" rel="nofollow">Programación Semanal de Transporte V2</a></li>
@@ -112,7 +113,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Registro de Predios Fiscales.docx" rel="nofollow">Registro de Predios Fiscales</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Registro de Salidas no conforme.doc" rel="nofollow">Registro de Salidas no conforme</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Registro diseño Arquitectonico.doc" rel="nofollow">Registro diseño Arquitectonico</a></li>
-                <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Registro fotografico.docx" rel="nofollow">Registro fotografico</a></li>
+                <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Registro fotografico V2.doc" rel="nofollow">Registro fotografico V2</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Registro y Control para Firma de Escrituración.docx" rel="nofollow">Registro y Control para Firma de Escrituración</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Visita seguimiento Unificada.doc" rel="nofollow">Visita seguimiento Unificada</a></li>
                 </ul>
