@@ -96,7 +96,6 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Acta de Visita Técnica Cerramiento de Lote V2.doc" rel="nofollow">Acta de Visita Técnica Cerramiento de Lote V2</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Acta de Visita Tecnica Mejoramiento de Vivienda V2.doc" rel="nofollow">Acta de Visita Técnica Mejoramiento de Vivienda V2</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Acta de Visita Técnica Reubicación.docx" rel="nofollow">Acta de Visita Técnica Reubicación</a></li>
-                <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Acta entrega de Obra.docx" rel="nofollow">Acta entrega de Obra</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Caracterización OPV.doc" rel="nofollow">Caracterización OPV</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Censo de Vivienda Gratuita V1.xls" rel="nofollow">Censo de Vivienda Gratuita V1</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Encuesta de Satisfacción Atención a la Comunidad Vivienda Gratuita.doc" rel="nofollow">Encuesta de Satisfacción Atención a la Comunidad Vivienda Gratuita</a></li>
