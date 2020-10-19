@@ -121,6 +121,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <ul class="tmo_list">
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/manuales/MANUAL DEL USUARIO CERRAMIENTO DE LOTES.doc" rel="nofollow">MANUAL DEL USUARIO CERRAMIENTO DE LOTES</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/manuales/PROCEDIMIENTO SICRU COMPLETO.docx" rel="nofollow">PROCEDIMIENTO SICRU COMPLETO</a></li>
+                <li><a href="mapa_procesos/mapa/viviendayurbanismo/manuales/RESOLUCION 305 SUBSIDIOS.pdf" rel="nofollow">RESOLUCION 305 SUBSIDIOS</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/manuales/RES 017-2018  MODIFICA RESOLUCIÓN 317 DE 2014.pdf" rel="nofollow">RES 017-2018  MODIFICA RESOLUCIÓN 317 DE 2014</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/manuales/RESOLUCIÓN SICRU N° 087.pdf" rel="nofollow">RESOLUCIÓN SICRU N° 087</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/manuales/RESOLUCION 318 SUBSIDIOS.pdf" rel="nofollow">RESOLUCION 318 SUBSIDIOS</a></li>

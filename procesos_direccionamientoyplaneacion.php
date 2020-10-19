@@ -108,7 +108,6 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <h3>Manuales</h3>
                 <ul class="tmo_list">
                 <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/manuales/Manual Indicadores V1.doc" rel="nofollow">Manual Indicadores V1</a></li>
-                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/manuales/RESOLUCION 305 SUBSIDIOS.pdf" rel="nofollow">RESOLUCION 305 SUBSIDIOS</a></li>
                 <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/manuales/MANUAL DE CALIDAD V 2.pdf" rel="nofollow">MANUAL DE CALIDAD V 2</a></li>
                 </ul>
 
@@ -138,6 +137,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/Objetivos del sistema de Gestión Integral.docx" rel="nofollow">Objetivos del sistema de Gestión Integral</a></li>
                 <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/Politica de Calidad, Seguridad y salud en el Trabajo.doc" rel="nofollow">Politica de Calidad, Seguridad y salud en el Trabajo</a></li>
                 <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/Politica de Gestion del Riesgo.docx" rel="nofollow">Politica de Gestion del Riesgo</a></li>
+                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/Politica de servicio al ciudadano V1.pdf" rel="nofollow">Politica de servicio al ciudadano V1</a></li>
                 <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/Visión.doc" rel="nofollow">Visión</a></li>
                 </ul>
 
