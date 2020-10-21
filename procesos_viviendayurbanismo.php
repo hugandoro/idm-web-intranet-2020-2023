@@ -147,7 +147,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/otros documentos/Indicador Subsidio de mejoramientos modificado.doc" rel="nofollow">Indicador Subsidio de mejoramientos modificado</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/otros documentos/Mapa de Riesgos Vivienda, urbanismo y Obras.xls" rel="nofollow">Mapa de Riesgos Vivienda, urbanismo y Obras</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/otros documentos/Matriz de Partes Interesadas Vivienda, urbanismo y obras de interés público por valorización.xls" rel="nofollow">Matriz de Partes Interesadas Vivienda, urbanismo y obras de interés público por valorización</a></li>
-                <li><a href="mapa_procesos/mapa/viviendayurbanismo/otros documentos/Normograma Vivienda, urbanismo y obras de interés público por valorización (2).doc" rel="nofollow">Normograma Vivienda, urbanismo y obras de interés público por valorización (2)</a></li>
+                <li><a href="mapa_procesos/mapa/viviendayurbanismo/otros documentos/Normograma 2020.doc" rel="nofollow">Normograma 2020</a></li>
                 </ul>
 
             </div>

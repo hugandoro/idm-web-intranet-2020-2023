@@ -106,6 +106,8 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Estado de Vacaciones.xls" rel="nofollow">Estado de Vacaciones</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Evaluacion de la eficacia de la capacitacion.doc" rel="nofollow">Evaluacion de la eficacia de la capacitacion</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Evaluacion induccion y reinduccion 2.doc" rel="nofollow">Evaluacion induccion y reinduccion 2</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Formato de bienes y rentas conflicto intereses V3.xls" rel="nofollow">Formato de bienes y rentas conflicto intereses V3</a></li>
+
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Hoja de control de historias laborales V1.doc" rel="nofollow">Hoja de control de historias laborales V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Inscripcion actividades de Bienestar social.xlsx" rel="nofollow">Inscripcion actividades de Bienestar social</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Listado de Funcionarios de Planta.xls" rel="nofollow">Listado de Funcionarios de Planta</a></li>
@@ -143,7 +145,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/otrosdocumentos/Indicador Evaluación de desempeño.docx" rel="nofollow">Indicador Evaluación de desempeño</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/otrosdocumentos/Mapa de Riesgos Gestion Talento Humano.xls" rel="nofollow">Mapa de Riesgos Gestion Talento Humano</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/otrosdocumentos/Matriz de  Partes Interesadas Gestión Estrategico del Recurso humano.xls" rel="nofollow">Matriz de  Partes Interesadas Gestión Estrategico del Recurso humano</a></li>
-                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/otrosdocumentos/Normograma Gestion del Talento Humano.docx" rel="nofollow">Normograma Gestion del Talento Humano</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/otrosdocumentos/Normograma 2020.doc" rel="nofollow">Normograma 2020</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/otrosdocumentos/Resolución 083 Código de Integridad  del IDM.pdf" rel="nofollow">Resolución 083 Código de Integridad  del IDM</a></li>
                 </ul>            
                     

@@ -129,7 +129,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestionjuridica/otros documentos/Hoja de Vida Indicadores contratacion.doc" rel="nofollow">Hoja de Vida Indicadores contratacion</a></li>
                 <li><a href="mapa_procesos/mapa/gestionjuridica/otros documentos/Mapa de Riesgos Gestión Juridica.xls" rel="nofollow">Mapa de Riesgos Gestión Juridica</a></li>
                 <li><a href="mapa_procesos/mapa/gestionjuridica/otros documentos/Matriz de interacción Partes Interesadas.xls" rel="nofollow">Matriz de interacción Partes Interesadas</a></li>
-                <li><a href="mapa_procesos/mapa/gestionjuridica/otros documentos/Normograma.doc" rel="nofollow">Normograma</a></li>
+                <li><a href="mapa_procesos/mapa/gestionjuridica/otros documentos/Normograma 2020.doc" rel="nofollow">Normograma 2020</a></li>
                 </ul>      
 
             </div>
