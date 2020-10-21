@@ -124,7 +124,6 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/otros documentos/Estatuto Control Interno.docx" rel="nofollow">Estatuto Control Interno</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/otros documentos/Indicador  Planes de Mejoramiento Concertados.docx" rel="nofollow">Indicador  Planes de Mejoramiento Concertados.docx</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/otros documentos/Indicador del Cumplimiento de Auditorias.docx" rel="nofollow">Indicador del Cumplimiento de Auditorias</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/otros documentos/Indicador Fomento de la Cultura de la Prevencion.docx" rel="nofollow">Indicador Fomento de la Cultura de la Prevención</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/otros documentos/Lista de Chequeo para AutoEvaluar Procesos.docx" rel="nofollow">Lista de Chequeo para AutoEvaluar Procesos</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/otros documentos/Mapa de Riesgos Control y Evaluacion.xls" rel="nofollow">Mapa de Riesgos Control y Evaluación</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/otros documentos/Matriz de Partes Interesadas  Control y Evaluacion.xls" rel="nofollow">Matriz de Partes Interesadas  Control y Evaluación</a></li>
