@@ -47,22 +47,16 @@ $currentPage = $_SERVER["PHP_SELF"];
             <div class="collapse navbar-collapse" id="navbarsExample09">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="">Informacion Institucional</a>
+                        <a class="nav-link" href="index.php">Informacion Institucional</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="index_mapa.php">Calidad</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="">Seguridad y salud</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="">Bienestar social</a>
+                        <a class="nav-link" href="semana_salud.php">Semana de la Salud y Bienestar Social</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="">Capacitaciones</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="">Area social</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="">Directorio</a>

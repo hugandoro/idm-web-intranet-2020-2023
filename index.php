@@ -53,13 +53,10 @@ $currentPage = $_SERVER["PHP_SELF"];
                         <a class="nav-link" href="index_mapa.php">Calidad</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="">Seguridad y salud</a>
+                        <a class="nav-link" href="semana_salud.php">Semana de la Salud y Bienestar Social</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="">Capacitaciones</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="">Area social</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="https://www.idm.gov.co/4pl1c4t1v0s/DIRECTORIO/index.php">Directorio</a>
@@ -74,6 +71,7 @@ $currentPage = $_SERVER["PHP_SELF"];
             <div class="col-md-12" align="center">
                 <div style="font-size: 28pt"><b>Intranet Institucional</b></div>
                 <div style="font-size: 18pt">IDM | Instituto de Desarrollo Municipal | Dosquebradas</div>
+                <div><a href="semana_salud.php"><img src="img/banner_salud.jpg" width="100%"></div></a>
             </div>
         </div>
 
