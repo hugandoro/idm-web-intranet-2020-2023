@@ -124,6 +124,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Reglamento de Higiene y seguridad.doc" rel="nofollow">Reglamento de Higiene y seguridad</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Reglamento SST Contratistas.doc" rel="nofollow">Reglamento SST Contratistas</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Rendicion de cuentas SST 2017.pptx" rel="nofollow">Rendicion de cuentas SST 2017</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Rendicion de cuentas SST 2018.pptx" rel="nofollow">Rendicion de cuentas SST 2018</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Roles y Responsabilidades SST.doc" rel="nofollow">Roles y Responsabilidades SST</a></li>
                 </ul>            
                     
