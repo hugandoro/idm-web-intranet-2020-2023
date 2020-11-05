@@ -140,6 +140,10 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/IDM - Manual de ventanilla unica.pdf" rel="nofollow">IDM - Manual de ventanilla unica</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/IDM - Resolucion 132 - Ventanilla unica.pdf" rel="nofollow">IDM - Resolucion 132 - Ventanilla unica</a></li>
 
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/TRD - Resolucion 131.pdf" rel="nofollow">TRD - Tablas de retencion documental - Resolucion 131</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/TRD actualizadas.pdf" rel="nofollow">TRD - Tablas de retencion documental actualizadas</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/TRD - Actualizacion de documentos.doc" rel="nofollow">TRD - Tablas de retencion documental - Actualizacion de documentos</a></li>
+
                 </ul>            
 
 
