@@ -133,16 +133,16 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Matriz Comunicación Interna.doc" rel="nofollow">Matriz Comunicación Interna</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Matriz de partes interesadas REc Fis y Tec.xls" rel="nofollow">Matriz de partes interesadas REc Fis y Tec</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Normograma 2020.doc" rel="nofollow">Normograma 2020</a></li>
-                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/T.R.Documental.doc" rel="nofollow">T.R.Documental</a></li>
+                <!-- <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/T.R.Documental.doc" rel="nofollow">T.R.Documental</a></li> -->
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Tablas de Valoración documental.doc" rel="nofollow">Tablas de Valoración documental</a></li>
 
-                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Manual de ventanilla unica V1.docx" rel="nofollow">Manual de ventanilla unica V1</a></li>
+                <!-- <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Manual de ventanilla unica V1.docx" rel="nofollow">Manual de ventanilla unica V1</a></li> -->
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/IDM - Manual de ventanilla unica.pdf" rel="nofollow">IDM - Manual de ventanilla unica</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/IDM - Resolucion 132 - Ventanilla unica.pdf" rel="nofollow">IDM - Resolucion 132 - Ventanilla unica</a></li>
 
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/TRD - Resolucion 131.pdf" rel="nofollow">TRD - Tablas de retencion documental - Resolucion 131</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/TRD actualizadas.pdf" rel="nofollow">TRD - Tablas de retencion documental actualizadas</a></li>
-                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/TRD - Actualizacion de documentos.doc" rel="nofollow">TRD - Tablas de retencion documental - Actualizacion de documentos</a></li>
+                <!-- <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/TRD - Actualizacion de documentos.doc" rel="nofollow">TRD - Tablas de retencion documental - Actualizacion de documentos</a></li> -->
 
                 </ul>            
 
