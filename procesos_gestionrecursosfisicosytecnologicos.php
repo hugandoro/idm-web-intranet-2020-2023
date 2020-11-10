@@ -100,6 +100,8 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/FORMATO DE WORD.docx" rel="nofollow">FORMATO DE WORD</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Formato para Baja de inventarios V1.xlsx" rel="nofollow">Formato para Baja de inventarios V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Hoja de Control.docx" rel="nofollow">Hoja de Control</a></li>
+
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Hoja de vida PCs V1.xls" rel="nofollow">Hoja de vida PCs V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Inventario Manual.docx" rel="nofollow">Inventario Manual</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Inventario Unico Documental FIUD.doc" rel="nofollow">Inventario Unico Documental FIUD</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Prestamo Logistica.doc" rel="nofollow">Prestamo Logistica</a></li>
