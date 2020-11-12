@@ -89,6 +89,8 @@ $currentPage = $_SERVER["PHP_SELF"];
  
                 <h3>Formatos</h3>
                 <ul class="tmo_list">
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/formatos/Asignacion de Recursos SGSST V1.xls" rel="nofollow">Asignacion de Recursos SGSST V1</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/formatos/Carta de asignacion de responsable del SGSST V1.doc" rel="nofollow">Carta de asignacion de responsable del SGSST V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/formatos/Control uso Boutiquin.xls" rel="nofollow">Control uso Boutiquin</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/formatos/Entrega Individual de EPP.xls" rel="nofollow">Entrega Individual de EPP</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/formatos/Evaluación de Simulacros SST.doc" rel="nofollow">Evaluación de Simulacros SST</a></li>
