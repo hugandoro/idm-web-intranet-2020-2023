@@ -141,7 +141,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/IDM - Resolucion 132 - Ventanilla unica.pdf" rel="nofollow">IDM - Resolucion 132 - Ventanilla unica</a></li>
 
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/TRD - Resolucion 131.pdf" rel="nofollow">TRD - Tablas de retencion documental - Resolucion 131</a></li>
-                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Tablas de Retencion Documental - 2020 - Actualizadas (25-11-2020)" rel="nofollow"><b>TRD - Tablas de retencion documental - 2020 - Actualizadas (25-11-2020)</b></a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Tablas de Retencion Documental - 2020 - Actualizadas (25-11-2020).pdf" rel="nofollow"><b>TRD - Tablas de retencion documental - 2020 - Actualizadas (25-11-2020)</b></a></li>
 
                 </ul>            
 
