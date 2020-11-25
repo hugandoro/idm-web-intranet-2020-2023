@@ -126,7 +126,7 @@ $currentPage = $_SERVER["PHP_SELF"];
 
                 <h3>Procedimientos</h3>
                 <ul class="tmo_list">
-                <li><a href="mapa_procesos/mapa/gestionfinanciera/procedimientos/Elaboración, Ejecución y Modificación del Presupuesto.doc" rel="nofollow">Elaboración, Ejecución y Modificación del Presupuesto</a></li>
+                <li><a href="mapa_procesos/mapa/gestionfinanciera/procedimientos/Elaboracion, Ejecucion y Modificacion del Presupuesto V2.doc" rel="nofollow">Elaboración, Ejecución y Modificación del Presupuesto V2</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/procedimientos/Pagos a Proveedores.doc" rel="nofollow">Pagos a Proveedores</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/procedimientos/Recaudos.doc" rel="nofollow">Recaudos</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/procedimientos/Registro y Actualización Contable.doc" rel="nofollow">Registro y Actualización Contable</a></li>
