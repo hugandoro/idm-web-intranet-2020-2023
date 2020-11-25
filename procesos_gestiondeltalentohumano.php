@@ -126,7 +126,6 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <ul class="tmo_list">
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/manuales/Manual de Inducción y Reinducción.doc" rel="nofollow">Manual de Inducción y Reinducción</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/manuales/RESOLUCION 066 2015, Manual de Funciones y Competencias laborales (3).pdf" rel="nofollow">RESOLUCION 066 2015, Manual de Funciones y Competencias laborales</a></li>
-                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/manuales/MANUAL POLITICAS Y PROCEDIMIENTOS CONTABLES.pdf" rel="nofollow">MANUAL POLITICAS Y PROCEDIMIENTOS CONTABLES</a></li>
                 </ul>
                     
                 <h3>Procedimientos</h3>
