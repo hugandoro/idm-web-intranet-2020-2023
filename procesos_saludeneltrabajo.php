@@ -157,6 +157,17 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/PVE Psicosocial 2016-2017/Matriz de Resultados DxRP IDM 2016.xlsx" rel="nofollow">Matriz de Resultados DxRP IDM 2016</a></li>
                 </ul>
 
+                <h3>PVE osteomuscular 2018-2019</h3>
+                <ul class="tmo_list">
+                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/PVE osteomuscular 2018-2019/Analisis ausentismo 2018.xls" rel="nofollow">Analisis ausentismo 2018</a></li>
+                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/PVE osteomuscular 2018-2019/Cronograma de Actividades 2019.xls" rel="nofollow">Cronograma de Actividades 2019</a></li>
+                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/PVE osteomuscular 2018-2019/Diagnostico de condiciones de salud y de trabajo 2018.pdf" rel="nofollow">Diagnostico de condiciones de salud y de trabajo 2018</a></li>
+                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/PVE osteomuscular 2018-2019/Linea Basal Riesgo Osteomuscular 2018.xls" rel="nofollow">Linea Basal Riesgo Osteomuscular 2018</a></li>
+                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/PVE osteomuscular 2018-2019/Matriz Legal Riesgo Osteomuscular 2018.xls" rel="nofollow">Matriz Legal Riesgo Osteomuscular 2018</a></li>
+                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/PVE osteomuscular 2018-2019/Perfil Sociodemografico 2018.xls" rel="nofollow">Perfil Sociodemografico 2018</a></li>
+                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/PVE osteomuscular 2018-2019/PVE Osteomuscular 2018-2019.doc" rel="nofollow">PVE Osteomuscular 2018-2019</a></li>
+                </ul>
+
                 <h3>Formulario Para Ausentismo Laboral</h3>
                 <div id="qrcode">
                     <img src="https://www.codigos-qr.com/qr/php/qr_img.php?d=https%3A%2F%2Fforms.gle%2FkP1wDFqAmS6B3HDQ7&s=6&e=m" alt="Generador de Códigos QR Codes"/>
