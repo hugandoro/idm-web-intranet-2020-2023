@@ -70,8 +70,8 @@ $currentPage = $_SERVER["PHP_SELF"];
         <div class="row">
             <div class="col-md-12" align="center">
                 <div style="font-size: 28pt"><b>Intranet Institucional</b></div>
-                <div style="font-size: 18pt">IDM | Instituto de Desarrollo Municipal | Dosquebradas</div>
-                <div><a href="semana_salud.php"><img src="img/banner_salud.jpg" width="100%"></div></a>
+                <div style="font-size: 18pt">IDM | Instituto de Desarrollo Municipal | Dosquebradas</div><hr>
+                <div><a href="#"><img src="img/banner_navidad.jpg" width="100%"></div></a>
             </div>
         </div>
 
