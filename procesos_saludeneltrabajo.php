@@ -120,7 +120,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Hoja de seguridad Hipoclorito de Sodio.docx" rel="nofollow">Hoja de seguridad Hipoclorito de Sodio</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Indicadores estructura SST.doc" rel="nofollow">Indicadores estructura SST</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Indicadores proceso y resultado SST.xls" rel="nofollow">Indicadores proceso y resultado SST</a></li>
-                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Matriz de peligros y riesgos V2 Dic 2019.xls" rel="nofollow">Matriz de peligros y riesgos</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Matriz de Peligros y Riesgos V3.xls" rel="nofollow">Matriz de peligros y riesgos V3</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Matriz Legal SST 2020.xls" rel="nofollow">Matriz Legal SST - Dic 2020</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Matriz Riesgo Covid 19 V1.xls" rel="nofollow">Matriz Riesgo Covid 19 V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Programa de Pausas Activas V1.pdf" rel="nofollow">Programa de Pausas Activas V1</a></li>
