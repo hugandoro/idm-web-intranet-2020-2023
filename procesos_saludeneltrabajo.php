@@ -108,6 +108,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <h3>Instructivos</h3>
                 <ul class="tmo_list">
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/instructivos/Instructivo Identificacion de Peligros y Valoracion de riesgos SST.doc" rel="nofollow">Instructivo Identificacion de Peligros y Valoracion de riesgos SST</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/instructivos/Instructivo  Matriz de Riesgos especifica COVID-19.pdf" rel="nofollow">Instructivo  Matriz de Riesgos especifica COVID-19</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/instructivos/Instructivo para Control de Requisitos legales SST.doc" rel="nofollow">Instructivo para Control de Requisitos legales SST</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/instructivos/Instructivo para Investigación de Incidentes, Accidentes de trabajo  y Enfermedad laboral.doc" rel="nofollow">Instructivo para Investigación de Incidentes, Accidentes de trabajo  y Enfermedad laboral</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/instructivos/Instructivo para la Gestión del Cambio SST.doc" rel="nofollow">Instructivo para la Gestión del Cambio SST</a></li>
