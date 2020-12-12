@@ -143,7 +143,7 @@ $currentPage = $_SERVER["PHP_SELF"];
 
                 <br><br>
                 <hr>
-                <a href="" rel="nofollow"><img class="mb-2" src="img/MIPG.png" alt="" width="10%"> <h3>Modelo integrado de planeación y gesión - MIPG</h3></a>
+                <a href="" rel="nofollow"><img class="mb-2" src="img/MIPG.png" alt="" width="10%"> <h3>Modelo integrado de planeación y gestión - MIPG</h3></a>
 
 
             </div>
