@@ -141,6 +141,11 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/Visión.doc" rel="nofollow">Visión</a></li>
                 </ul>
 
+                <br><br>
+                <hr>
+                <a href="" rel="nofollow"><img class="mb-2" src="img/MIPG.png" alt="" width="10%"> <h3>Modelo integrado de planeación y gesión - MIPG</h3></a>
+
+
             </div>
         </div>
 
