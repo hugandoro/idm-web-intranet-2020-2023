@@ -141,10 +141,11 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <h3>Otros documentos</h3>
                 <ul class="tmo_list">
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/otros documentos/Caracterización vivienda urbanismo y obras de interes publico por valorizacion.xls" rel="nofollow">Caracterización vivienda urbanismo y obras de interes publico por valorizacion</a></li>
-                <li><a href="mapa_procesos/mapa/viviendayurbanismo/otros documentos/Indicador apoyo social modificado.doc" rel="nofollow">Indicador apoyo social modificado</a></li>
-                <li><a href="mapa_procesos/mapa/viviendayurbanismo/otros documentos/Indicador predios legalizados modificados.doc" rel="nofollow">Indicador predios legalizados modificados</a></li>
+                <li><a href="mapa_procesos/mapa/viviendayurbanismo/otros documentos/Indicador apoyo social V2.doc" rel="nofollow">Indicador apoyo social V2</a></li>
+                <li><a href="mapa_procesos/mapa/viviendayurbanismo/otros documentos/Indicador predios legalizados V2.doc" rel="nofollow">Indicador predios legalizados V2</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/otros documentos/Indicador satisfaccion apoyo social modificado.doc" rel="nofollow">Indicador satisfaccion apoyo social modificado</a></li>
-                <li><a href="mapa_procesos/mapa/viviendayurbanismo/otros documentos/Indicador Subsidio de mejoramientos modificado.doc" rel="nofollow">Indicador Subsidio de mejoramientos modificado</a></li>
+                <li><a href="mapa_procesos/mapa/viviendayurbanismo/otros documentos/Indicador subsidio de mejoramientos V2.doc" rel="nofollow">Indicador subsidio de mejoramiento V2</a></li>
+                <li><a href="mapa_procesos/mapa/viviendayurbanismo/otros documentos/Indicador subsidio de vivienda nueva o usada V1.doc" rel="nofollow">Indicador subsidio de vivienda nueva o usada V1</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/otros documentos/Mapa de Riesgos Vivienda, urbanismo y Obras.xls" rel="nofollow">Mapa de Riesgos Vivienda, urbanismo y Obras</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/otros documentos/Matriz de Partes Interesadas Vivienda, urbanismo y obras de interés público por valorización.xls" rel="nofollow">Matriz de Partes Interesadas Vivienda, urbanismo y obras de interés público por valorización</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/otros documentos/Normograma 2020.doc" rel="nofollow">Normograma 2020</a></li>
