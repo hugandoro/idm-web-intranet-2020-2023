@@ -145,6 +145,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/otrosdocumentos/Mapa de Riesgos Gestion Talento Humano.xls" rel="nofollow">Mapa de Riesgos Gestion Talento Humano</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/otrosdocumentos/Matriz de  Partes Interesadas Gestión Estrategico del Recurso humano.xls" rel="nofollow">Matriz de  Partes Interesadas Gestión Estrategico del Recurso humano</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/otrosdocumentos/Normograma 2020.doc" rel="nofollow">Normograma 2020</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/otrosdocumentos/Protocolo de prevencion y actuacion acoso laboral Mintrabajo.pdf" rel="nofollow">Protocolo de prevencion y actuacion acoso laboral Mintrabajo</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/otrosdocumentos/Resolución 083 Código de Integridad  del IDM.pdf" rel="nofollow">Resolución 083 Código de Integridad  del IDM</a></li>
                 </ul>            
                     
