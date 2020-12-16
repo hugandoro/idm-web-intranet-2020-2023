@@ -89,7 +89,15 @@ $currentPage = $_SERVER["PHP_SELF"];
  
                 <h3>Actas de comité</h3>
                 <ul class="tmo_list">
-                <li><a href="" rel="nofollow">Por organizar...</a></li>
+                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/ACTA 001.pdf" rel="nofollow">Acta N° 1</a></li>
+                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/ACTA 002.pdf" rel="nofollow">Acta N° 2</a></li>
+                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/ACTA 003.pdf" rel="nofollow">Acta N° 3</a></li>
+                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/ACTA 004.pdf" rel="nofollow">Acta N° 4</a></li>
+                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/ACTA 005.pdf" rel="nofollow">Acta N° 5</a></li>
+                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/ACTA 006.pdf" rel="nofollow">Acta N° 6</a></li>
+                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/ACTA 008.pdf" rel="nofollow">Acta N° 8</a></li>
+                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/ACTA 009.pdf" rel="nofollow">Acta N° 9</a></li>
+                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/ACTA 010.pdf" rel="nofollow">Acta N° 10</a></li>
                 </ul>
 
                 <h3>Manuales</h3>
