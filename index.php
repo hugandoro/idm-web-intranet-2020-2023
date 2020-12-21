@@ -76,6 +76,22 @@ $currentPage = $_SERVER["PHP_SELF"];
         </div>
 
         <hr>
+
+        <div class="row">
+            <div class="col-md-12" align="center">
+                <div style="font-size: 18pt"><b>Estimado Funcionario / Contratista, participa en la encuesta para la formulación del Plan de Anticorrupción y de Atención al Ciudadano</b></div>
+            </div>
+            
+            <div class="col-md-12" align="center">
+                <br>
+                <a href="https://forms.gle/DwgaSqJJQaGrBRne8"><button type="button" class="btn btn-warning btn-block">Ingresar a la encuesta en linea...</button></a>
+                <br>
+            </div>
+            
+        </div>
+
+        <hr>
+
         <br id="AnclaParticipacion">
 
         <!-- Tarjetas -->
