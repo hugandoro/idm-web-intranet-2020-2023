@@ -91,6 +91,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <ul class="tmo_list">
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Acta de Ar queo.doc" rel="nofollow">Acta de Ar queo</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Arqueo Diario de Caja.xlsx" rel="nofollow">Arqueo Diario de Caja</a></li>
+                <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Autorizacion gasto Caja Menor V1.xls" rel="nofollow">Autorizacion gasto Caja Menor V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Balance General V1.xls" rel="nofollow">Balance General V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Cert. Dispon. Presupuesta-Registro-Orden de Pago (1).xls" rel="nofollow">Cert. Dispon. Presupuesta-Registro-Orden de Pago (1)</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Cierre de Tesoreria.xlsx" rel="nofollow">Cierre de Tesoreria</a></li>
@@ -112,6 +113,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Planilla de Contratistas.xls" rel="nofollow">Planilla de Contratistas</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Prima de Navidad.xls" rel="nofollow">Prima de Navidad</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Prima de Servicios.xls" rel="nofollow">Prima de Servicios</a></li>
+                <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Pago a proveedores V1.xls" rel="nofollow">Pago a proveedores V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Reembolso de Caja Menor.xls" rel="nofollow">Reembolso de Caja Menor</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Remesa Ajuste Salarial.xls" rel="nofollow">Remesa Ajuste Salarial</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Rendimientos y Gastos Financieros.xls" rel="nofollow">Rendimientos y Gastos Financieros</a></li>
@@ -128,6 +130,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <ul class="tmo_list">
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/procedimientos/Elaboracion, Ejecucion y Modificacion del Presupuesto V2.doc" rel="nofollow">Elaboración, Ejecución y Modificación del Presupuesto V2</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/procedimientos/Pagos a Proveedores.doc" rel="nofollow">Pagos a Proveedores</a></li>
+                <li><a href="mapa_procesos/mapa/gestionfinanciera/procedimientos/Procedimiento para Manejo de Caja Menor V1.doc" rel="nofollow">Procedimiento para Manejo de Caja Menor V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/procedimientos/Recaudos.doc" rel="nofollow">Recaudos</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/procedimientos/Registro y Actualización Contable.doc" rel="nofollow">Registro y Actualización Contable</a></li>
                 </ul> 
