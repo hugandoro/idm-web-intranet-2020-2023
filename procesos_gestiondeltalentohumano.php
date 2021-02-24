@@ -94,18 +94,17 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Acta de Entrega de Cargo V1.docx" rel="nofollow">Acta de Entrega de Cargo (Nuevo)</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Asistencia a Reuniones y Visitas Externas.doc" rel="nofollow">Asistencia a Reuniones y Visitas Externas</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Asistencia Reuniones y Actividades.docx" rel="nofollow">Asistencia Reuniones y Actividades</a></li>
-                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Constancia de Inducción Contratistas.doc" rel="nofollow">Constancia de Inducción Contratistas</a></li>
-                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Constancia de inducción y Reinducción Funcionarios.doc" rel="nofollow">Constancia de inducción y Reinducción Funcionarios</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Certificado de Induccion V1.pdf" rel="nofollow">Certificado de Induccion V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Control de Asistencia a reuniones y Capacitaciones.docx" rel="nofollow">Control de Asistencia a reuniones y Capacitaciones</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Control de ausentismo Laboral.xls" rel="nofollow">Control de ausentismo Laboral</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Control prestamo Historias Laborales.xls" rel="nofollow">Control prestamo Historias Laborales</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Cronograma Actividades Bienestar social e incentivos V1.xls" rel="nofollow">Cronograma Actividades Bienestar social e incentivos V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Cuestionario retiro.docx" rel="nofollow">Cuestionario retiro</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Desprendible Nomina V2.xls" rel="nofollow">Desprendible de nomina V2</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Disfrute de Vacaciones.xls" rel="nofollow">Disfrute de Vacaciones</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Encuesta de clima laboral.docx" rel="nofollow">Encuesta de clima laboral</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Estado de Vacaciones.xls" rel="nofollow">Estado de Vacaciones</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Evaluacion de la eficacia de la capacitacion.doc" rel="nofollow">Evaluacion de la eficacia de la capacitacion</a></li>
-                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Evaluacion induccion y reinduccion 2.doc" rel="nofollow">Evaluacion induccion y reinduccion 2</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Formato de bienes y rentas conflicto intereses V3.xls" rel="nofollow">Formato de bienes y rentas conflicto intereses V3</a></li>
 
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Hoja de control de historias laborales V1.doc" rel="nofollow">Hoja de control de historias laborales V1</a></li>
