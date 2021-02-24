@@ -98,6 +98,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Caratula Procesos Jurídicos.doc" rel="nofollow">Caratula Procesos Jurídicos</a></li>
                 <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Certificación de Visita de Obra.doc" rel="nofollow">Certificación de Visita de Obra</a></li>
                 <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Evaluación Economica.docx" rel="nofollow">Evaluación Economica</a></li>
+                <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Formato Estudios previos V1.doc" rel="nofollow">Formato Estudios previos V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Lista de Chequeo Minima cuantia contratacion.doc" rel="nofollow">lista de Chequeo Minima cuantia contratacion</a></li>
                 <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Lista de Chequeo otras Modaliddaes Contratacion.doc" rel="nofollow">Lista de Chequeo otras Modaliddaes Contratacion</a></li>
                 <li><a href="mapa_procesos/mapa/gestionjuridica/formatos/Lista de Chequeo Contratación Directa vr 2.doc" rel="nofollow">Lista de Chequeo Contratación Directa vr 2</a></li>

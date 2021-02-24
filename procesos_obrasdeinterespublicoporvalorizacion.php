@@ -95,7 +95,7 @@ $currentPage = $_SERVER["PHP_SELF"];
 
                 <h3>Procedimientos</h3>
                 <ul class="tmo_list">
-                    <li><a href="mapa_procesos/mapa/obrasinterespublico/procedimientos/Gestión de Obras de Interés público.doc" rel="nofollow">Gestión de Obras de Interés público</a></li>
+                    <li><a href="mapa_procesos/mapa/obrasinterespublico/procedimientos/Procedimiento Obras de interes publico V2.pdf" rel="nofollow">Procedimiento Obras de interes publico V2</a></li>
                 </ul>
 
             </div>

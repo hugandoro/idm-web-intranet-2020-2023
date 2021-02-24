@@ -113,7 +113,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Planilla de Contratistas.xls" rel="nofollow">Planilla de Contratistas</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Prima de Navidad.xls" rel="nofollow">Prima de Navidad</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Prima de Servicios.xls" rel="nofollow">Prima de Servicios</a></li>
-                <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Pago a proveedores V1.xls" rel="nofollow">Pago a proveedores V1</a></li>
+                <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Aprobacion pagos tesoreria V1.xls" rel="nofollow">Aprobacion pagos tesoreria V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Reembolso de Caja Menor.xls" rel="nofollow">Reembolso de Caja Menor</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Remesa Ajuste Salarial.xls" rel="nofollow">Remesa Ajuste Salarial</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Rendimientos y Gastos Financieros.xls" rel="nofollow">Rendimientos y Gastos Financieros</a></li>
