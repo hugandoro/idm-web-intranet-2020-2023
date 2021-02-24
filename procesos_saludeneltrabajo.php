@@ -121,7 +121,6 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Matriz de Peligros y Riesgos V3.xls" rel="nofollow">Matriz de peligros y riesgos V3</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Matriz de indicadores SST IDM- Doc Ext ARL SURA.xls" rel="nofollow">Matriz de indicadores SST IDM- Doc Ext ARL SURA</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Matriz Legal SST 2020.xls" rel="nofollow">Matriz Legal SST - Dic 2020</a></li>
-                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Matriz Riesgo Covid 19 V1.xls" rel="nofollow">Matriz Riesgo Covid 19 V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Programa de Pausas Activas V1.pdf" rel="nofollow">Programa de Pausas Activas V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Reglamento de Higiene y seguridad.doc" rel="nofollow">Reglamento de Higiene y seguridad</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Reglamento SST Contratistas.doc" rel="nofollow">Reglamento SST Contratistas</a></li>
@@ -168,6 +167,14 @@ $currentPage = $_SERVER["PHP_SELF"];
                     <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/PVE osteomuscular 2018-2019/Matriz Legal Riesgo Osteomuscular 2018.xls" rel="nofollow">Matriz Legal Riesgo Osteomuscular 2018</a></li>
                     <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/PVE osteomuscular 2018-2019/Perfil Sociodemografico 2018.xls" rel="nofollow">Perfil Sociodemografico 2018</a></li>
                     <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/PVE osteomuscular 2018-2019/PVE Osteomuscular 2018-2019.doc" rel="nofollow">PVE Osteomuscular 2018-2019</a></li>
+                </ul>
+
+                <h3>COVID-19</h3>
+                <ul class="tmo_list">
+                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COVID19/Matriz Riesgo Covid 19 V1.xls" rel="nofollow">Matriz Riesgo Covid 19 V1</a></li>
+                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COVID19/Induccion Protocolo Bioseguridad COVID 19.pdf" rel="nofollow">Induccion Protocolo Bioseguridad COVID 19</a></li>
+                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COVID19/Protocolo Bioseguridad COVID 19 V1.pdf" rel="nofollow">Protocolo Bioseguridad COVID 19 V1</a></li>
+                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COVID19/RESOLUCION 062 covid 19.pdf" rel="nofollow">RESOLUCION 062 covid 19</a></li>
                 </ul>
 
                 <h3>Formulario Para Ausentismo Laboral</h3>
