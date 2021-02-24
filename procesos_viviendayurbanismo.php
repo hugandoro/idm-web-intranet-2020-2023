@@ -98,6 +98,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Acta de Visita Técnica Reubicación.docx" rel="nofollow">Acta de Visita Técnica Reubicación</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Caracterización OPV.doc" rel="nofollow">Caracterización OPV</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Censo de Vivienda Gratuita V1.xls" rel="nofollow">Censo de Vivienda Gratuita V1</a></li>
+                <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Control de Cerramiento de Lotes V1.xls" rel="nofollow">Control de Cerramiento de Lotes V1</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Encuesta de Satisfacción Atención a la Comunidad Vivienda Gratuita.doc" rel="nofollow">Encuesta de Satisfacción Atención a la Comunidad Vivienda Gratuita</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Estudio Socioeconomico.docx" rel="nofollow">Estudio Socioeconomico</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Evaluación de Postulaciones mejoramiento  de vivienda.docx" rel="nofollow">Evaluación de Postulaciones mejoramiento  de vivienda</a></li>
@@ -130,7 +131,7 @@ $currentPage = $_SERVER["PHP_SELF"];
 
                 <h3>Procedimientos</h3>
                 <ul class="tmo_list">
-                <li><a href="mapa_procesos/mapa/viviendayurbanismo/procedimientos/Cerramiento de Lotes V2.doc" rel="nofollow">Cerramiento de Lotes V2</a></li>
+                <li><a href="mapa_procesos/mapa/viviendayurbanismo/procedimientos/Procedimiento Cerramiento de Lotes V3.pdf" rel="nofollow">Cerramiento de Lotes V3</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/procedimientos/Control de salidas no Conformes.doc" rel="nofollow">Control de salidas no Conformes</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/procedimientos/Diseno y Desarrollo V4.docx" rel="nofollow">Diseño y Desarrollo V4</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/procedimientos/Organización e Impulso a la Vivienda V2.doc" rel="nofollow">Organización e Impulso a la Vivienda V2</a></li>
