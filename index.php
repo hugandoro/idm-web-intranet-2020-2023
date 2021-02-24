@@ -71,12 +71,13 @@ $currentPage = $_SERVER["PHP_SELF"];
             <div class="col-md-12" align="center">
                 <div style="font-size: 28pt"><b>Intranet Institucional</b></div>
                 <div style="font-size: 18pt">IDM | Instituto de Desarrollo Municipal | Dosquebradas</div><hr>
-                <div><a href="#"><img src="img/banner_navidad.jpg" width="100%"></div></a>
+                <div><a href="#"><img src="img/banner_sura.jpg" width="100%"></div></a>
             </div>
         </div>
 
         <hr>
 
+        <!--
         <div class="row">
             <div class="col-md-12" align="center">
                 <div style="font-size: 18pt"><b>Estimado Funcionario / Contratista, participa en la encuesta para la formulación del Plan de Anticorrupción y de Atención al Ciudadano</b></div>
@@ -87,10 +88,9 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <a href="https://forms.gle/DwgaSqJJQaGrBRne8"><button type="button" class="btn btn-warning btn-block">Ingresar a la encuesta en linea...</button></a>
                 <br>
             </div>
-            
         </div>
 
-        <hr>
+        <hr>-->
 
         <br id="AnclaParticipacion">
 
