@@ -113,7 +113,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Notificacion de cargo V1.doc" rel="nofollow">Notificacion del cargo V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Planilla de vacaciones compensadas.xls" rel="nofollow">Planilla de vacaciones compensadas</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Planilla funcionarios aptos para votaciones internas.xls" rel="nofollow">Planilla funcionarios aptos para votaciones internas</a></li>
-                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Programa de capacitacion general.xls" rel="nofollow">Programa de capacitacion general</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Programa de Capacitacion general V2.xls" rel="nofollow">Programa de capacitacion general V2</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Programacion Vacaciones.xls" rel="nofollow">Programacion Vacaciones</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Provisión ARL.xlsx" rel="nofollow">Provisión ARL</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Validación Competencias Comportamentales.xls" rel="nofollow">Validación Competencias Comportamentales</a></li>
