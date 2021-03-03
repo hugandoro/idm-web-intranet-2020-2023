@@ -92,8 +92,6 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Acta de Compromiso.docx" rel="nofollow">Acta de Compromiso</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Aceptacion de cargo V1.doc" rel="nofollow">Aceptacion del cargo V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Acta de Entrega de Cargo V1.docx" rel="nofollow">Acta de Entrega de Cargo (Nuevo)</a></li>
-                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Asistencia a Reuniones y Visitas Externas.doc" rel="nofollow">Asistencia a Reuniones y Visitas Externas</a></li>
-                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Asistencia Reuniones y Actividades.docx" rel="nofollow">Asistencia Reuniones y Actividades</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Certificado de Induccion V1.pdf" rel="nofollow">Certificado de Induccion V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Control de Asistencia a reuniones y Capacitaciones.docx" rel="nofollow">Control de Asistencia a reuniones y Capacitaciones</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Control de ausentismo Laboral.xls" rel="nofollow">Control de ausentismo Laboral</a></li>
