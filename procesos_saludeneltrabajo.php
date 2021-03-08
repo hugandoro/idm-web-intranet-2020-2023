@@ -168,6 +168,13 @@ $currentPage = $_SERVER["PHP_SELF"];
                     <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/PVE osteomuscular 2018-2019/PVE Osteomuscular 2018-2019.doc" rel="nofollow">PVE Osteomuscular 2018-2019</a></li>
                 </ul>
 
+                <h3>PVE osteomuscular 2021</h3>
+                <ul class="tmo_list">
+                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/PVE osteomuscular 2021/Diagnostico de condiciones de salud y trabajo 2020.pdf" rel="nofollow">Diagnostico de condiciones de salud y trabajo 2020</a></li>
+                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/PVE osteomuscular 2021/Matriz legal Riesgo Osteomuscular 2020.xls" rel="nofollow">Matriz legal Riesgo Osteomuscular 2020</a></li>
+                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/PVE osteomuscular 2021/PVE Osteomuscular 20020 - 2021.pdf" rel="nofollow">PVE Osteomuscular 20020 - 2021</a></li>
+                </ul>
+
                 <h3>COVID-19</h3>
                 <ul class="tmo_list">
                     <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COVID19/Matriz Riesgo Covid 19 V1.xls" rel="nofollow">Matriz Riesgo Covid 19 V1</a></li>
