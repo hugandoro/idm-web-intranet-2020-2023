@@ -102,7 +102,8 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/formatos/Programa de capacitacion SST.doc" rel="nofollow">Programa de capacitacion SST</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/formatos/Registro de Limpieza y Desinfección.docx" rel="nofollow">Registro de Limpieza y Desinfección</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/formatos/Reporte de condiciones inseguras y de salud.doc" rel="nofollow">Reporte de condiciones inseguras y de salud</a></li>
-                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/formatos/Formatos Limpieza y desfinfeccion archivo V1.xls" rel="nofollow">Formatos Limpieza y desfinfeccion archivo V1</a></li>
+
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/formatos/Limpieza y desinfeccion de Instalaciones fisicas IDM V1.docx" rel="nofollow">Limpieza y desinfeccion de Instalaciones fisicas IDM V1</a></li>
                 </ul>
 
                 <h3>Instructivos</h3>
