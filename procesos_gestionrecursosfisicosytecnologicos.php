@@ -106,6 +106,8 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Inventario Unico Documental FIUD.doc" rel="nofollow">Inventario Unico Documental FIUD</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Prestamo Logistica.doc" rel="nofollow">Prestamo Logistica</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Solicitud Documentos- Archivo.docx" rel="nofollow">Solicitud Documentos- Archivo</a></li>
+                
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Limpieza y desinfeccion de Instalaciones fisicas IDM V1.docx" rel="nofollow">Limpieza y desinfeccion de Instalaciones fisicas IDM V1</a></li>
                 </ul>
 
                 <h3>Manuales</h3>

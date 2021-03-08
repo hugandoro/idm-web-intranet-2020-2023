@@ -102,6 +102,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/formatos/Programa de capacitacion SST.doc" rel="nofollow">Programa de capacitacion SST</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/formatos/Registro de Limpieza y Desinfección.docx" rel="nofollow">Registro de Limpieza y Desinfección</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/formatos/Reporte de condiciones inseguras y de salud.doc" rel="nofollow">Reporte de condiciones inseguras y de salud</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/formatos/Formatos Limpieza y desfinfeccion archivo V1.xls" rel="nofollow">Formatos Limpieza y desfinfeccion archivo V1</a></li>
                 </ul>
 
                 <h3>Instructivos</h3>
@@ -111,6 +112,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/instructivos/Instructivo para Control de Requisitos legales SST.doc" rel="nofollow">Instructivo para Control de Requisitos legales SST</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/instructivos/Instructivo para Investigación de Incidentes, Accidentes de trabajo  y Enfermedad laboral.doc" rel="nofollow">Instructivo para Investigación de Incidentes, Accidentes de trabajo  y Enfermedad laboral</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/instructivos/Instructivo para la Gestión del Cambio SST.doc" rel="nofollow">Instructivo para la Gestión del Cambio SST</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/instructivos/Instructivo para Limpieza y desinfeccion V1.pdf" rel="nofollow">Instructivo para Limpieza y desinfeccion V1</a></li>
                 </ul>
                                         
                 <h3>Otros Documentos</h3>
@@ -121,7 +123,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Matriz de indicadores SST IDM- Doc Ext ARL SURA.xls" rel="nofollow">Matriz de indicadores SST IDM- Doc Ext ARL SURA</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Matriz Legal SST 2020.xls" rel="nofollow">Matriz Legal SST - Dic 2020</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Programa de Pausas Activas V1.pdf" rel="nofollow">Programa de Pausas Activas V1</a></li>
-                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Reglamento de Higiene y seguridad.doc" rel="nofollow">Reglamento de Higiene y seguridad</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Reglamento de Higiene y seguridad V2.pdf" rel="nofollow">Reglamento de Higiene y seguridad V2</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Reglamento SST Contratistas.doc" rel="nofollow">Reglamento SST Contratistas</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Rendicion de cuentas SST 2017.pptx" rel="nofollow">Rendicion de cuentas SST 2017</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Rendicion de cuentas SST 2018.pptx" rel="nofollow">Rendicion de cuentas SST 2018</a></li>
