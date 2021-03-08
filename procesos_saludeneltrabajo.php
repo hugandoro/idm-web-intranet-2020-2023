@@ -172,8 +172,9 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <ul class="tmo_list">
                     <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COVID19/Matriz Riesgo Covid 19 V1.xls" rel="nofollow">Matriz Riesgo Covid 19 V1</a></li>
                     <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COVID19/Induccion Protocolo Bioseguridad COVID 19.pdf" rel="nofollow">Induccion Protocolo Bioseguridad COVID 19</a></li>
-                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COVID19/Protocolo Bioseguridad COVID 19 V1.pdf" rel="nofollow">Protocolo Bioseguridad COVID 19 V1</a></li>
-                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COVID19/RESOLUCION 062 covid 19.pdf" rel="nofollow">RESOLUCION 062 covid 19</a></li>
+                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COVID19/Protocolo Bioseguridad COVID 19 V2.pdf" rel="nofollow">Protocolo Bioseguridad COVID 19 V2</a></li>
+                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COVID19/RESOLUCION 062 covid 19.pdf" rel="nofollow">RESOLUCION 062 - 2020 covid 19</a></li>
+                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COVID19/Res 018 marzo 2 de 2021 Modifica Res 062 de 2020.pdf" rel="nofollow">RESOLUCION 018 - 2021 covid 19</a></li>
                 </ul>
 
                 <h3>Formulario Para Ausentismo Laboral</h3>
