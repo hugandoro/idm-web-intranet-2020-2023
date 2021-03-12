@@ -139,6 +139,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/Politica de Gestion del Riesgo.docx" rel="nofollow">Politica de Gestion del Riesgo</a></li>
                 <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/Politica de servicio al ciudadano V1.pdf" rel="nofollow">Politica de servicio al ciudadano V1</a></li>
                 <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/Visión.doc" rel="nofollow">Visión</a></li>
+                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/plan de participacion ciudadana.docx" rel="nofollow">Plan de participacion ciudadana</a></li>
                 </ul>
 
                 <br><br>
