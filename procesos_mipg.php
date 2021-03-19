@@ -36,8 +36,8 @@ $currentPage = $_SERVER["PHP_SELF"];
 
     <div class="container">
 
-   	<!-- Barra de navegacion superior -->
-       <nav class="navbar navbar-expand-lg navbar-light bg-light rounded">
+        <!-- Barra de navegacion superior -->
+        <nav class="navbar navbar-expand-lg navbar-light bg-light rounded">
             <a class="navbar-brand" href="index.php"><img src="img/logo_idm.png" width="100" height="50" alt=""></a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample09" aria-controls="navbarsExample09" aria-expanded="false" aria-label="Toggle navigation">
@@ -86,28 +86,31 @@ $currentPage = $_SERVER["PHP_SELF"];
         <!-- Tarjetas -->
         <div class="row">
             <div class="col-lg-12 mb-12">
- 
+
                 <h3>Actas de comité</h3>
                 <ul class="tmo_list">
-                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/ACTA 001.pdf" rel="nofollow">Acta N° 1</a></li>
-                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/ACTA 002.pdf" rel="nofollow">Acta N° 2</a></li>
-                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/ACTA 003.pdf" rel="nofollow">Acta N° 3</a></li>
-                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/ACTA 004.pdf" rel="nofollow">Acta N° 4</a></li>
-                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/ACTA 005.pdf" rel="nofollow">Acta N° 5</a></li>
-                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/ACTA 006.pdf" rel="nofollow">Acta N° 6</a></li>
-                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/ACTA 008.pdf" rel="nofollow">Acta N° 8</a></li>
-                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/ACTA 009.pdf" rel="nofollow">Acta N° 9</a></li>
-                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/ACTA 010.pdf" rel="nofollow">Acta N° 10</a></li>
+                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/ACTA 001.pdf" rel="nofollow">Acta N° 1</a></li>
+                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/ACTA 002.pdf" rel="nofollow">Acta N° 2</a></li>
+                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/ACTA 003.pdf" rel="nofollow">Acta N° 3</a></li>
+                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/ACTA 004.pdf" rel="nofollow">Acta N° 4</a></li>
+                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/ACTA 005.pdf" rel="nofollow">Acta N° 5</a></li>
+                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/ACTA 006.pdf" rel="nofollow">Acta N° 6</a></li>
+                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/ACTA 008.pdf" rel="nofollow">Acta N° 8</a></li>
+                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/ACTA 009.pdf" rel="nofollow">Acta N° 9</a></li>
+                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/ACTA 010.pdf" rel="nofollow">Acta N° 10</a></li>
                 </ul>
 
                 <h3>Manuales</h3>
                 <ul class="tmo_list">
-                <li><a href="" rel="nofollow">Por organizar...</a></li>
+                    <li><a href="" rel="nofollow">Por organizar...</a></li>
                 </ul>
 
                 <h3>Otros documentos</h3>
                 <ul class="tmo_list">
-                <li><a href="" rel="nofollow">Por organizar...</a></li>
+                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/otrosdocumentos/Resolucion 019 CIGD.pdf" rel="nofollow">Resolución 019 creación del Comité institucional de gestión y Desempeño de febrero 6 de 2018</a></li>
+                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/otrosdocumentos/resolucion 125.pdf" rel="nofollow">Resolución 125 que adopta el MIPG de agosto 27 de 2018</a></li>
+                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/otrosdocumentos/res 066 - 2020.pdf" rel="nofollow">Resolución 066 modifica la resolución 019 del CIGD del 23 de junio de 2020</a></li>
+                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/otrosdocumentos/resolucion 107 lineas de defensa.pdf" rel="nofollow">Resolución 107 adopta el modelo de líneas de defensa del 28 de agosto de 2020</a></li>
                 </ul>
 
             </div>
@@ -120,7 +123,8 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <div class="col-12 col-md">
                     <center><img class="mb-2" src="img/logo_idm.png" alt="" width="100%">
                         <small class="d-block mb-3 text-muted">Instituo de Desarrollo Municipal</small>
-                        <small class="d-block mb-3 text-muted">&copy; 2020-2023</small></center>
+                        <small class="d-block mb-3 text-muted">&copy; 2020-2023</small>
+                    </center>
                 </div>
                 <div class="col-6 col-md">
                     <h5>Institucional</h5>
