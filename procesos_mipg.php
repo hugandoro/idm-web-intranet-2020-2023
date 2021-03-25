@@ -87,22 +87,39 @@ $currentPage = $_SERVER["PHP_SELF"];
         <div class="row">
             <div class="col-lg-12 mb-12">
 
-                <h3>Actas de comité</h3>
+                <h3>Actas de comité - Vigencia 2021</h3>
                 <ul class="tmo_list">
-                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/ACTA 001.pdf" rel="nofollow">Acta N° 1</a></li>
-                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/ACTA 002.pdf" rel="nofollow">Acta N° 2</a></li>
-                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/ACTA 003.pdf" rel="nofollow">Acta N° 3</a></li>
-                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/ACTA 004.pdf" rel="nofollow">Acta N° 4</a></li>
-                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/ACTA 005.pdf" rel="nofollow">Acta N° 5</a></li>
-                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/ACTA 006.pdf" rel="nofollow">Acta N° 6</a></li>
-                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/ACTA 008.pdf" rel="nofollow">Acta N° 8</a></li>
-                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/ACTA 009.pdf" rel="nofollow">Acta N° 9</a></li>
-                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/ACTA 010.pdf" rel="nofollow">Acta N° 10</a></li>
+                    <li>Acta N° 1</li>
+                    <li>Acta N° 2</li>
+                    <li>Acta N° 3</li>
+                    <li>Acta N° 4</li>
+                    <li>Acta N° 5</li>
+                    <li>Acta N° 6</li>
+                    <li>Acta N° 7</li>
+                    <li>Acta N° 8</li>
+                    <li>Acta N° 9</li>
+                    <li>Acta N° 10</li>
+                    <li>Acta N° 11</li>
+                </ul>
+
+                <h3>Actas de comité - Vigencia 2020</h3>
+                <ul class="tmo_list">
+                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2020/ACTA 001.pdf" rel="nofollow">Acta N° 1</a></li>
+                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2020/ACTA 002.pdf" rel="nofollow">Acta N° 2</a></li>
+                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2020/ACTA 003.pdf" rel="nofollow">Acta N° 3</a></li>
+                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2020/ACTA 004.pdf" rel="nofollow">Acta N° 4</a></li>
+                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2020/ACTA 005.pdf" rel="nofollow">Acta N° 5</a></li>
+                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2020/ACTA 006.pdf" rel="nofollow">Acta N° 6</a></li>
+                    <li>Acta N° 7</li>
+                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2020/ACTA 008.pdf" rel="nofollow">Acta N° 8</a></li>
+                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2020/ACTA 009.pdf" rel="nofollow">Acta N° 9</a></li>
+                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2020/ACTA 010.pdf" rel="nofollow">Acta N° 10</a></li>
+                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2020/ACTA 011.pdf" rel="nofollow">Acta N° 11</a></li>
                 </ul>
 
                 <h3>Manuales</h3>
                 <ul class="tmo_list">
-                    <li><a href="" rel="nofollow">Por organizar...</a></li>
+                    <li>Seccion en actualizacion...</li>
                 </ul>
 
                 <h3>Otros documentos</h3>
