@@ -36,8 +36,8 @@ $currentPage = $_SERVER["PHP_SELF"];
 
     <div class="container">
 
-   	<!-- Barra de navegacion superior -->
-       <nav class="navbar navbar-expand-lg navbar-light bg-light rounded">
+        <!-- Barra de navegacion superior -->
+        <nav class="navbar navbar-expand-lg navbar-light bg-light rounded">
             <a class="navbar-brand" href="index.php"><img src="img/logo_idm.png" width="100" height="50" alt=""></a>
 
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExample09" aria-controls="navbarsExample09" aria-expanded="false" aria-label="Toggle navigation">
@@ -70,8 +70,37 @@ $currentPage = $_SERVER["PHP_SELF"];
         <div class="row">
             <div class="col-md-12" align="center">
                 <div style="font-size: 28pt"><b>Intranet Institucional</b></div>
-                <div style="font-size: 18pt">IDM | Instituto de Desarrollo Municipal | Dosquebradas</div><hr>
-                <div><a href="#"><img src="img/banner_sura.jpg" width="100%"></div></a>
+                <div style="font-size: 18pt">IDM | Instituto de Desarrollo Municipal | Dosquebradas</div>
+            </div>
+        </div>
+
+        <hr>
+
+        <!-- Tarjetas -->
+        <div class="row">
+
+            <div class="col-lg-6 mb-6">
+                <div class="card h-100 box-shadow" align="center">
+                    <div><a href="#"><img class="card-img-top" src="img/sura1.jpg"></a></div>
+                </div>
+            </div>
+
+            <div class="col-lg-6 mb-6">
+                <div class="card h-100 box-shadow" align="center">
+                    <div><a href="#"><img class="card-img-top" src="img/sura3.jpg"></a></div>
+                </div>
+            </div>
+        </div>
+
+        <hr>
+
+        <div class="row">
+            <div class="col-md-3" align="center">
+            </div>
+            <div class="col-md-6" align="center">
+                <div><a href="#"><img src="img/sura2.jpg" width="100%"></div></a>
+            </div>
+            <div class="col-md-3" align="center">
             </div>
         </div>
 
@@ -103,7 +132,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                         <h5 class="my-0 font-weight-normal">Milán La Pradera - Prado Verde</h5>
                     </div>
 
-                    <div><a href="https://www.idm.gov.co/web/index.php/plan-de-movilidad/solucion-vial-milan-la-pradera-prado-verde" target="_blank"><img class="card-img-top" src="img/M3.jpg"></a></div> 
+                    <div><a href="https://www.idm.gov.co/web/index.php/plan-de-movilidad/solucion-vial-milan-la-pradera-prado-verde" target="_blank"><img class="card-img-top" src="img/M3.jpg"></a></div>
 
                 </div>
             </div>
@@ -114,7 +143,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                         <h5 class="my-0 font-weight-normal">La Popa – Fase Uno</h5>
                     </div>
 
-                    <div><a href="https://www.idm.gov.co/web/index.php/plan-de-movilidad/solucion-vial-la-popa-fase-uno" target="_blank"><img class="card-img-top" src="img/M1.jpg"></a></div> 
+                    <div><a href="https://www.idm.gov.co/web/index.php/plan-de-movilidad/solucion-vial-la-popa-fase-uno" target="_blank"><img class="card-img-top" src="img/M1.jpg"></a></div>
 
                 </div>
             </div>
@@ -125,7 +154,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                         <h5 class="my-0 font-weight-normal">Quebrada La Víbora - Molivento</h5>
                     </div>
 
-                    <div><a href="https://www.idm.gov.co/web/index.php/plan-de-movilidad/solucion-vial-quebrada-la-vibora-molivento" target="_blank"><img class="card-img-top" src="img/M2.jpg"></a></div> 
+                    <div><a href="https://www.idm.gov.co/web/index.php/plan-de-movilidad/solucion-vial-quebrada-la-vibora-molivento" target="_blank"><img class="card-img-top" src="img/M2.jpg"></a></div>
 
                 </div>
             </div>
@@ -138,7 +167,8 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <div class="col-12 col-md">
                     <center><img class="mb-2" src="img/logo_idm.png" alt="" width="100%">
                         <small class="d-block mb-3 text-muted">Instituo de Desarrollo Municipal</small>
-                        <small class="d-block mb-3 text-muted">&copy; 2020-2023</small></center>
+                        <small class="d-block mb-3 text-muted">&copy; 2020-2023</small>
+                    </center>
                 </div>
                 <div class="col-6 col-md">
                     <h5>Institucional</h5>
