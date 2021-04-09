@@ -76,57 +76,38 @@ $currentPage = $_SERVER["PHP_SELF"];
         <div class="row">
             <div class="col-md-12" align="center">
                 <div style="font-size: 28pt"><b>Intranet Institucional</b></div>
-                <div style="font-size: 18pt">IDM | Mapa de procesos | Modelo Integrado de Planeación y Gestión MIPG</div>
+                <div style="font-size: 18pt">IDM | Memoria institucional y del conocimiento</div>
             </div>
         </div>
 
         <hr>
-        <br id="AnclaParticipacion">
+
+        <div class="col-lg-12 mb-12">
+            <img src="img/Inspiration-WP.jpg" width="100%">
+        </div>
 
         <!-- Tarjetas -->
         <div class="row">
             <div class="col-lg-12 mb-12">
+                <hr><center>Repositorio de memorias de eventos, capacitacones, seminarios, entre otros, de interes intitucional</center><hr>
+            </div>
+        </div>
 
-                <h3>Actas de comité - Vigencia 2021</h3>
+        <br><br>
+
+        <div class="row">
+            <div class="col-lg-6 mb-6">
+                <h3>Capacitaciones</h3>
                 <ul class="tmo_list">
-                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2021/ACTA 001.pdf" rel="nofollow">Acta N° 1</a></li>
-                    <li>Acta N° 2</li>
-                    <li>Acta N° 3</li>
-                    <li>Acta N° 4</li>
-                    <li>Acta N° 5</li>
-                    <li>Acta N° 6</li>
-                    <li>Acta N° 7</li>
-                    <li>Acta N° 8</li>
-                    <li>Acta N° 9</li>
-                    <li>Acta N° 10</li>
-                    <li>Acta N° 11</li>
+                    <li>Proximamente contenido para descargar</li>
                 </ul>
+            </div>
 
-                <h3>Actas de comité - Vigencia 2020</h3>
+            <div class="col-lg-6 mb-6">
+                <h3>Congresos, simposios, seminarios</h3>
                 <ul class="tmo_list">
-                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2020/ACTA 001.pdf" rel="nofollow">Acta N° 1</a></li>
-                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2020/ACTA 002.pdf" rel="nofollow">Acta N° 2</a></li>
-                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2020/ACTA 003.pdf" rel="nofollow">Acta N° 3</a></li>
-                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2020/ACTA 004.pdf" rel="nofollow">Acta N° 4</a></li>
-                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2020/ACTA 005.pdf" rel="nofollow">Acta N° 5</a></li>
-                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2020/ACTA 006.pdf" rel="nofollow">Acta N° 6</a></li>
-                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2020/ACTA 007.pdf" rel="nofollow">Acta N° 7</a></li>
-                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2020/ACTA 008.pdf" rel="nofollow">Acta N° 8</a></li>
-                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2020/ACTA 009.pdf" rel="nofollow">Acta N° 9</a></li>
-                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2020/ACTA 010.pdf" rel="nofollow">Acta N° 10</a></li>
-                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2020/ACTA 011.pdf" rel="nofollow">Acta N° 11</a></li>
+                    <li>Proximamente contenido para descargar</li>
                 </ul>
-
-                <h3>Otros documentos</h3>
-                <ul class="tmo_list">
-                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/otrosdocumentos/Resolucion 019 CIGD.pdf" rel="nofollow">Resolución 019 creación del Comité institucional de gestión y Desempeño de febrero 6 de 2018</a></li>
-                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/otrosdocumentos/resolucion 125.pdf" rel="nofollow">Resolución 125 que adopta el MIPG de agosto 27 de 2018</a></li>
-                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/otrosdocumentos/res 066 - 2020.pdf" rel="nofollow">Resolución 066 modifica la resolución 019 del CIGD del 23 de junio de 2020</a></li>
-                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/otrosdocumentos/resolucion 107 lineas de defensa.pdf" rel="nofollow">Resolución 107 adopta el modelo de líneas de defensa del 28 de agosto de 2020</a></li>
-                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/otrosdocumentos/plan_accion_integrado_MIPG2020.xlsx" rel="nofollow">Plan de acción integrado MIPG 2020</a></li>
-                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/otrosdocumentos/Matriz de responsabilidades MIPG V1.xls" rel="nofollow">Matriz de responsabilidades MIPG V1</a></li>
-                </ul>
-
             </div>
         </div>
 

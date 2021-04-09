@@ -47,16 +47,16 @@ $currentPage = $_SERVER["PHP_SELF"];
             <div class="collapse navbar-collapse" id="navbarsExample09">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="">Informacion Institucional</a>
+                        <a class="nav-link" href="">De interes general |</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="index_mapa.php">Calidad</a>
+                        <a class="nav-link" href="index_mapa.php">Sistema de Calidad |</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="semana_salud.php">Semana de la Salud y Bienestar Social</a>
+                        <a class="nav-link" href="memoria_institucional.php">Memoria institucional y del conocimiento |</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="">Capacitaciones</a>
+                        <a class="nav-link" href="">Capacitaciones |</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="https://www.idm.gov.co/4pl1c4t1v0s/DIRECTORIO/index.php">Directorio</a>
