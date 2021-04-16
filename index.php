@@ -81,6 +81,24 @@ $currentPage = $_SERVER["PHP_SELF"];
 
             <div class="col-lg-6 mb-6">
                 <div class="card h-100 box-shadow" align="center">
+                    <div><a href="#"><img class="card-img-top" src="img/bici1.jpg"></a></div>
+                </div>
+            </div>
+
+            <div class="col-lg-6 mb-6">
+                <div class="card h-100 box-shadow" align="center">
+                    <div><a href="#"><img class="card-img-top" src="img/bici2.jpg"></a></div>
+                </div>
+            </div>
+        </div>
+
+        <hr>
+
+        <!-- Tarjetas -->
+        <div class="row">
+
+            <div class="col-lg-6 mb-6">
+                <div class="card h-100 box-shadow" align="center">
                     <div><a href="#"><img class="card-img-top" src="img/sura1.jpg"></a></div>
                 </div>
             </div>
@@ -89,18 +107,6 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <div class="card h-100 box-shadow" align="center">
                     <div><a href="#"><img class="card-img-top" src="img/sura3.jpg"></a></div>
                 </div>
-            </div>
-        </div>
-
-        <hr>
-
-        <div class="row">
-            <div class="col-md-3" align="center">
-            </div>
-            <div class="col-md-6" align="center">
-                <div><a href="#"><img src="img/sura2.jpg" width="100%"></div></a>
-            </div>
-            <div class="col-md-3" align="center">
             </div>
         </div>
 
