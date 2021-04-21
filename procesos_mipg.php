@@ -90,7 +90,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <h3>Actas de comité - Vigencia 2021</h3>
                 <ul class="tmo_list">
                     <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2021/ACTA 001.pdf" rel="nofollow">Acta N° 1</a></li>
-                    <li>Acta N° 2</li>
+                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2021/ACTA 002.pdf" rel="nofollow">Acta N° 2</a></li>
                     <li>Acta N° 3</li>
                     <li>Acta N° 4</li>
                     <li>Acta N° 5</li>
