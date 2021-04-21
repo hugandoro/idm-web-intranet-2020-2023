@@ -130,13 +130,13 @@ $currentPage = $_SERVER["PHP_SELF"];
                                         
                 <h3>Otros Documentos</h3>
                 <ul class="tmo_list">
-                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Caracterización Rec Fisicos y tecnologicos.xls" rel="nofollow">Caracterización Rec Fisicos y tecnologicos</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Caracterizacion Gestion Documental y de Rec Fisicos V2.xls" rel="nofollow">Caracterizacion Gestion Documental y de Rec Fisicos V2</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Indicador Hoja de Vida  Inventarios.docx" rel="nofollow">Indicador Hoja de Vida  Inventarios</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Indicador Mantenimientos Preventivos por Equipo.docx" rel="nofollow">Indicador Mantenimientos Preventivos por Equipo</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Mapa de Riesgos REc Fisicos y Tec.xls" rel="nofollow">Mapa de Riesgos REc Fisicos y Tec</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Matriz Comunicación Interna.doc" rel="nofollow">Matriz Comunicación Interna</a></li>
-                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Matriz de partes interesadas REc Fis y Tec.xls" rel="nofollow">Matriz de partes interesadas REc Fis y Tec</a></li>
-                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Normograma 2020.doc" rel="nofollow">Normograma 2020</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Matriz de partes interesadas Gest Doc y RRFF V2.xls" rel="nofollow">Matriz de partes interesadas Gest Doc y RRFF V2</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Normograma Gestion Documental y de RRFF V2.doc" rel="nofollow">Normograma Gestion Documental y de RRFF V2</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Tablas de Valoración documental.doc" rel="nofollow">Tablas de Valoración documental</a></li>
 
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/IDM - Manual de ventanilla unica.pdf" rel="nofollow">IDM - Manual de ventanilla unica</a></li>
