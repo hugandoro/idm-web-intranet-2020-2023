@@ -89,8 +89,8 @@ $currentPage = $_SERVER["PHP_SELF"];
  
                 <h3>Formatos</h3>
                 <ul class="tmo_list">
-                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Actualización de documentos.doc" rel="nofollow">Actualización de documentos</a></li>
-                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Carátula Legajos  de Archivo.doc" rel="nofollow">Carátula Legajos  de Archivo</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Actualizacion de documentos V2.doc" rel="nofollow">Actualizacion de documentos V2</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Caratula Legajos de Archivo V2.doc" rel="nofollow">Caratula Legajos de Archivo V2</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Cronograma mantenimiento computadores  y equipos V1.xls" rel="nofollow">Cronograma mantenimiento computadores y equipos V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Depreciaciones.xls" rel="nofollow">Depreciaciones</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Entrega de Papelería V2.xlsx" rel="nofollow">Entrega de Papelería V2</a></li>
@@ -99,13 +99,13 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Ficha de Publicación WEB.docx" rel="nofollow">Ficha de Publicación WEB</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Formato Word V7.doc" rel="nofollow">FORMATO DE WORD - Version 7</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Formato para Baja de inventarios V1.xlsx" rel="nofollow">Formato para Baja de inventarios V1</a></li>
-                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Hoja de Control.docx" rel="nofollow">Hoja de Control</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Hoja de Control V2.docx" rel="nofollow">Hoja de Control V2</a></li>
 
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Hoja de vida PCs V1.xls" rel="nofollow">Hoja de vida PCs V1</a></li>
-                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Inventario Manual.docx" rel="nofollow">Inventario Manual</a></li>
-                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Inventario Unico Documental FIUD.doc" rel="nofollow">Inventario Unico Documental FIUD</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Inventario Manual V2.docx" rel="nofollow">Inventario Manual V2</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Inventario Unico Documental FIUD V2.doc" rel="nofollow">Inventario Unico Documental FIUD V2</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Prestamo Logistica.doc" rel="nofollow">Prestamo Logistica</a></li>
-                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Solicitud Documentos- Archivo.docx" rel="nofollow">Solicitud Documentos- Archivo</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Solicitud Documentos a Archivo V2.docx" rel="nofollow">Solicitud Documentos a Archivo V2</a></li>
                 
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Formatos Limpieza y desfinfeccion archivo V1.xls" rel="nofollow">Formatos Limpieza y desfinfeccion archivo V1</a></li>
                 </ul>
