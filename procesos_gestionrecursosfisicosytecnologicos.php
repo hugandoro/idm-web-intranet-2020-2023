@@ -131,6 +131,8 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <h3>Otros Documentos</h3>
                 <ul class="tmo_list">
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Caracterizacion Gestion Documental y de Rec Fisicos V2.xls" rel="nofollow">Caracterizacion Gestion Documental y de Rec Fisicos V2</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Cuadro de clasificacion documental V1.xls" rel="nofollow">Cuadro de clasificacion documental V1</a></li>
+                
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Indicador Hoja de Vida  Inventarios.docx" rel="nofollow">Indicador Hoja de Vida  Inventarios</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Indicador Mantenimientos Preventivos por Equipo.docx" rel="nofollow">Indicador Mantenimientos Preventivos por Equipo</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Mapa de Riesgos REc Fisicos y Tec.xls" rel="nofollow">Mapa de Riesgos REc Fisicos y Tec</a></li>
