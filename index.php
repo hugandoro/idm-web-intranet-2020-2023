@@ -3,6 +3,24 @@ header('Content-Type: text/html; charset=UTF-8');
 error_reporting(0);
 $currentPage = $_SERVER["PHP_SELF"];
 ?>
+
+<!-- CONTADOR DE VISITAS -->
+<?php
+$archivo = "contador.txt"; //el archivo que contiene en numero
+$f = fopen($archivo, "r"); //abrimos el archivo en modo de lectura
+if ($f) {
+    $contador = fread($f, filesize($archivo)); //leemos el archivo
+    $contador = $contador + 1; //sumamos +1 al contador
+    fclose($f);
+}
+$f = fopen($archivo, "w+");
+if ($f) {
+    fwrite($f, $contador);
+    fclose($f);
+}
+?>
+<!-- FIN CONTADOR -->
+
 <!doctype html>
 <html lang="es">
 
@@ -112,20 +130,18 @@ $currentPage = $_SERVER["PHP_SELF"];
 
         <hr>
 
-        <!--
         <div class="row">
-            <div class="col-md-12" align="center">
-                <div style="font-size: 18pt"><b>Estimado Funcionario / Contratista, participa en la encuesta para la formulación del Plan de Anticorrupción y de Atención al Ciudadano</b></div>
+            <div class="col-md-6" align="center">
+                <div style="font-size: 100pt"><b><?php echo $contador; ?></b></div><br>
+                <div style="font-size: 24pt">Consultas a la intranet</div>
             </div>
-            
-            <div class="col-md-12" align="center">
-                <br>
-                <a href="https://forms.gle/DwgaSqJJQaGrBRne8"><button type="button" class="btn btn-warning btn-block">Ingresar a la encuesta en linea...</button></a>
-                <br>
+            <div class="col-md-6" align="center">
+                <div style="font-size: 100pt"><b><?php echo "0"; ?></b></div><br>
+                <div style="font-size: 24pt">Accidentes laborales 2021</div>
             </div>
         </div>
 
-        <hr>-->
+        <hr>
 
         <br id="AnclaParticipacion">
 
@@ -165,6 +181,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 </div>
             </div>
         </div>
+
 
 
         <!-- Pie de pagina -->

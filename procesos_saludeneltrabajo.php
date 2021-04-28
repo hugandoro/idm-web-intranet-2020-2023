@@ -187,6 +187,15 @@ $currentPage = $_SERVER["PHP_SELF"];
                     <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COVID19/Res 018 marzo 2 de 2021 Modifica Res 062 de 2020.pdf" rel="nofollow">RESOLUCION 018 - 2021 covid 19</a></li>
                 </ul>
 
+                <br><hr>
+
+                <h3>COPASST | Comité de convivencia Laboral y brigada de emergencias</h3>
+                <ul class="tmo_list">
+                    <li><a href="#" rel="nofollow">Pendiente de publicaciones..</a></li>
+                </ul>
+
+                <hr><br>
+
                 <h3>Formulario Para Ausentismo Laboral</h3>
                 <div id="qrcode">
                     <img src="https://www.codigos-qr.com/qr/php/qr_img.php?d=https%3A%2F%2Fforms.gle%2FkP1wDFqAmS6B3HDQ7&s=6&e=m" alt="Generador de Códigos QR Codes"/>
