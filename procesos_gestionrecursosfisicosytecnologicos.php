@@ -91,17 +91,14 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <ul class="tmo_list">
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Actualizacion de documentos V2.doc" rel="nofollow">Actualizacion de documentos V2</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Caratula Legajos de Archivo V2.doc" rel="nofollow">Caratula Legajos de Archivo V2</a></li>
-                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Cronograma mantenimiento computadores  y equipos V1.xls" rel="nofollow">Cronograma mantenimiento computadores y equipos V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Depreciaciones.xls" rel="nofollow">Depreciaciones</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Entrega de Papelería V2.xlsx" rel="nofollow">Entrega de Papelería V2</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Entrega de insumos para identificación.doc" rel="nofollow">Entrega de insumos para identificación</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Ficha de Inventario.xlsx" rel="nofollow">Ficha de Inventario</a></li>
-                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Ficha de Publicación WEB.docx" rel="nofollow">Ficha de Publicación WEB</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Formato Word V7.doc" rel="nofollow">FORMATO DE WORD - Version 7</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Formato para Baja de inventarios V1.xlsx" rel="nofollow">Formato para Baja de inventarios V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Hoja de Control V2.docx" rel="nofollow">Hoja de Control V2</a></li>
 
-                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Hoja de vida PCs V1.xls" rel="nofollow">Hoja de vida PCs V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Inventario Manual V2.docx" rel="nofollow">Inventario Manual V2</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Inventario Unico Documental FIUD V2.doc" rel="nofollow">Inventario Unico Documental FIUD V2</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Prestamo Logistica.doc" rel="nofollow">Prestamo Logistica</a></li>
@@ -113,7 +110,6 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <h3>Manuales</h3>
                 <ul class="tmo_list">
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/manuales/RES 283  MANUAL DE ARCHIVO.pdf" rel="nofollow">RES 283  MANUAL DE ARCHIVO</a></li>
-                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/manuales/RESOLUCION 263-14  MANUAL DE SEGURIDAD.docx" rel="nofollow">RESOLUCION 263-14  MANUAL DE SEGURIDAD</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/manuales/RESOLUCIÓN 051-2020 PGD.pdf" rel="nofollow">RESOLUCIÓN 051-2020 PGD</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/manuales/RESOLUCIÓN 052-2020 PGD.pdf" rel="nofollow">RESOLUCIÓN 052-2020 PGD</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/manuales/PROGRAMA DE GESTION DOCUMENTAL DEL IDM.pdf" rel="nofollow">PROGRAMA DE GESTION DOCUMENTAL DEL IDM</a></li>
@@ -122,7 +118,6 @@ $currentPage = $_SERVER["PHP_SELF"];
 
                 <h3>Procedimientos</h3>
                 <ul class="tmo_list">
-                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/procedimientos/Administracion de recursos tecnologicos V2.pdf" rel="nofollow">Administracion de Recursos Tecnologicos V2</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/procedimientos/Atencion en Ventanilla Unica V2.doc" rel="nofollow">Atencion en Ventanilla Unica V2</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/procedimientos/Control de la Informacion Documentada V2.doc" rel="nofollow">Control de la Informacion Documentada V2</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/procedimientos/Registro de Inventarios.doc" rel="nofollow">Registro de Inventarios</a></li>
@@ -134,7 +129,6 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Cuadro de clasificacion documental V1.xls" rel="nofollow">Cuadro de clasificacion documental V1</a></li>
                 
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Indicador Hoja de Vida  Inventarios.docx" rel="nofollow">Indicador Hoja de Vida  Inventarios</a></li>
-                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Indicador Mantenimientos Preventivos por Equipo.docx" rel="nofollow">Indicador Mantenimientos Preventivos por Equipo</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Mapa de Riesgos REc Fisicos y Tec.xls" rel="nofollow">Mapa de Riesgos REc Fisicos y Tec</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Matriz Comunicación Interna.doc" rel="nofollow">Matriz Comunicación Interna</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Matriz de partes interesadas Gest Doc y RRFF V2.xls" rel="nofollow">Matriz de partes interesadas Gest Doc y RRFF V2</a></li>
