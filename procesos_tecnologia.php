@@ -96,27 +96,27 @@ $currentPage = $_SERVER["PHP_SELF"];
 
                 <h3>Procedimientos</h3>
                 <ul class="tmo_list">
-                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/procedimientos/IDM - Caracterizacion - Gestion de tecnologias de la informacion V1.xls" rel="nofollow">IDM - Caracterizacion - Gestion de tecnologias de la informacion V1</a></li>
-                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/procedimientos/IDM - Mapa de Riesgos - Gestion de tecnologias de la informacion V1.xls" rel="nofollow">IDM - Mapa de Riesgos - Gestion de tecnologias de la informacion V1</a></li>
-                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/procedimientos/IDM - Matriz de partes interesadas V1.xls" rel="nofollow">IDM - Matriz de partes interesadas V1</a></li>
-                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/procedimientos/IDM - Normograma 2021 V1.doc" rel="nofollow">IDM - Normograma 2021 V1</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/otros_documentos/IDM - Caracterizacion - Gestion de tecnologias de la informacion V1.xls" rel="nofollow">IDM - Caracterizacion - Gestion de tecnologias de la informacion V1</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/otros_documentos/IDM - Mapa de Riesgos - Gestion de tecnologias de la informacion V1.xls" rel="nofollow">IDM - Mapa de Riesgos - Gestion de tecnologias de la informacion V1</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/otros_documentos/IDM - Matriz de partes interesadas V1.xls" rel="nofollow">IDM - Matriz de partes interesadas V1</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/otros_documentos/IDM - Normograma 2021 V1.doc" rel="nofollow">IDM - Normograma 2021 V1</a></li>
 
-                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/procedimientos/indicadores/IDM - Indicador - Requerimientos mantenimiento preventivo V1.docx" rel="nofollow">IDM - Indicador - Requerimientos mantenimiento preventivo V1</a></li>
-                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/procedimientos/indicadores/IDM - Indicador - Requerimientos seguridad digital y redes V1.docx" rel="nofollow">IDM - Indicador - Requerimientos seguridad digital y redes V1</a></li>
-                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/procedimientos/indicadores/IDM - Indicador - Requerimientos sistemas de gestion critica V1.docx" rel="nofollow">IDM - Indicador - Requerimientos sistemas de gestion critica V1</a></li>
-                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/procedimientos/indicadores/IDM - Indicador - Requerimientos soporte tecnico y ofimatico V1.docx" rel="nofollow">IDM - Indicador - Requerimientos soporte tecnico y ofimatico V1</a></li>
-                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/procedimientos/indicadores/IDM - Indicador - Requerimientos web y comunicaciones V1.docx" rel="nofollow">IDM - Indicador - Requerimientos web y comunicaciones V1</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/otros_documentos/indicadores/IDM - Indicador - Requerimientos mantenimiento preventivo V1.docx" rel="nofollow">IDM - Indicador - Requerimientos mantenimiento preventivo V1</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/otros_documentos/indicadores/IDM - Indicador - Requerimientos seguridad digital y redes V1.docx" rel="nofollow">IDM - Indicador - Requerimientos seguridad digital y redes V1</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/otros_documentos/indicadores/IDM - Indicador - Requerimientos sistemas de gestion critica V1.docx" rel="nofollow">IDM - Indicador - Requerimientos sistemas de gestion critica V1</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/otros_documentos/indicadores/IDM - Indicador - Requerimientos soporte tecnico y ofimatico V1.docx" rel="nofollow">IDM - Indicador - Requerimientos soporte tecnico y ofimatico V1</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/otros_documentos/indicadores/IDM - Indicador - Requerimientos web y comunicaciones V1.docx" rel="nofollow">IDM - Indicador - Requerimientos web y comunicaciones V1</a></li>
 
-                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/procedimientos/planes_manuales/IDM - Manual de politicas seguridad informatica - Resolucion 263 de 2014 - Ver 1.docx" rel="nofollow">IDM - Manual de politicas seguridad informatica - Resolucion 263 de 2014 - Ver 1</a></li>
-                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/procedimientos/planes_manuales/IDM - Plan de seguridad y privacidad de la informacion - 2021 - Ver 1.pdf" rel="nofollow">IDM - Plan de seguridad y privacidad de la informacion - 2021 - Ver 1</a></li>
-                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/procedimientos/planes_manuales/IDM - Plan de tratamiento de riesgos de seguridad y privacidad de la informacion - 2021 - Ver 1.pdf" rel="nofollow">IDM - Plan de tratamiento de riesgos de seguridad y privacidad de la informacion - 2021 - Ver 1</a></li>
-                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/procedimientos/planes_manuales/IDM - Plan estrategico de tecnologias de la informacion - 2021 - Ver 1.pdf" rel="nofollow">IDM - Plan estrategico de tecnologias de la informacion - 2021 - Ver 1</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/otros_documentos/planes_manuales/IDM - Manual de politicas seguridad informatica - Resolucion 263 de 2014 - Ver 1.docx" rel="nofollow">IDM - Manual de politicas seguridad informatica - Resolucion 263 de 2014 - Ver 1</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/otros_documentos/planes_manuales/IDM - Plan de seguridad y privacidad de la informacion - 2021 - Ver 1.pdf" rel="nofollow">IDM - Plan de seguridad y privacidad de la informacion - 2021 - Ver 1</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/otros_documentos/planes_manuales/IDM - Plan de tratamiento de riesgos de seguridad y privacidad de la informacion - 2021 - Ver 1.pdf" rel="nofollow">IDM - Plan de tratamiento de riesgos de seguridad y privacidad de la informacion - 2021 - Ver 1</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/otros_documentos/planes_manuales/IDM - Plan estrategico de tecnologias de la informacion - 2021 - Ver 1.pdf" rel="nofollow">IDM - Plan estrategico de tecnologias de la informacion - 2021 - Ver 1</a></li>
 
                 </ul>
                                         
                 <h3>Otros Documentos</h3>
                 <ul class="tmo_list">
-                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/otrosdocumentos/IDM - Administracion de recursos tecnologicos V1.doc" rel="nofollow">IDM - Administracion de recursos tecnologicos V1</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/procedimientos/IDM - Administracion de recursos tecnologicos V1.doc" rel="nofollow">IDM - Administracion de recursos tecnologicos V1</a></li>
                 </ul>            
 
 
