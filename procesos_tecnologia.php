@@ -96,6 +96,11 @@ $currentPage = $_SERVER["PHP_SELF"];
 
                 <h3>Procedimientos</h3>
                 <ul class="tmo_list">
+                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/procedimientos/IDM - Administracion de recursos tecnologicos V1.doc" rel="nofollow">IDM - Administracion de recursos tecnologicos V1</a></li>
+                </ul> 
+
+                <h3>Otros Documentos</h3>
+                <ul class="tmo_list">
                 <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/otros_documentos/IDM - Caracterizacion - Gestion de tecnologias de la informacion V1.xls" rel="nofollow">IDM - Caracterizacion - Gestion de tecnologias de la informacion V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/otros_documentos/IDM - Mapa de Riesgos - Gestion de tecnologias de la informacion V1.xls" rel="nofollow">IDM - Mapa de Riesgos - Gestion de tecnologias de la informacion V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/otros_documentos/IDM - Matriz de partes interesadas V1.xls" rel="nofollow">IDM - Matriz de partes interesadas V1</a></li>
@@ -111,15 +116,9 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/otros_documentos/planes_manuales/IDM - Plan de seguridad y privacidad de la informacion - 2021 - Ver 1.pdf" rel="nofollow">IDM - Plan de seguridad y privacidad de la informacion - 2021 - Ver 1</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/otros_documentos/planes_manuales/IDM - Plan de tratamiento de riesgos de seguridad y privacidad de la informacion - 2021 - Ver 1.pdf" rel="nofollow">IDM - Plan de tratamiento de riesgos de seguridad y privacidad de la informacion - 2021 - Ver 1</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/otros_documentos/planes_manuales/IDM - Plan estrategico de tecnologias de la informacion - 2021 - Ver 1.pdf" rel="nofollow">IDM - Plan estrategico de tecnologias de la informacion - 2021 - Ver 1</a></li>
-
                 </ul>
                                         
-                <h3>Otros Documentos</h3>
-                <ul class="tmo_list">
-                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/procedimientos/IDM - Administracion de recursos tecnologicos V1.doc" rel="nofollow">IDM - Administracion de recursos tecnologicos V1</a></li>
-                </ul>            
-
-
+           
             </div>
         </div>
 
