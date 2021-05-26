@@ -99,7 +99,7 @@ $currentPage = $_SERVER["PHP_SELF"];
             <div class="col-lg-6 mb-6">
                 <h3>Capacitaciones</h3>
                 <ul class="tmo_list">
-                    <li>Proximamente contenido para descargar</li>
+                    <li><a href="memoria/capacitacion_participacion_ciudadana_2020.pdf">Mecanismos de participacion ciudadana | Agosto 2020</a></li>
                 </ul>
             </div>
 
