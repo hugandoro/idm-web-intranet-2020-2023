@@ -110,7 +110,7 @@ $currentPage = $_SERVER["PHP_SELF"];
 
                 <h3>Instructivos</h3>
                 <ul class="tmo_list">
-                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/instructivos/Instructivo Identificacion de Peligros y Valoracion de riesgos SST.doc" rel="nofollow">Instructivo Identificacion de Peligros y Valoracion de riesgos SST</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/instructivos/GTC 45 2012 Metodologia IPVR.pdf" rel="nofollow">Guía técnica GT45 para la identificacion de peligros y valoracion de riesgos SST</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/instructivos/Instructivo  Matriz de Riesgos especifica COVID-19.pdf" rel="nofollow">Instructivo  Matriz de Riesgos especifica COVID-19</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/instructivos/Instructivo para Control de Requisitos legales SST.doc" rel="nofollow">Instructivo para Control de Requisitos legales SST</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/instructivos/Instructivo para Investigación de Incidentes, Accidentes de trabajo  y Enfermedad laboral.doc" rel="nofollow">Instructivo para Investigación de Incidentes, Accidentes de trabajo  y Enfermedad laboral</a></li>
@@ -124,7 +124,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Hoja de seguridad Hipoclorito de Sodio.docx" rel="nofollow">Hoja de seguridad Hipoclorito de Sodio</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Matriz de Peligros y Riesgos V3.xls" rel="nofollow">Matriz de peligros y riesgos V3</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Matriz de indicadores SST IDM- Doc Ext ARL SURA.xls" rel="nofollow">Matriz de indicadores SST IDM- Doc Ext ARL SURA</a></li>
-                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Matriz Legal SST 2021.xls" rel="nofollow">Matriz Legal SST 2021</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Matriz Legal SST 2021.xls" rel="nofollow">Matriz Legal SST 2021 (Actualizada)</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Programa de Pausas Activas V1.pdf" rel="nofollow">Programa de Pausas Activas V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Reglamento de Higiene y seguridad V2.pdf" rel="nofollow">Reglamento de Higiene y seguridad V2</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Reglamento SST Contratistas.doc" rel="nofollow">Reglamento SST Contratistas</a></li>
