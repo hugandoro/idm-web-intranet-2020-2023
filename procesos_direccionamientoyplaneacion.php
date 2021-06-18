@@ -108,12 +108,12 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <h3>Procedimientos</h3>
                 <ul class="tmo_list">
                 <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/procedimientos/Atención  la Comunidad.doc" rel="nofollow">Atención  la Comunidad</a></li>
-                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/procedimientos/Elaboración del planoperativo anual de inversión.docx" rel="nofollow">Elaboración del planoperativo anual de inversión</a></li>
+                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/procedimientos/Elaboracion del planoperativo anual de inversion V2.docx" rel="nofollow">Elaboración del planoperativo anual de inversión V2</a></li>
                 <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/procedimientos/Elaboración Plan de Acción.docx" rel="nofollow">Elaboración Plan de Acción</a></li>
                 <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/procedimientos/Elaboración Proyectos de Inversión.docx" rel="nofollow">Elaboración Proyectos de Inversión</a></li>
                 <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/procedimientos/Revisión por la Direccion IDM (1).doc" rel="nofollow">Revisión por la Direccion IDM (1)</a></li>
-                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/procedimientos/Satisfacción de la Comunidad.doc" rel="nofollow">Satisfacción de la Comunidad</a></li>
-                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/procedimientos/Tratamiento de Quejas, Reclamos y Sugerencias-o.k.doc" rel="nofollow">Tratamiento de Quejas, Reclamos y Sugerencias-o.k</a></li>
+                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/procedimientos/Satisfaccion de la Comunidad V2.doc" rel="nofollow">Satisfacción de la Comunidad V2</a></li>
+                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/procedimientos/Tratamiento de Quejas, Reclamos y Sugerencias V2.doc" rel="nofollow">Tratamiento de Quejas, Reclamos y Sugerencias V2</a></li>
                 </ul>
 
                 <h3>Otros Documentos</h3>
