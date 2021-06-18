@@ -45,24 +45,18 @@ $currentPage = $_SERVER["PHP_SELF"];
             </button>
 
             <div class="collapse navbar-collapse" id="navbarsExample09">
-                <ul class="navbar-nav mr-auto">
+            <ul class="navbar-nav mr-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="">Informacion Institucional</a>
+                        <a class="nav-link" href="">De interes general |</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="index_mapa.php">Calidad</a>
+                        <a class="nav-link" href="index_mapa.php">Sistema de Calidad |</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="">Seguridad y salud</a>
+                        <a class="nav-link" href="memoria_institucional.php">Memoria institucional y del conocimiento |</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="">Bienestar social</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="">Capacitaciones</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="">Area social</a>
+                        <a class="nav-link" href="https://soporte.idm.gov.co">Soporte TIC |</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="https://www.idm.gov.co/4pl1c4t1v0s/DIRECTORIO/index.php">Directorio</a>
@@ -148,8 +142,9 @@ $currentPage = $_SERVER["PHP_SELF"];
                     <h5>Institucional</h5>
                     <ul class="list-unstyled text-small">
                         <li><a class="text-muted" href="https://www.idm.gov.co">IDM Portal web oficial</a></li>
-                        <li><a class="text-muted" href="https://sicru.idm.gov.co">SICRU - Sistema de Cruces</a></li>
+                        <li><a class="text-muted" href="https://bien.idm.gov.co">BIEN - Base institucional estadistica normativa</a></li>
                         <li><a class="text-muted" href="https://saga.idm.gov.co">SAGA - Sistema asistencial gestor de archivo</a></li>
+                        <li><a class="text-muted" href="https://soporte.idm.gov.co">MESA TIC - Mesa de ayuda y soporte TIC</a></li>
                     </ul>
                 </div>
                 <div class="col-6 col-md">
