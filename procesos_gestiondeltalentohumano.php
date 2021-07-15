@@ -123,7 +123,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                     
                 <h3>Procedimientos</h3>
                 <ul class="tmo_list">
-                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/procedimientos/Administracion de Personal.doc" rel="nofollow">Administracion de Personal</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/procedimientos/Administracion de Personal V2.doc" rel="nofollow">Administracion de Personal V2</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/procedimientos/Bienestar Social e Incentivos.doc" rel="nofollow">Bienestar Social e Incentivos</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/procedimientos/Desarrollo de Competencias Laborales.doc" rel="nofollow">Desarrollo de Competencias Laborales</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/procedimientos/Planificación y Evaluación de Desempeño ( 1).doc" rel="nofollow">Planificación y Evaluación de Desempeño</a></li>
