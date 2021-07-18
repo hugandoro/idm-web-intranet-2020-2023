@@ -77,7 +77,10 @@ if ($f) {
                         <a class="nav-link" href="https://soporte.idm.gov.co">Soporte TIC |</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://www.idm.gov.co/4pl1c4t1v0s/DIRECTORIO/index.php">Directorio</a>
+                        <a class="nav-link" href="https://www.idm.gov.co/4pl1c4t1v0s/DIRECTORIO/index.php">Directorio |</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="/muro_comentarios/index.php">Muro</a>
                     </li>
                 </ul>
             </div>
