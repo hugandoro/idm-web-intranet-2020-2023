@@ -92,7 +92,6 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Control prestamo Historias Laborales.xls" rel="nofollow">Control prestamo Historias Laborales</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Cronograma Actividades Bienestar social e incentivos V1.xls" rel="nofollow">Cronograma Actividades Bienestar social e incentivos V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Cuestionario retiro.docx" rel="nofollow">Cuestionario retiro</a></li>
-                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Desprendible Nomina V2.xls" rel="nofollow">Desprendible de nomina V2</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Disfrute de Vacaciones.xls" rel="nofollow">Disfrute de Vacaciones</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Encuesta de clima laboral.docx" rel="nofollow">Encuesta de clima laboral</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/formatos/Estado de Vacaciones.xls" rel="nofollow">Estado de Vacaciones</a></li>
