@@ -135,6 +135,13 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/TRD - Resolucion 131.pdf" rel="nofollow">TRD - Tablas de retencion documental - Resolucion 131</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Tablas de Retencion Documental - 2020 - Actualizadas (25-11-2020).pdf" rel="nofollow"><b>TRD - Tablas de retencion documental - 2020 - Actualizadas (25-11-2020)</b></a></li>
 
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Resolucion 077 manual tablas de retencion.pdf" rel="nofollow">Resolucion 077 manual tablas de retencion</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Resolucion 076 Politica Cero Papel.pdf" rel="nofollow">Resolucion 076 Politica Cero Papel</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Manual tablas retencion documental.docx" rel="nofollow">Manual tablas retencion documental</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Politica de cero papel 2021.docx" rel="nofollow">Politica de cero papel 2021</a></li>
+
+
+
                 </ul>            
 
 
