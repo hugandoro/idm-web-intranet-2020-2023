@@ -98,6 +98,9 @@ $currentPage = $_SERVER["PHP_SELF"];
                     <li><a href="memoria/cap_conflicto_interes.pdf">Conflicto de intereses</a></li>
                     <li><a href="memoria/cap_gestion_documental.pdf">Gestion documental | Febrero 2021</a></li>
                     <li><a href="memoria/cap_servicio_ciudadano.pdf">Servicio al ciudadano| 2020</a></li>
+                    <li><a href="memoria/codigo_colores_2021.pdf">Codigo de colores | 2021</a></li>
+                    <li><a href="memoria/prevencion_fraude_2021.ppt">Prevencion del fraude | 2021</a></li>
+
                 </ul>
             </div>
 
