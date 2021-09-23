@@ -132,6 +132,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <h3>Otros Documentos</h3>
                 <ul class="tmo_list">
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/otrosdocumentos/Caracterización Gestion Talento Humano.xls" rel="nofollow">Caracterización Gestion Talento Humano</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/otrosdocumentos/Estatuto del personal - IDM.pdf" rel="nofollow">Estatuto del personal - IDM</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/otrosdocumentos/Indicador capacitación.docx" rel="nofollow">Indicador capacitación</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/otrosdocumentos/Indicador Clima Laboral.docx" rel="nofollow">Indicador Clima Laboral</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/otrosdocumentos/Indicador Evaluación de desempeño.docx" rel="nofollow">Indicador Evaluación de desempeño</a></li>
