@@ -126,6 +126,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/procedimientos/Bienestar Social e Incentivos.doc" rel="nofollow">Bienestar Social e Incentivos</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/procedimientos/Desarrollo de Competencias Laborales.doc" rel="nofollow">Desarrollo de Competencias Laborales</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/procedimientos/Planificación y Evaluación de Desempeño ( 1).doc" rel="nofollow">Planificación y Evaluación de Desempeño</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/procedimientos/Retiro de personal.doc" rel="nofollow">Retiro de personal</a></li>
                 </ul> 
                     
                 <h3>Otros Documentos</h3>
