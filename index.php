@@ -134,6 +134,18 @@ if ($f) {
 
         <div class="row">
 
+            <div class="col-lg-12 mb-12">
+                <div align="center">
+                    <div><a href="manuales_glpi/Manual Mesa de Ayuda GLPI IDM.pdf"><h5>Manual de ayuda - Mesa soporte TIC</h5></a></div>
+                </div>
+            </div>
+
+        </div>
+
+        <hr>
+
+        <div class="row">
+
             <div class="col-lg-6 mb-6">
                 <div class="card h-100 box-shadow" align="center">
                     <div><a href="#"><img class="card-img-top" src="img/bici1.jpg"></a></div>
