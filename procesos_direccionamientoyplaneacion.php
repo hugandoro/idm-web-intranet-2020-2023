@@ -127,7 +127,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/Matriz de interacción Partes Interesadas.xls" rel="nofollow">Matriz de interacción Partes Interesadas</a></li>
                 <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/Matriz Requisitos VS Procesos IDM.doc" rel="nofollow">Matriz Requisitos VS Procesos IDM</a></li>
                 <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/Misión.doc" rel="nofollow">Misión</a></li>
-                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/Normograma 2020.doc" rel="nofollow">Normograma 2020</a></li>
+                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/Normograma Direccion 2021.doc" rel="nofollow">Normograma 2021</a></li>
                 <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/Objetivos del sistema de Gestion Integral V2.doc" rel="nofollow">Objetivos del sistema de Gestión Integral V2</a></li>
                 <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/Politica de Calidad, Seguridad y salud en el Trabajo V1.doc" rel="nofollow">Politica de Calidad, Seguridad y salud en el Trabajo V1</a></li>
                 
