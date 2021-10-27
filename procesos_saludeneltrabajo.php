@@ -118,7 +118,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Hoja de seguridad Hipoclorito de Sodio.docx" rel="nofollow">Hoja de seguridad Hipoclorito de Sodio</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Matriz de Peligros y Riesgos V3.xls" rel="nofollow">Matriz de peligros y riesgos V3</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Matriz de indicadores SST IDM- Doc Ext ARL SURA.xls" rel="nofollow">Matriz de indicadores SST IDM- Doc Ext ARL SURA</a></li>
-                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Matriz Legal SST 2021.xls" rel="nofollow">Matriz Legal SST 2021 (Actualizada)</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Matriz Legal SST 2021 - Octubre.xls" rel="nofollow">Matriz Legal SST 2021 (Octubre)</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Programa de Pausas Activas V1.pdf" rel="nofollow">Programa de Pausas Activas V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Reglamento de Higiene y seguridad V2.pdf" rel="nofollow">Reglamento de Higiene y seguridad V2</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Reglamento SST Contratistas.doc" rel="nofollow">Reglamento SST Contratistas</a></li>
