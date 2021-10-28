@@ -110,6 +110,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/instructivos/Instructivo para Investigación de Incidentes, Accidentes de trabajo  y Enfermedad laboral.doc" rel="nofollow">Instructivo para Investigación de Incidentes, Accidentes de trabajo  y Enfermedad laboral</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/instructivos/Instructivo para la Gestión del Cambio SST.doc" rel="nofollow">Instructivo para la Gestión del Cambio SST</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/instructivos/Instructivo para Limpieza y desinfeccion V1.pdf" rel="nofollow">Instructivo para Limpieza y desinfeccion V1</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/instructivos/Estandar para prevencion de caidas ARL SURA.pdf" rel="nofollow">Estandar para prevencion de caidas ARL SURA</a></li>
                 </ul>
                                         
                 <h3>Otros Documentos</h3>
