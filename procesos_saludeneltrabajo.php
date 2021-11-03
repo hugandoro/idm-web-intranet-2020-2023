@@ -117,7 +117,8 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <ul class="tmo_list">
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Evaluación Inicial  SG-SST  2015.xls" rel="nofollow">Evaluación Inicial  SG-SST  2015</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Hoja de seguridad Hipoclorito de Sodio.docx" rel="nofollow">Hoja de seguridad Hipoclorito de Sodio</a></li>
-                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Matriz de Peligros y Riesgos V3.xls" rel="nofollow">Matriz de peligros y riesgos V3</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Matriz de Peligros y Riesgos V4.xlsx" rel="nofollow">Matriz de peligros y riesgos V4</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Matriz de EPPs V1.xlsx" rel="nofollow">Matriz de elementos de protección personal V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Matriz de indicadores SST IDM- Doc Ext ARL SURA.xls" rel="nofollow">Matriz de indicadores SST IDM- Doc Ext ARL SURA</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Matriz Legal SST 2021 - Octubre.xls" rel="nofollow">Matriz Legal SST 2021 (Octubre)</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Programa de Pausas Activas V1.pdf" rel="nofollow">Programa de Pausas Activas V1</a></li>
