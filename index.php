@@ -99,18 +99,27 @@ if ($f) {
         <div class="row">
 
             <div class="col-lg-6 mb-6">
-                    <div><a href="https://idm.netsaia.com/views/login/login.php"><img class="card-img-top" src="/manuales_saia/logo.png"></a></div>
+                <div><a href="https://idm.netsaia.com/views/login/login.php"><img class="card-img-top" src="/manuales_saia/logo.png"></a></div>
             </div>
 
             <div class="col-lg-6 mb-6">
-                    <div><a href="manuales_saia/MANUAL USUARIO GENERAL SAIA V 8.0 V.1.pdf">Manual de usuario general</a></div>
-                    <div><a href="manuales_saia/09-09-2020 MANUAL USUARIO GESTOR PQRSF SAIA V8.0 - V.1.pdf">Manual Gestor de PQRSF</a></div>
-                    <div><a href="manuales_saia/23-07-2020 MANUAL USUARIO GESTOR CORRESPONDENCIA SAIA V 8.0 V.1.pdf">Manual de gestor de correspondencia</a></div>
-                    <div><a href="manuales_saia/31-08-2020 MANUAL USUARIO ADMINISTRADOR SAIA V 8.0 V.1.pdf">Manual de usuario administrador</a></div>
-                    <div><a href="manuales_saia/04-03-2021 MANUAL COMUNICACIONES SAIA V 8.0 V 1.pdf">Manual de comunicaciones</a></div>
+                <div><a href="manuales_saia/MANUAL USUARIO GENERAL SAIA V 8.0 V.1.pdf">Manual de usuario general</a></div>
+                <div><a href="manuales_saia/09-09-2020 MANUAL USUARIO GESTOR PQRSF SAIA V8.0 - V.1.pdf">Manual Gestor de PQRSF</a></div>
+                <div><a href="manuales_saia/23-07-2020 MANUAL USUARIO GESTOR CORRESPONDENCIA SAIA V 8.0 V.1.pdf">Manual de gestor de correspondencia</a></div>
+                <div><a href="manuales_saia/31-08-2020 MANUAL USUARIO ADMINISTRADOR SAIA V 8.0 V.1.pdf">Manual de usuario administrador</a></div>
+                <div><a href="manuales_saia/04-03-2021 MANUAL COMUNICACIONES SAIA V 8.0 V 1.pdf">Manual de comunicaciones</a></div>
             </div>
 
         </div>
+
+        <hr>
+
+        <div class="row">
+            <div class="col-lg-12 mb-12">
+                <div><a href="https://mivacuna.sispro.gov.co/MiVacuna/Account/Login"><img src="/img/Banner_MiVacuna.png" width=100%></a></div>
+            </div>
+        </div>
+
         <hr>
 
         <!-- Tarjetas -->
@@ -136,7 +145,9 @@ if ($f) {
 
             <div class="col-lg-12 mb-12">
                 <div align="center">
-                    <div><a href="manuales_glpi/Manual Mesa de Ayuda GLPI IDM.pdf"><h5>Manual de ayuda - Mesa soporte TIC</h5></a></div>
+                    <div><a href="manuales_glpi/Manual Mesa de Ayuda GLPI IDM.pdf">
+                            <h5>Manual de ayuda - Mesa soporte TIC</h5>
+                        </a></div>
                 </div>
             </div>
 
