@@ -95,6 +95,9 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <ul class="tmo_list">
                     <li><a href="memoria/capacitacion_participacion_ciudadana_2020.pdf">Mecanismos de participacion ciudadana | Agosto 2020</a></li>
                     <li><a href="memoria/cap_acoso_laboral.pdf">Acoso laboral</a></li>
+
+                    <li><a href="memoria/cap_gestion_conocimiento_junio_2021.pdf">Gestion del conocimiento | Junio 2021</a></li>
+
                     <li><a href="memoria/cap_conflicto_interes.pdf">Conflicto de intereses</a></li>
                     <li><a href="memoria/cap_gestion_documental.pdf">Gestion documental | Febrero 2021</a></li>
                     <li><a href="memoria/cap_servicio_ciudadano.pdf">Servicio al ciudadano| 2020</a></li>
