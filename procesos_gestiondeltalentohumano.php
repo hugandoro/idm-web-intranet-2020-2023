@@ -113,6 +113,14 @@ $currentPage = $_SERVER["PHP_SELF"];
 
                 </ul>
 
+                <h3>Inducción y reinducción</h3>
+                <ul class="tmo_list">
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/INDUCCION_REINDUCCION/Como presentar primera cuenta contratistas.ppt" rel="nofollow">Como presentar primera cuenta contratistas</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/INDUCCION_REINDUCCION/Como realizar CURSO MIPG.ppt" rel="nofollow">Como realizar CURSO MIPG</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/INDUCCION_REINDUCCION/Induccion SIG 2021.ppt" rel="nofollow">Induccion SIG 2021</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/INDUCCION_REINDUCCION/Presentacion Protocolo Bioseguridad COVID 19.ppt" rel="nofollow">Presentacion Protocolo Bioseguridad COVID 19</a></li>
+                </ul>
+
                 <h3>Manuales</h3>
                 <ul class="tmo_list">
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/manuales/Manual de Inducción y Reinducción.doc" rel="nofollow">Manual de Inducción y Reinducción</a></li>
