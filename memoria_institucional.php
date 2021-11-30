@@ -98,6 +98,8 @@ $currentPage = $_SERVER["PHP_SELF"];
 
                     <li><a href="memoria/cap_gestion_conocimiento_junio_2021.pdf">Gestion del conocimiento | Junio 2021</a></li>
 
+                    <li><a href="memoria/cap_generalidades_SST.pdf">Generalidades SST | 2021</a></li>
+
                     <li><a href="memoria/cap_conflicto_interes.pdf">Conflicto de intereses</a></li>
                     <li><a href="memoria/cap_gestion_documental.pdf">Gestion documental | Febrero 2021</a></li>
                     <li><a href="memoria/cap_servicio_ciudadano.pdf">Servicio al ciudadano| 2020</a></li>
