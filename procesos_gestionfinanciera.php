@@ -84,7 +84,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <h3>Formatos</h3>
                 <ul class="tmo_list">
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Acta de Ar queo.doc" rel="nofollow">Acta de Ar queo</a></li>
-                <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Arqueo Diario de Caja.xlsx" rel="nofollow">Arqueo Diario de Caja</a></li>
+                <!-- <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Arqueo Diario de Caja.xlsx" rel="nofollow">Arqueo Diario de Caja</a></li> -->
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Autorizacion gasto Caja Menor V1.xls" rel="nofollow">Autorizacion gasto Caja Menor V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Balance General V1.xls" rel="nofollow">Balance General V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Cert. Dispon. Presupuesta-Registro-Orden de Pago (1).xls" rel="nofollow">Cert. Dispon. Presupuesta-Registro-Orden de Pago (1)</a></li>
