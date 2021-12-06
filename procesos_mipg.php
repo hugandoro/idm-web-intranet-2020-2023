@@ -85,8 +85,8 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <ul class="tmo_list">
                     <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2021/ACTA 001.pdf" rel="nofollow">Acta N° 1</a></li>
                     <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2021/ACTA 002.pdf" rel="nofollow">Acta N° 2</a></li>
-                    <li>Acta N° 3</li>
-                    <li>Acta N° 4</li>
+                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2021/ACTA 003.pdf" rel="nofollow">Acta N° 3</a></li>
+                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2021/ACTA 004.pdf" rel="nofollow">Acta N° 4</a></li>
                     <li>Acta N° 5</li>
                     <li>Acta N° 6</li>
                     <li>Acta N° 7</li>
@@ -118,6 +118,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                     <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/otrosdocumentos/res 066 - 2020.pdf" rel="nofollow">Resolución 066 modifica la resolución 019 del CIGD del 23 de junio de 2020</a></li>
                     <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/otrosdocumentos/resolucion 107 lineas de defensa.pdf" rel="nofollow">Resolución 107 adopta el modelo de líneas de defensa del 28 de agosto de 2020</a></li>
                     <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/otrosdocumentos/plan_accion_integrado_MIPG2020.xlsx" rel="nofollow">Plan de acción integrado MIPG 2020</a></li>
+                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/otrosdocumentos/plan_accion_integrado_MIPG2021.xlsx" rel="nofollow">Plan de acción integrado MIPG 2021</a></li>
                     <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/otrosdocumentos/Matriz de responsabilidades MIPG V1.xls" rel="nofollow">Matriz de responsabilidades MIPG V1</a></li>
                 </ul>
 
