@@ -115,6 +115,8 @@ $currentPage = $_SERVER["PHP_SELF"];
                                         
                 <h3>Otros Documentos</h3>
                 <ul class="tmo_list">
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/ESTILOS DE VIDA SALUDABLE.docx" rel="nofollow">Estilos de vida saludable</a></li>
+
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Evaluación Inicial  SG-SST  2015.xls" rel="nofollow">Evaluación Inicial  SG-SST  2015</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Hoja de seguridad Hipoclorito de Sodio.docx" rel="nofollow">Hoja de seguridad Hipoclorito de Sodio</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Matriz de Peligros y Riesgos V4.xlsx" rel="nofollow">Matriz de peligros y riesgos V4</a></li>
