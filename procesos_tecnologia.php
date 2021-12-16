@@ -110,6 +110,9 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/otros_documentos/planes_manuales/IDM - Plan de seguridad y privacidad de la informacion - 2021 - Ver 1.pdf" rel="nofollow">IDM - Plan de seguridad y privacidad de la informacion - 2021 - Ver 1</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/otros_documentos/planes_manuales/IDM - Plan de tratamiento de riesgos de seguridad y privacidad de la informacion - 2021 - Ver 1.pdf" rel="nofollow">IDM - Plan de tratamiento de riesgos de seguridad y privacidad de la informacion - 2021 - Ver 1</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/otros_documentos/planes_manuales/IDM - Plan estrategico de tecnologias de la informacion - 2021 - Ver 1.pdf" rel="nofollow">IDM - Plan estrategico de tecnologias de la informacion - 2021 - Ver 1</a></li>
+
+                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/otros_documentos/planes_manuales/IDM_Manual_Tecnico_BIEN_Ver_1.0.pdf" rel="nofollow">IDM - Manual tecnico de la plataforma BIEN - 2021 - Ver 1</a></li>
+
                 </ul>
                                         
            
