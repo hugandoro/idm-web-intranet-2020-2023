@@ -191,9 +191,19 @@ $currentPage = $_SERVER["PHP_SELF"];
 
                 <br><hr>
 
-                <h3>COPASST | Comité de convivencia Laboral y brigada de emergencias</h3>
+                <h3>COPASST | Comité de convivencia Laboral y brigada de emergencias | 2021</h3>
                 <ul class="tmo_list">
-                    <li><a href="#" rel="nofollow">Pendiente de publicaciones..</a></li>
+                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COPASST - 2021/acta 1.pdf" rel="nofollow">Acta N° 1</a></li>
+                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COPASST - 2021/acta 2.pdf" rel="nofollow">Acta N° 2</a></li>
+                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COPASST - 2021/acta 3.pdf" rel="nofollow">Acta N° 3</a></li>
+                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COPASST - 2021/acta 4.pdf" rel="nofollow">Acta N° 4</a></li>
+                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COPASST - 2021/acta 5.pdf" rel="nofollow">Acta N° 5</a></li>
+                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COPASST - 2021/acta 6.pdf" rel="nofollow">Acta N° 6</a></li>
+                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COPASST - 2021/acta 7.pdf" rel="nofollow">Acta N° 7</a></li>
+                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COPASST - 2021/acta 8.pdf" rel="nofollow">Acta N° 8</a></li>
+                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COPASST - 2021/acta 9.pdf" rel="nofollow">Acta N° 9</a></li>
+                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COPASST - 2021/acta 10.pdf" rel="nofollow">Acta N° 10</a></li>
+                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COPASST - 2021/acta 11.pdf" rel="nofollow">Acta N° 11</a></li>
                 </ul>
 
                 <hr><br>
