@@ -135,9 +135,9 @@ $currentPage = $_SERVER["PHP_SELF"];
                     
                 <h3>Plan de Emergencias</h3>
                 <ul class="tmo_list">
-                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/Plan de Emergencias/Ruta de Evacuación IDM.pdf" rel="nofollow">Ruta de Evacuación IDM</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/Plan de Emergencias/Ruta de Evacuacion V3.pdf" rel="nofollow">Ruta de Evacuación IDM V3</a></li>
                 
-                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/Plan de Emergencias/Plan de Emergencias V2.doc" rel="nofollow">Plan de emergencia V2</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/Plan de Emergencias/Plan de Emergencias V3.doc" rel="nofollow">Plan de emergencia V3</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/Plan de Emergencias/Plan de Emergencias V2 - Anexo matriz de vulnerabilidad.xls" rel="nofollow">Plan de emergencia V2 - Anexo</a></li>
                 </ul>  
 
