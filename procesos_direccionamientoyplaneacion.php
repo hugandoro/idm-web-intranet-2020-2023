@@ -123,7 +123,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/indicador sanciones.doc" rel="nofollow">indicador sanciones</a></li>
                 <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/indicador satisfaccion del cliente.doc" rel="nofollow">indicador satisfaccion del cliente</a></li>
                 <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/Mapa de Riegos de Corrupción.xls" rel="nofollow">Mapa de Riegos de Corrupción</a></li>
-                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/Mapa de riesgos Direccionamiento y planeacion.xlsx" rel="nofollow">Mapa de riesgos Direccionamiento y planeacion</a></li>
+                <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/MAPA RIESGOS DIRECCIONAMIENTO Y PLANEACION V5.xlsx" rel="nofollow">Mapa de riesgos Direccionamiento y planeacion V5</a></li>
                 <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/Matriz de interacción Partes Interesadas.xls" rel="nofollow">Matriz de interacción Partes Interesadas</a></li>
                 <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/Matriz Requisitos VS Procesos IDM.doc" rel="nofollow">Matriz Requisitos VS Procesos IDM</a></li>
                 <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/otrosdocumentos/Misión.doc" rel="nofollow">Misión</a></li>

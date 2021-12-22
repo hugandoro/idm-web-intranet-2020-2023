@@ -140,7 +140,10 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/otrosdocumentos/Indicador  Solidez.docx" rel="nofollow">Indicador  Solidez</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/otrosdocumentos/Indicador Capital Neto de Trabajo.docx" rel="nofollow">Indicador Capital Neto de Trabajo</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/otrosdocumentos/Matriz partes interesadas Financiera.xls" rel="nofollow">Matriz partes interesadas Financiera</a></li>
-                <li><a href="mapa_procesos/mapa/gestionfinanciera/otrosdocumentos/Mapa de Riesgos.xls" rel="nofollow">Mapa de Riesgos</a></li>
+                
+                <li><a href="mapa_procesos/mapa/gestionfinanciera/otrosdocumentos/MAPA RIESGOS GESTION FINANCIERA PARTE 1 V5.xlsx" rel="nofollow">Mapa de Riesgos 1 - V5</a></li>
+                <li><a href="mapa_procesos/mapa/gestionfinanciera/otrosdocumentos/MAPA RIESGOS GESTION FINANCIERA PARTE 2 V5.xlsx" rel="nofollow">Mapa de Riesgos 2 - V5</a></li>
+
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/otrosdocumentos/Normograma 2020.doc" rel="nofollow">Normograma 2020</a></li>
                 </ul>  
     

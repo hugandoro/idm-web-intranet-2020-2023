@@ -144,7 +144,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/otrosdocumentos/Indicador capacitación.docx" rel="nofollow">Indicador capacitación</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/otrosdocumentos/Indicador Clima Laboral.docx" rel="nofollow">Indicador Clima Laboral</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/otrosdocumentos/Indicador Evaluación de desempeño.docx" rel="nofollow">Indicador Evaluación de desempeño</a></li>
-                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/otrosdocumentos/Mapa de Riesgos Gestion Talento Humano.xls" rel="nofollow">Mapa de Riesgos Gestion Talento Humano</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/otrosdocumentos/MAPA RIESGOS GESTION DEL TALENTO HUMANO V5.xlsx" rel="nofollow">Mapa de Riesgos Gestion Talento Humano V5</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/otrosdocumentos/Matriz de  Partes Interesadas Gestión Estrategico del Recurso humano.xls" rel="nofollow">Matriz de  Partes Interesadas Gestión Estrategico del Recurso humano</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/otrosdocumentos/Normograma TH 2021.doc" rel="nofollow">Normograma 2021</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/otrosdocumentos/Protocolo de prevencion y actuacion acoso laboral Mintrabajo.pdf" rel="nofollow">Protocolo de prevencion y actuacion acoso laboral Mintrabajo</a></li>
