@@ -126,6 +126,8 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestionjuridica/otros documentos/MAPA RIESGOS GESTION JURIDICA PARTE 1 V5.xlsx" rel="nofollow">Mapa de Riesgos Gestión Juridica 1 - V5</a></li>
                 <li><a href="mapa_procesos/mapa/gestionjuridica/otros documentos/MAPA RIESGOS GESTION JURIDICA PARTE 2 V5.xlsx" rel="nofollow">Mapa de Riesgos Gestión Juridica 2 - V5</a></li>
 
+                <li><a href="mapa_procesos/mapa/gestionjuridica/otros documentos/manual_contratacion_idm_2021.pdf" rel="nofollow">Manual de contratación - 2021</a></li>
+
                 <li><a href="mapa_procesos/mapa/gestionjuridica/otros documentos/Matriz de interacción Partes Interesadas.xls" rel="nofollow">Matriz de interacción Partes Interesadas</a></li>
                 <li><a href="mapa_procesos/mapa/gestionjuridica/otros documentos/Normograma 2020.doc" rel="nofollow">Normograma 2020</a></li>
                 </ul>      
