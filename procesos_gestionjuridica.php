@@ -127,6 +127,8 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestionjuridica/otros documentos/MAPA RIESGOS GESTION JURIDICA PARTE 2 V5.xlsx" rel="nofollow">Mapa de Riesgos Gestión Juridica 2 - V5</a></li>
 
                 <li><a href="mapa_procesos/mapa/gestionjuridica/otros documentos/manual_contratacion_idm_2021.pdf" rel="nofollow">Manual de contratación - 2021</a></li>
+                <li><a href="https://idm.gov.co/web/index.php/nuevo-esquema/4-normatividad/4-4-resoluciones/send/381-2022/716-resolucion-004-del-13-de-enero-de-2022" rel="nofollow">Procedimiento para adelantar contratos fiduciarios de regimen especial | Resolucion N° 004 - 2022</a></li>
+
 
                 <li><a href="mapa_procesos/mapa/gestionjuridica/otros documentos/Matriz de interacción Partes Interesadas.xls" rel="nofollow">Matriz de interacción Partes Interesadas</a></li>
                 <li><a href="mapa_procesos/mapa/gestionjuridica/otros documentos/Normograma 2020.doc" rel="nofollow">Normograma 2020</a></li>

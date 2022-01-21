@@ -94,7 +94,6 @@ if ($f) {
                 <div style="font-size: 18pt">IDM | Instituto de Desarrollo Municipal | Dosquebradas</div>
             </div>
         </div>
-        <div style="text-align: center; position: absolute; z-index: 5;"><a href="https://www.youtube.com/watch?v=9VRaDOxr6eQ" style= "@media screen and (max-width: 980px) display: none; right: 100px; height: 380px; width: 100px; position: fixed; bottom: -5px;"><img src="https://3.bp.blogspot.com/-hmAJuNzXnL0/WEOaysTp3rI/AAAAAAAGd-k/PgbQsLYkZUQDJKy9VRMBgtPdpdbrqmjkACLcB/s1600/arbol-ro-compartidisimo_thumb%255B2%255D.gif" _fcksavedurl="" alt="" /></a></div>
         <hr>
         <div class="row">
 
