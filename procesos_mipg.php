@@ -87,13 +87,9 @@ $currentPage = $_SERVER["PHP_SELF"];
                     <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2021/ACTA 002.pdf" rel="nofollow">Acta N° 2</a></li>
                     <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2021/ACTA 003.pdf" rel="nofollow">Acta N° 3</a></li>
                     <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2021/ACTA 004.pdf" rel="nofollow">Acta N° 4</a></li>
-                    <li>Acta N° 5</li>
-                    <li>Acta N° 6</li>
-                    <li>Acta N° 7</li>
-                    <li>Acta N° 8</li>
-                    <li>Acta N° 9</li>
-                    <li>Acta N° 10</li>
-                    <li>Acta N° 11</li>
+                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2021/ACTA 005.pdf" rel="nofollow">Acta N° 5</a></li>
+                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2021/ACTA 006.pdf" rel="nofollow">Acta N° 6</a></li>
+                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2021/ACTA 007.pdf" rel="nofollow">Acta N° 7</a></li>
                 </ul>
 
                 <h3>Actas de comité - Vigencia 2020</h3>
