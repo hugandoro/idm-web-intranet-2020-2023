@@ -115,7 +115,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                     <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/otrosdocumentos/resolucion 107 lineas de defensa.pdf" rel="nofollow">Resolución 107 adopta el modelo de líneas de defensa del 28 de agosto de 2020</a></li>
                     <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/otrosdocumentos/plan_accion_integrado_MIPG2020.xlsx" rel="nofollow">Plan de acción integrado MIPG 2020</a></li>
                     <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/otrosdocumentos/plan_accion_integrado_MIPG2021.xlsx" rel="nofollow">Plan de acción integrado MIPG 2021</a></li>
-                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/otrosdocumentos/Matriz de responsabilidades MIPG V1.xls" rel="nofollow">Matriz de responsabilidades MIPG V1</a></li>
+                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/otrosdocumentos/Matriz de responsabilidades MIPG V2.pdf" rel="nofollow">Matriz de responsabilidades MIPG V2</a></li>
                 </ul>
 
             </div>
