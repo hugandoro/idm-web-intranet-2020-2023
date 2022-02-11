@@ -90,7 +90,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Plan de Accion de Control Interno.xls" rel="nofollow">Plan de Acción de Control Interno</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Plan de Auditoria Interna C.I.docx" rel="nofollow">Plan de Auditoria Interna C.I</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Plan de Auditoria Interna.docx" rel="nofollow">Plan de Auditoria Interna</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Plan de Mejoramiento.doc" rel="nofollow">Plan de Mejoramiento</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Formato Plan de Mejoramiento V1.doc" rel="nofollow">Plan de Mejoramiento V1</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Programa Anual de auditoria C.I.xls" rel="nofollow">Programa Anual de auditoria C.I</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Programacion Auditoria Interna.docx" rel="nofollow">Programación Auditoria Interna</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Reporte de Acto de Corrupcion o Irregularidad Administrativa V.1.docx" rel="nofollow">Reporte de Acto de Corrupción o Irregularidad Administrativa V.1</a></li>
