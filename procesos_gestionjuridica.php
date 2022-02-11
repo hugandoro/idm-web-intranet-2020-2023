@@ -131,7 +131,7 @@ $currentPage = $_SERVER["PHP_SELF"];
 
 
                 <li><a href="mapa_procesos/mapa/gestionjuridica/otros documentos/Matriz de interacción Partes Interesadas.xls" rel="nofollow">Matriz de interacción Partes Interesadas</a></li>
-                <li><a href="mapa_procesos/mapa/gestionjuridica/otros documentos/Normograma 2020.doc" rel="nofollow">Normograma 2020</a></li>
+                <li><a href="mapa_procesos/mapa/gestionjuridica/otros documentos/Normograma 2022.pdf" rel="nofollow">Normograma 2022</a></li>
                 </ul>      
 
             </div>
