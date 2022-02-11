@@ -84,6 +84,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <h3>Formatos</h3>
                 <ul class="tmo_list">
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Acta de compromiso cerramiento de lote.doc" rel="nofollow">Acta de compromiso cerramiento de lote</a></li>
+                <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Acta de Cerramiento de Lote V1.doc" rel="nofollow">Acta de cerramiento de lote V1</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Acta de Seguimiento Compromisos.docx" rel="nofollow">Acta de Seguimiento Compromisos</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Acta de Seguimiento Concepto Tecnico Remitido por la DIGER.docx" rel="nofollow">Acta de Seguimiento Concepto Tecnico Remitido por la DIGER</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Acta de Visita Técnica  Legalización.docx" rel="nofollow">Acta de Visita Técnica  Legalización</a></li>
