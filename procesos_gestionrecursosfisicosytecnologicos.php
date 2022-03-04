@@ -70,7 +70,7 @@ $currentPage = $_SERVER["PHP_SELF"];
         <div class="row">
             <div class="col-md-12" align="center">
                 <div style="font-size: 28pt"><b>Intranet Institucional</b></div>
-                <div style="font-size: 18pt">IDM | Mapa de procesos | Gestion de recursos fisicos y tecnologicos</div>
+                <div style="font-size: 18pt">IDM | Mapa de procesos | Gestión documental y de recursos físicos</div>
             </div>
         </div>
 
