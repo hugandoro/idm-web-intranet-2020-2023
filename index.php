@@ -200,8 +200,8 @@ if ($f) {
                 <div style="font-size: 24pt">Consultas a la intranet</div>
             </div>
             <div class="col-md-6" align="center">
-                <div style="font-size: 100pt"><b><?php echo "01"; ?></b></div><br>
-                <div style="font-size: 24pt">Accidentes laborales 2021</div>
+                <div style="font-size: 100pt"><b><?php echo "00"; ?></b></div><br>
+                <div style="font-size: 24pt">Accidentes laborales 2022</div>
             </div>
         </div>
 

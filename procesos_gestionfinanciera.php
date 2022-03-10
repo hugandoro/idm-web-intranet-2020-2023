@@ -103,6 +103,9 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Formatos tesoreria.xls" rel="nofollow">Formatos tesoreria</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Informe Diario de Ingresos.xlsx" rel="nofollow">Informe Diario de Ingresos</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Intereses cesantias.xls" rel="nofollow">Intereses cesantias</a></li>
+                
+                <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Lista documentos anexos para Cuentas contratistas V1.xlsx" rel="nofollow">Lista documentos anexos para Cuentas contratistas V1</a></li>
+
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Nomina de  Funcionarios" rel="nofollow">Nomina de  Funcionarios</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Pago de Cesantias Anuales- Fondo de C.xls" rel="nofollow">Pago de Cesantias Anuales- Fondo de C</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Pago de Cesantias Fondo Nacional  del Ahorro Mensual.xls" rel="nofollow">Pago de Cesantias Fondo Nacional  del Ahorro Mensual</a></li>
