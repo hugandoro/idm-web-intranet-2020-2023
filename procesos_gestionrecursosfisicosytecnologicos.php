@@ -140,7 +140,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Manual tablas retencion documental.docx" rel="nofollow">Manual tablas retencion documental</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Politica de cero papel 2021.docx" rel="nofollow">Politica de cero papel 2021</a></li>
 
-                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Sistema Integrado de Conservacion 2021.pdf" rel="nofollow">Sistema Integrado de Conservacion 2021</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Sistema Integrado de Conservacion 2022.pdf" rel="nofollow">Sistema Integrado de Conservacion 2022</a></li>
 
                 </ul>            
 
