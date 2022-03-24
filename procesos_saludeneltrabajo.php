@@ -204,6 +204,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                     <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COPASST - 2021/acta 9.pdf" rel="nofollow">Acta N° 9</a></li>
                     <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COPASST - 2021/acta 10.pdf" rel="nofollow">Acta N° 10</a></li>
                     <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COPASST - 2021/acta 11.pdf" rel="nofollow">Acta N° 11</a></li>
+                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COPASST - 2021/acta 12.pdf" rel="nofollow">Acta N° 12</a></li>
                 </ul>
 
                 <hr><br>
