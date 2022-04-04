@@ -111,6 +111,8 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Registro fotografico V2.doc" rel="nofollow">Registro fotografico V2</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Registro y Control para Firma de Escrituración.docx" rel="nofollow">Registro y Control para Firma de Escrituración</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Visita seguimiento Unificada.doc" rel="nofollow">Visita seguimiento Unificada</a></li>
+                <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Visita Tecnica Mejoramiento Integral de Barrios V1.docx" rel="nofollow">Visita Tecnica Mejoramiento Integral de Barrios V1</a></li>
+
                 </ul>
 
                 <h3>Manuales</h3>
