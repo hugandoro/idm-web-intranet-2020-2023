@@ -107,9 +107,11 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/otros_documentos/indicadores/IDM - Indicador - Requerimientos web y comunicaciones V1.docx" rel="nofollow">IDM - Indicador - Requerimientos web y comunicaciones V1</a></li>
 
                 <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/otros_documentos/planes_manuales/IDM - Manual de politicas seguridad informatica - Resolucion 263 de 2014 - Ver 1.docx" rel="nofollow">IDM - Manual de politicas seguridad informatica - Resolucion 263 de 2014 - Ver 1</a></li>
-                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/otros_documentos/planes_manuales/IDM - Plan de seguridad y privacidad de la informacion - 2021 - Ver 1.pdf" rel="nofollow">IDM - Plan de seguridad y privacidad de la informacion - 2021 - Ver 1</a></li>
-                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/otros_documentos/planes_manuales/IDM - Plan de tratamiento de riesgos de seguridad y privacidad de la informacion - 2021 - Ver 1.pdf" rel="nofollow">IDM - Plan de tratamiento de riesgos de seguridad y privacidad de la informacion - 2021 - Ver 1</a></li>
-                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/otros_documentos/planes_manuales/IDM - Plan estrategico de tecnologias de la informacion - 2021 - Ver 1.pdf" rel="nofollow">IDM - Plan estrategico de tecnologias de la informacion - 2021 - Ver 1</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/otros_documentos/planes_manuales/Plan de seguridad y privacidad de la informacion 2022 IDM.pdf" rel="nofollow">IDM - Plan de seguridad y privacidad de la informacion - 2022</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/otros_documentos/planes_manuales/Plan de tratamiento de riesgos de seguridad y privacidad de la informacion 2022 IDM.pdf" rel="nofollow">IDM - Plan de tratamiento de riesgos de seguridad y privacidad de la informacion - 2022</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/otros_documentos/planes_manuales/Plan Estrategico de Tecnologicas de la Informacion PETI 2019-2022.pdf" rel="nofollow">IDM - Plan estrategico de tecnologias de la informacion - 2022</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/otros_documentos/planes_manuales/Inventario_Activos_Informacion_2022.pdf" rel="nofollow">IDM - Inventario activos de información - 2022</a></li>
+
 
                 <li><a href="mapa_procesos/mapa/gestiondetecnologiasdelainformacion/otros_documentos/planes_manuales/IDM_Manual_Tecnico_BIEN_Ver_1.0.pdf" rel="nofollow">IDM - Manual tecnico de la plataforma BIEN - 2021 - Ver 1</a></li>
 
