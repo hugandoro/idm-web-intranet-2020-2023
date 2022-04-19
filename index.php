@@ -97,6 +97,10 @@ if ($f) {
         <hr>
         <div class="row">
 
+            <div class="col-lg-12 mb-12">
+                <div><a href="https://historico.cnsc.gov.co/index.php/entidades-del-orden-nacional-2022"><img class="card-img-top" src="/img/BANNER WEB EO TERRITORIAL 2022 ASCENSO.jpg"></a></div>
+            </div>
+
             <div class="col-lg-4 mb-4">
                 <div><a href="https://idm.netsaia.com/views/login/login.php"><img class="card-img-top" src="/img/SAIA-software-de-gestion-documental-1.png"></a></div>
             </div>
