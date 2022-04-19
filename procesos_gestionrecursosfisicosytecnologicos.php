@@ -125,6 +125,8 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Cuadro de clasificacion documental V1.xls" rel="nofollow">Cuadro de clasificacion documental V1</a></li>
                 
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Indicador Hoja de Vida  Inventarios.docx" rel="nofollow">Indicador Hoja de Vida  Inventarios</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Indicador Cumplimiento PINAR.docx" rel="nofollow">Indicador de cumnplimiento PINAR</a></li>
+
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/MAPA RIESGOS GESTION DOCUMENTAL Y REC FISICOS V5.xlsx" rel="nofollow">Mapa de riesgos gestion documental y recursos fisicos V5</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Matriz Comunicación Interna.doc" rel="nofollow">Matriz Comunicación Interna</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Matriz de partes interesadas Gest Doc y RRFF V2.xls" rel="nofollow">Matriz de partes interesadas Gest Doc y RRFF V2</a></li>
