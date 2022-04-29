@@ -86,7 +86,6 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Acta de compromiso cerramiento de lote.doc" rel="nofollow">Acta de compromiso cerramiento de lote</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Acta de Cerramiento de Lote V1.doc" rel="nofollow">Acta de cerramiento de lote V1</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Acta de Seguimiento Compromisos.docx" rel="nofollow">Acta de Seguimiento Compromisos</a></li>
-                <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Acta de Seguimiento Concepto Tecnico Remitido por la DIGER.docx" rel="nofollow">Acta de Seguimiento Concepto Tecnico Remitido por la DIGER</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Acta de Visita Técnica  Legalización.docx" rel="nofollow">Acta de Visita Técnica  Legalización</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Acta de Visita Técnica Cerramiento de Lote V2.doc" rel="nofollow">Acta de Visita Técnica Cerramiento de Lote V2</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Acta de Visita Tecnica Mejoramiento de Vivienda V2.doc" rel="nofollow">Acta de Visita Técnica Mejoramiento de Vivienda V2</a></li>
@@ -94,14 +93,9 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Caracterización OPV.doc" rel="nofollow">Caracterización OPV</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Censo de Vivienda Gratuita V1.xls" rel="nofollow">Censo de Vivienda Gratuita V1</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Control de Cerramiento de Lotes V1.xls" rel="nofollow">Control de Cerramiento de Lotes V1</a></li>
-                <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Encuesta de Satisfacción Atención a la Comunidad Vivienda Gratuita.doc" rel="nofollow">Encuesta de Satisfacción Atención a la Comunidad Vivienda Gratuita</a></li>
-                <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Estudio Socioeconomico.docx" rel="nofollow">Estudio Socioeconomico</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Evaluación de Postulaciones mejoramiento  de vivienda.docx" rel="nofollow">Evaluación de Postulaciones mejoramiento  de vivienda</a></li>
-                <li><a href="mapa_procesos/mapa/obrasinterespublico/formatos/Formatos Obras V4.xls" rel="nofollow">Formatos obras V4</a></li>
-                <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Lista de Chequeo (SST).xlsx" rel="nofollow">Lista de Chequeo (SST)</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Presupuesto Mejoramiento de Vivienda.xls" rel="nofollow">Presupuesto Mejoramiento de Vivienda</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Programación Semanal de Transporte V2.docx" rel="nofollow">Programación Semanal de Transporte V2</a></li>
-                <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Queja de Lote sin Cerramiento.docx" rel="nofollow">Queja de Lote sin Cerramiento</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Recibo de Predio por Proceso de Reubicación.docx" rel="nofollow">Recibo de Predio por Proceso de Reubicación</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Registro  de Atención a la Comunidad Proyectos de Vivienda.docx" rel="nofollow">Registro  de Atención a la Comunidad Proyectos de Vivienda</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Registro Asistencia Reuniones Comunidad V2.docx" rel="nofollow">Registro Asistencia Reuniones Comunidad V2</a></li>
@@ -110,20 +104,15 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Registro diseño Arquitectonico.doc" rel="nofollow">Registro diseño Arquitectonico</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Registro fotografico V2.doc" rel="nofollow">Registro fotografico V2</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Registro y Control para Firma de Escrituración.docx" rel="nofollow">Registro y Control para Firma de Escrituración</a></li>
-                <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Visita seguimiento Unificada.doc" rel="nofollow">Visita seguimiento Unificada</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/formatos/Visita Tecnica Mejoramiento Integral de Barrios V1.docx" rel="nofollow">Visita Tecnica Mejoramiento Integral de Barrios V1</a></li>
 
                 </ul>
 
                 <h3>Manuales</h3>
                 <ul class="tmo_list">
-                <li><a href="mapa_procesos/mapa/viviendayurbanismo/manuales/MANUAL DEL USUARIO CERRAMIENTO DE LOTES.doc" rel="nofollow">MANUAL DEL USUARIO CERRAMIENTO DE LOTES</a></li>
-                <li><a href="mapa_procesos/mapa/viviendayurbanismo/manuales/PROCEDIMIENTO SICRU COMPLETO.docx" rel="nofollow">PROCEDIMIENTO SICRU COMPLETO</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/manuales/RESOLUCION 305 SUBSIDIOS.pdf" rel="nofollow">RESOLUCION 305 SUBSIDIOS</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/manuales/RES 017-2018  MODIFICA RESOLUCIÓN 317 DE 2014.pdf" rel="nofollow">RES 017-2018  MODIFICA RESOLUCIÓN 317 DE 2014</a></li>
-                <li><a href="mapa_procesos/mapa/viviendayurbanismo/manuales/RESOLUCIÓN SICRU N° 087.pdf" rel="nofollow">RESOLUCIÓN SICRU N° 087</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/manuales/RESOLUCION 318 SUBSIDIOS.pdf" rel="nofollow">RESOLUCION 318 SUBSIDIOS</a></li>
-                <li><a href="mapa_procesos/mapa/viviendayurbanismo/manuales/RESOLUCION CERRAMIENTO DE LOTES.pdf" rel="nofollow">RESOLUCION CERRAMIENTO DE LOTES</a></li>
                 </ul>
 
                 <h3>Procedimientos</h3>
