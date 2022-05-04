@@ -127,7 +127,7 @@ $currentPage = $_SERVER["PHP_SELF"];
 
                 <h3>Otros documentos</h3>
                 <ul class="tmo_list">
-                <li><a href="mapa_procesos/mapa/viviendayurbanismo/otros documentos/Caracterización vivienda urbanismo y obras de interes publico por valorizacion.xls" rel="nofollow">Caracterización vivienda urbanismo y obras de interes publico por valorizacion</a></li>
+                <li><a href="mapa_procesos/mapa/viviendayurbanismo/otros documentos/Caracterizacion Vivienda urbanismo y obras de interes publico V2.xls" rel="nofollow">Caracterización vivienda urbanismo y obras de interes publico por valorizacion V2</a></li>
                 
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/otros documentos/Indicador predios legalizados 2021 - V1.doc" rel="nofollow">Indicador predios legalizados V1</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/otros documentos/Indicador subsidios mejoramiento de vivienda 2021- V1.doc" rel="nofollow">Indicador subsidio de mejoramiento V1</a></li>
