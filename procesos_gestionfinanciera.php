@@ -99,6 +99,9 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Ejecución Presupuestal Ingresos.xls" rel="nofollow">Ejecución Presupuestal Ingresos</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Estado de Cambios  Patrimonio.xls" rel="nofollow">Estado de Cambios  Patrimonio</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Estado de la Actividad Economica.xls" rel="nofollow">Estado de la Actividad Economica</a></li>
+                
+                <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Formato Cuenta de Cobro Contratistas.xlsx" rel="nofollow">Formato cuenta de cobro contratistas</a></li>
+                
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Formatos Contabilidad.xlsx" rel="nofollow">Formatos Contabilidad</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Formatos tesoreria.xls" rel="nofollow">Formatos tesoreria</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Informe Diario de Ingresos.xlsx" rel="nofollow">Informe Diario de Ingresos</a></li>
