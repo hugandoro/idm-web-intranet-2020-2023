@@ -109,6 +109,8 @@ $currentPage = $_SERVER["PHP_SELF"];
                     <li><a href="memoria/Sistema integrado de conservacion SIC - 2021.ppt">Sistema integrado de conservacion SIC | 2021</a></li>
                     <li><a href="memoria/Roles control interno - 2021.ppt">Roles control interno | 2021</a></li>
 
+                    <li><a href="memoria/Digitalizacion de documentos AGN 2022.pdf">Digitalizacion de documentos AGN | 2022</a></li>
+
                 </ul>
             </div>
 
