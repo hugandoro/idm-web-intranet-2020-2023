@@ -190,13 +190,23 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <ul class="tmo_list">
                     <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COVID19/Matriz Riesgo Covid 19 V1.xls" rel="nofollow">Matriz Riesgo Covid 19 V1</a></li>
                     <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COVID19/Induccion Protocolo Bioseguridad COVID 19.pdf" rel="nofollow">Induccion Protocolo Bioseguridad COVID 19</a></li>
-                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COVID19/Protocolo Bioseguridad COVID 19 V3.doc" rel="nofollow">Protocolo Bioseguridad COVID 19 V3</a></li>
+                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COVID19/Protocolo Bioseguridad COVID 19 Version 4.doc" rel="nofollow">Protocolo Bioseguridad COVID 19 V4</a></li>
+                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COVID19/Resolucion 044 de abril 29 de 2022 protocolo bioseguridad.pdf" rel="nofollow">RESOLUCION 044 - 2022 protocolo bioseguridad</a></li>
+
                     <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COVID19/RESOLUCION 062 covid 19.pdf" rel="nofollow">RESOLUCION 062 - 2020 covid 19</a></li>
                     <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COVID19/Res 018 marzo 2 de 2021 Modifica Res 062 de 2020.pdf" rel="nofollow">RESOLUCION 018 - 2021 covid 19</a></li>
                     <li><a href="https://www.idm.gov.co/web/index.php/nuevo-esquema/4-normatividad/4-4-resoluciones/download/314-2021/669-resolucion-065-del-08-de-junio-de-2021" rel="nofollow">RESOLUCION 065 - 2021 covid 19</a></li>
                 </ul>
 
                 <br><hr>
+
+                <h3>COPASST | Comité de convivencia Laboral y brigada de emergencias | 2022</h3>
+                <ul class="tmo_list">
+                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COPASST - 2022/acta 1 copasst 2022.pdf" rel="nofollow">Acta N° 1</a></li>
+                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COPASST - 2022/acta 2 copasst 2022.pdf" rel="nofollow">Acta N° 2</a></li>
+                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COPASST - 2022/acta 3 copasst 2022.pdf" rel="nofollow">Acta N° 3</a></li>
+                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COPASST - 2022/acta 4 copasst 2022.pdf" rel="nofollow">Acta N° 4</a></li>
+                </ul>
 
                 <h3>COPASST | Comité de convivencia Laboral y brigada de emergencias | 2021</h3>
                 <ul class="tmo_list">
