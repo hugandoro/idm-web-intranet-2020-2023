@@ -89,7 +89,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Balance General V1.xls" rel="nofollow">Balance General V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Cert. Dispon. Presupuesta-Registro-Orden de Pago (1).xls" rel="nofollow">Cert. Dispon. Presupuesta-Registro-Orden de Pago (1)</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Cierre de Tesoreria.xlsx" rel="nofollow">Cierre de Tesoreria</a></li>
-                <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Conciliación de Gastos.xls" rel="nofollow">Conciliación de Gastos</a></li>
+                <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Conciliacion de gastos V2.xlsx" rel="nofollow">Conciliación de Gastos V2</a></li>
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Conciliación de Ingresos.xls" rel="nofollow">Conciliación de Ingresos</a></li>
                 
                 <li><a href="mapa_procesos/mapa/gestionfinanciera/formatos/Desprendible Nomina V2.xls" rel="nofollow">Desprendible de nomina V2</a></li>
