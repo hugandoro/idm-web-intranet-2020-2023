@@ -124,8 +124,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Matriz de peligros y riesgos Dic 2021.xlsx" rel="nofollow">Matriz de peligros y riesgos (Diciembre)</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Matriz de EPPs V1.xlsx" rel="nofollow">Matriz de elementos de protección personal V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Matriz de indicadores SST IDM- Doc Ext ARL SURA.xls" rel="nofollow">Matriz de indicadores SST IDM- Doc Ext ARL SURA</a></li>
-                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Matriz Legal SST 2021 - Diciembre.xls" rel="nofollow">Matriz Legal SST 2021 (Diciembre)</a></li>
-                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Matriz Legal SST V4.xls" rel="nofollow">Matriz Legal SST V4</a></li>
+                <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Matriz Legal SST V5 Mayo 2022.xls" rel="nofollow">Matriz Legal SST V5</a></li>
 
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Programa de Pausas Activas V1.pdf" rel="nofollow">Programa de Pausas Activas V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/otrosdocumentos/Reglamento de Higiene y seguridad V2.pdf" rel="nofollow">Reglamento de Higiene y seguridad V2</a></li>
