@@ -105,8 +105,10 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <ul class="tmo_list">
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/manuales/RES 283  MANUAL DE ARCHIVO.pdf" rel="nofollow">RES 283  MANUAL DE ARCHIVO</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/manuales/RESOLUCIÓN 051-2020 PGD.pdf" rel="nofollow">RESOLUCIÓN 051-2020 PGD</a></li>
-                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/manuales/RESOLUCIÓN 052-2020 PGD.pdf" rel="nofollow">RESOLUCIÓN 052-2020 PGD</a></li>
-                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/manuales/PROGRAMA DE GESTION DOCUMENTAL DEL IDM.pdf" rel="nofollow">PROGRAMA DE GESTION DOCUMENTAL DEL IDM</a></li>
+
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/manuales/Reso 050 de 2022 actualizacion PDG.pdf" rel="nofollow">RESOLUCIÓN 050-2022 actualiza el PGD</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/manuales/PROGRAMA GESTION DOCUMENTAL IDM 2022.pdf" rel="nofollow">PROGRAMA DE GESTION DOCUMENTAL 2022</a></li>
+
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/manuales/POLITICA DE GESTION DOCUMENTAL.pdf" rel="nofollow">POLITICA DE GESTION DOCUMENTAL</a></li>
                 
                 <hr>
