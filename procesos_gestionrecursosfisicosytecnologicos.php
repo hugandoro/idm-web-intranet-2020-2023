@@ -135,7 +135,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/MAPA RIESGOS GESTION DOCUMENTAL Y REC FISICOS V5.xlsx" rel="nofollow">Mapa de riesgos gestion documental y recursos fisicos V5</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Matriz Comunicación Interna.doc" rel="nofollow">Matriz Comunicación Interna</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Matriz de partes interesadas Gest Doc y RRFF V2.xls" rel="nofollow">Matriz de partes interesadas Gest Doc y RRFF V2</a></li>
-                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Normograma Gestion Documental y de RRFF 2021.doc" rel="nofollow">Normograma Gestion Documental y de RRFF 2021</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos//Normograma Gestion Documental y de RRFF 2022.doc" rel="nofollow">Normograma Gestion Documental y de RRFF 2022</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/Tablas de Valoración documental.doc" rel="nofollow">Tablas de Valoración documental</a></li>
 
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/otrosdocumentos/TRD - Resolucion 131.pdf" rel="nofollow">TRD - Tablas de retencion documental - Resolucion 131</a></li>
