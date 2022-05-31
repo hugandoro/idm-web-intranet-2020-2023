@@ -89,7 +89,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Entrega de Papelería V2.xlsx" rel="nofollow">Entrega de Papelería V2</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Entrega de insumos para identificación.doc" rel="nofollow">Entrega de insumos para identificación</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Ficha de Inventario.xlsx" rel="nofollow">Ficha de Inventario</a></li>
-                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Formato FUID V3.xlsx" rel="nofollow">Formato FUID - Version 3</a></li>
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/FORMATO FUID V3 Corregido.xlsx" rel="nofollow">Formato FUID - Version 3</a></li>
 
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Formato Word V7.doc" rel="nofollow">FORMATO DE WORD - Version 7</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Formato para Baja de inventarios V1.xlsx" rel="nofollow">Formato para Baja de inventarios V1</a></li>
