@@ -121,7 +121,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/procedimientos/Control de salidas no Conformes.doc" rel="nofollow">Control de salidas no Conformes</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/procedimientos/Diseno y Desarrollo V4.docx" rel="nofollow">Diseño y Desarrollo V4</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/procedimientos/Organizacion e impulso a la vivienda V2.doc" rel="nofollow">Organización e Impulso a la Vivienda V2</a></li>
-                <li><a href="mapa_procesos/mapa/viviendayurbanismo/Procedimiento Sancionatorio Restitucion de Subsidios.docx">Procedimiento sancionatorio restitución de subsidios</a></li>
+                <li><a href="mapa_procesos/mapa/viviendayurbanismo/procedimientos/Procedimiento Sancionatorio Restitucion de Subsidios V2.docx">Procedimiento sancionatorio restitución de subsidios V2</a></li>
                 <li><a href="mapa_procesos/mapa/viviendayurbanismo/procedimientos/Apoyo Social V2.doc" rel="nofollow">Apoyo Social V2</a></li>
                 </ul>
 

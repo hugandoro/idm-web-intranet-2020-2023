@@ -86,6 +86,9 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Evaluacion de Gestion por Dependencia.docx" rel="nofollow">Evaluación de Gestión por Dependencia</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Informe de Auditoria Interna.docx" rel="nofollow">Informe de Auditoria Interna</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Informe Definitivo Auditoria Control Interno.doc" rel="nofollow">Informe Definitivo Auditoria Control Interno</a></li>
+
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Informe Seguimiento Control Interno V1.docx" rel="nofollow">Informe Seguimiento Control Interno V1</a></li>
+
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Lista de chequeo Auditoria Interna.docx" rel="nofollow">Lista de chequeo Auditoria Interna</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Plan de Accion de Control Interno.xls" rel="nofollow">Plan de Acción de Control Interno</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/formatos/Plan de Auditoria Interna C.I.docx" rel="nofollow">Plan de Auditoria Interna C.I</a></li>
