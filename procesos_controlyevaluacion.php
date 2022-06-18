@@ -124,7 +124,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/otros documentos/Lista de Chequeo para AutoEvaluar Procesos.docx" rel="nofollow">Lista de Chequeo para AutoEvaluar Procesos</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/otros documentos/MAPA RIESGOS CONTROL Y EVALUACION V5.xlsx" rel="nofollow">Mapa de Riesgos Control y Evaluación V5</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/otros documentos/Matriz de Partes Interesadas  Control y Evaluacion.xls" rel="nofollow">Matriz de Partes Interesadas  Control y Evaluación</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/otros documentos/Normograma 2020.doc" rel="nofollow">Normograma 2020</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/otros documentos/Normograma 2022.doc" rel="nofollow">Normograma 2022</a></li>
                 </ul>            
                     
                 <a href="procesos_manuales.php" rel="nofollow"><h3>Manual de Procesos y Procedimientos</h3></a>
