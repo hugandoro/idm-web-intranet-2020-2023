@@ -93,23 +93,23 @@ $currentPage = $_SERVER["PHP_SELF"];
             <div class="col-lg-6 mb-6">
                 <h3>Capacitaciones</h3>
                 <ul class="tmo_list">
-                    <li><a href="memoria/capacitacion_participacion_ciudadana_2020.pdf">Mecanismos de participacion ciudadana | Agosto 2020</a></li>
+
                     <li><a href="memoria/cap_acoso_laboral.pdf">Acoso laboral</a></li>
-
-                    <li><a href="memoria/cap_gestion_conocimiento_junio_2021.pdf">Gestion del conocimiento | Junio 2021</a></li>
-
-                    <li><a href="memoria/cap_generalidades_SST.pdf">Generalidades SST | 2021</a></li>
-
                     <li><a href="memoria/cap_conflicto_interes.pdf">Conflicto de intereses</a></li>
-                    <li><a href="memoria/cap_gestion_documental.pdf">Gestion documental | Febrero 2021</a></li>
+                    
                     <li><a href="memoria/cap_servicio_ciudadano.pdf">Servicio al ciudadano| 2020</a></li>
+                    <li><a href="memoria/capacitacion_participacion_ciudadana_2020.pdf">Mecanismos de participacion ciudadana | Agosto 2020</a></li>
+
+                    <li><a href="memoria/cap_gestion_documental.pdf">Gestion documental | Febrero 2021</a></li>
                     <li><a href="memoria/codigo_colores_2021.pdf">Codigo de colores | 2021</a></li>
                     <li><a href="memoria/prevencion_fraude_2021.ppt">Prevencion del fraude | 2021</a></li>
-
                     <li><a href="memoria/Sistema integrado de conservacion SIC - 2021.ppt">Sistema integrado de conservacion SIC | 2021</a></li>
                     <li><a href="memoria/Roles control interno - 2021.ppt">Roles control interno | 2021</a></li>
+                    <li><a href="memoria/cap_gestion_conocimiento_junio_2021.pdf">Gestion del conocimiento | Junio 2021</a></li>
+                    <li><a href="memoria/cap_generalidades_SST.pdf">Generalidades SST | 2021</a></li>
 
                     <li><a href="memoria/Digitalizacion de documentos AGN 2022.pdf">Digitalizacion de documentos AGN | 2022</a></li>
+                    <li><a href="memoria/cap_SIC_2022.ppt">Capacitacion SIC | 2022</a></li>
 
                 </ul>
             </div>
