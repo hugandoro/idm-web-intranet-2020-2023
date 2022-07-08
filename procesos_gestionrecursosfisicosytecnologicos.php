@@ -83,6 +83,8 @@ $currentPage = $_SERVER["PHP_SELF"];
  
                 <h3>Formatos</h3>
                 <ul class="tmo_list">
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Rotulo Cajas Archivo V1.doc" rel="nofollow">Rotulo cajas archivo V1</a></li>
+
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Actualizacion de documentos V2.doc" rel="nofollow">Actualizacion de documentos V2</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Caratula Legajos de archivo V3.doc" rel="nofollow">Caratula Legajos de Archivo V3</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Depreciaciones.xls" rel="nofollow">Depreciaciones</a></li>
