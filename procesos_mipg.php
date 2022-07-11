@@ -81,6 +81,15 @@ $currentPage = $_SERVER["PHP_SELF"];
         <div class="row">
             <div class="col-lg-12 mb-12">
 
+                <h3>Actas de comité - Vigencia 2022</h3>
+                <ul class="tmo_list">
+                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2022/ACTA 001.pdf" rel="nofollow">Acta N° 1</a></li>
+                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2022/ACTA 002.pdf" rel="nofollow">Acta N° 2</a></li>
+                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2022/ACTA 003.pdf" rel="nofollow">Acta N° 3</a></li>
+                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2022/ACTA 004.pdf" rel="nofollow">Acta N° 4</a></li>
+                    <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2022/ACTA 005.pdf" rel="nofollow">Acta N° 5</a></li>
+                </ul>
+
                 <h3>Actas de comité - Vigencia 2021</h3>
                 <ul class="tmo_list">
                     <li><a href="mapa_procesos/mapa/direccionamientoyplaneacion/mipg/actas/2021/ACTA 001.pdf" rel="nofollow">Acta N° 1</a></li>
