@@ -93,6 +93,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Ficha de Inventario.xlsx" rel="nofollow">Ficha de Inventario</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/FORMATO FUID V3 Corregido.xlsx" rel="nofollow">Formato FUID - Version 3</a></li>
 
+                <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Formato Word IDM transicion EDOS V1.docx" rel="nofollow">FORMATO DE WORD - IDM transicion EDOS V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Formato Word V7.doc" rel="nofollow">FORMATO DE WORD - Version 7</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Formato para Baja de inventarios V1.xlsx" rel="nofollow">Formato para Baja de inventarios V1</a></li>
                 <li><a href="mapa_procesos/mapa/gestionderecursosfisicosytecnologicos/formatos/Hoja de Control V3.docx" rel="nofollow">Hoja de Control V3</a></li>
