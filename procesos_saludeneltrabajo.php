@@ -205,6 +205,8 @@ $currentPage = $_SERVER["PHP_SELF"];
                     <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COPASST - 2022/acta 2 copasst 2022.pdf" rel="nofollow">Acta N° 2</a></li>
                     <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COPASST - 2022/acta 3 copasst 2022.pdf" rel="nofollow">Acta N° 3</a></li>
                     <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COPASST - 2022/acta 4 copasst 2022.pdf" rel="nofollow">Acta N° 4</a></li>
+                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COPASST - 2022/acta 5 copasst 2022.pdf" rel="nofollow">Acta N° 5</a></li>
+                    <li><a href="mapa_procesos/mapa/gestiondeltalentohumano/seguridadysaludeneltrabajo/COPASST - 2022/acta 6 copasst 2022.pdf" rel="nofollow">Acta N° 6</a></li>
                 </ul>
 
                 <h3>COPASST | Comité de convivencia Laboral y brigada de emergencias | 2021</h3>
