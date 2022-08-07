@@ -65,7 +65,7 @@ if ($f) {
             <div class="collapse navbar-collapse" id="navbarsExample09">
                 <ul class="navbar-nav mr-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="intranet.edos.gov.co">De interes general |</a>
+                        <a class="nav-link" href="index.php">De interes general |</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="index_mapa.php">Sistema de Calidad |</a>
