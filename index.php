@@ -29,13 +29,13 @@ if ($f) {
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <meta name="application-name" content="Intranet - Instituto de Desarrollo Municipal - Dosquebradas">
-    <meta name="author" content="Instituto de Desarrollo Municipal - IDM">
+    <meta name="application-name" content="Intranet - Empresa de Desarrollo Urbano y Rural de Dosquebradas">
+    <meta name="author" content="Empresa de Desarrollo Urbano y Rural de Dosquebradas">
     <meta name="description" content="Intranet Institucional">
-    <meta name="generator" content="Intranet - IDM">
-    <meta name="keywords" content="IDM, Intranet, Dosquebradas">
+    <meta name="generator" content="Intranet - EDOS">
+    <meta name="keywords" content="EDOS, Intranet, Dosquebradas">
 
-    <title>IDM | Intranet institucional</title>
+    <title>EDOS | Intranet institucional</title>
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
@@ -77,7 +77,7 @@ if ($f) {
                         <a class="nav-link" href="https://soporte.idm.gov.co">Soporte TIC |</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://www.idm.gov.co/4pl1c4t1v0s/DIRECTORIO/index.php">Directorio |</a>
+                        <a class="nav-link" href="https://www.edos.gov.co/4pl1c4t1v0s/DIRECTORIO/index.php">Directorio |</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="/muro_comentarios/index.php">Muro</a>
@@ -91,7 +91,7 @@ if ($f) {
         <div class="row">
             <div class="col-md-12" align="center">
                 <div style="font-size: 28pt"><b>Intranet Institucional</b></div>
-                <div style="font-size: 18pt">IDM | Instituto de Desarrollo Municipal | Dosquebradas</div>
+                <div style="font-size: 18pt">EDOS | Empresa de Desarrollo Urbano y Rural de Dosquebradas</div>
             </div>
         </div>
         <hr>
@@ -257,14 +257,14 @@ if ($f) {
             <div class="row">
                 <div class="col-12 col-md">
                     <center><img class="mb-2" src="img/logo_idm.png" alt="" width="100%">
-                        <small class="d-block mb-3 text-muted">Instituo de Desarrollo Municipal</small>
+                        <small class="d-block mb-3 text-muted">Empresa de Desarrollo Urbano y Rural de Dosquebradas</small>
                         <small class="d-block mb-3 text-muted">&copy; 2020-2023</small>
                     </center>
                 </div>
                 <div class="col-6 col-md">
                     <h5>Institucional</h5>
                     <ul class="list-unstyled text-small">
-                        <li><a class="text-muted" href="https://www.idm.gov.co">IDM Portal web oficial</a></li>
+                        <li><a class="text-muted" href="https://www.edos.gov.co">EDOS Portal web oficial</a></li>
                         <li><a class="text-muted" href="https://bien.idm.gov.co">BIEN - Base institucional estadistica normativa</a></li>
                         <li><a class="text-muted" href="https://saga.idm.gov.co">SAGA - Sistema asistencial gestor de archivo</a></li>
                         <li><a class="text-muted" href="https://soporte.idm.gov.co">MESA TIC - Mesa de ayuda y soporte TIC</a></li>
