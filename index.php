@@ -71,7 +71,7 @@ if ($f) {
                         <a class="nav-link" href="index_mapa.php">Sistema de Calidad |</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://intranet.edos.gov.co/mapa_procesos/Repositorio_EDOS_2022/">Calidad EDOS</a>
+                        <a class="nav-link" href="https://intranet.edos.gov.co/mapa_procesos/Repositorio_EDOS_2022/">Calidad EDOS |</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="memoria_institucional.php">Memoria institucional y del conocimiento |</a>
