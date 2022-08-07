@@ -53,13 +53,16 @@ $currentPage = $_SERVER["PHP_SELF"];
                         <a class="nav-link" href="index_mapa.php">Sistema de Calidad |</a>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link" href="https://intranet.edos.gov.co/mapa_procesos/Repositorio_EDOS_2022/">Calidad EDOS</a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link" href="memoria_institucional.php">Memoria institucional y del conocimiento |</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="https://soporte.idm.gov.co">Soporte TIC |</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="https://www.edos.gov.co/4pl1c4t1v0s/DIRECTORIO/index.php">Directorio</a>
+                        <a class="nav-link" href="https://www.edos.gov.co/index.php/home/funcionarios">Directorio</a>
                     </li>
                 </ul>
             </div>
