@@ -97,9 +97,11 @@ if ($f) {
         <hr>
         <div class="row">
 
+            <!--
             <div class="col-lg-12 mb-12">
                 <div><a href="https://historico.cnsc.gov.co/index.php/entidades-orden-territorial-2022-normatividad"><img class="card-img-top" src="/img/BANNER-WEB-EOT-2022-INSCRIPCIONES-ASCENSO.png"></a></div>
             </div>
+-->
 
             <div class="col-lg-4 mb-4">
                 <div><a href="https://idm.netsaia.com/views/login/login.php"><img class="card-img-top" src="/img/SAIA-software-de-gestion-documental-1.png"></a></div>
@@ -120,6 +122,8 @@ if ($f) {
 
         </div>
 
+
+        <!-- 
         <hr>
 
         <div class="row">
@@ -127,6 +131,7 @@ if ($f) {
                 <div><a href="https://mivacuna.sispro.gov.co/MiVacuna/Account/Login"><img src="/img/Banner_MiVacuna.png" width=100%></a></div>
             </div>
         </div>
+        -->
 
         <hr>
 
@@ -161,8 +166,10 @@ if ($f) {
 
         </div>
 
+        <!-- 
         <hr>
 
+        
         <div class="row">
 
             <div class="col-lg-6 mb-6">
@@ -180,7 +187,6 @@ if ($f) {
 
         <hr>
 
-        <!-- Tarjetas -->
         <div class="row">
 
             <div class="col-lg-6 mb-6">
@@ -195,6 +201,7 @@ if ($f) {
                 </div>
             </div>
         </div>
+        -->
 
         <hr>
 

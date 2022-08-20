@@ -113,6 +113,8 @@ $currentPage = $_SERVER["PHP_SELF"];
 
                     <li><a href="memoria/Digitalizacion de documentos AGN 2022.pdf">Digitalizacion de documentos AGN | 2022</a></li>
                     <li><a href="memoria/cap_SIC_2022.ppt">Capacitacion SIC | 2022</a></li>
+                    <li><a href="memoria/portafolio_servicio_EDOS_2022.pdf">Portafolio de servicios | 2022</a></li>
+                    <li><a href="memoria/cap_manejo_emociones_2022.pdf">Capacitacion manejo emociones | 2022</a></li>
 
                 </ul>
             </div>
