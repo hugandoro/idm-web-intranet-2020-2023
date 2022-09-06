@@ -108,8 +108,7 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/procedimientos/Accion Correctiva y Preventiva Calidad y  SST (4).doc" rel="nofollow">Accion Correctiva y Preventiva Calidad y  SST (4)</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/procedimientos/Administracion y Valoracion del Riesgo.doc" rel="nofollow">Administración y Valoración del Riesgo</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/procedimientos/Auditoria Interna de Calidad y SST (1).docx" rel="nofollow">Auditoria Interna de Calidad y SST (1)</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/procedimientos/Auditorias de Control Interno.doc" rel="nofollow">Auditorias de Control Interno</a></li>
-                <li><a href="mapa_procesos/mapa/Control y Evaluacion/procedimientos/Evaluacion y Seguimiento Control Interno.doc" rel="nofollow">Evaluación y Seguimiento Control Interno</a></li>
+                <li><a href="mapa_procesos/mapa/Control y Evaluacion/procedimientos/Procedimiento Auditorias de Control Interno y evaluacion V2.doc" rel="nofollow">Auditoria de Control Interno y Evaluación V2</a></li>
                 <li><a href="mapa_procesos/mapa/Control y Evaluacion/procedimientos/Informes de Control Interno.doc" rel="nofollow">Informes de Control Interno</a></li>
                 </ul>
                     
