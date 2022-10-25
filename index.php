@@ -117,7 +117,7 @@ if ($f) {
             </div>
 
             <div class="col-lg-4 mb-4">
-                <div><a href="https://capacitate.idm.gov.co"><img class="card-img-top" src="/img/capacitate_banner_1.png"></a></div>
+                <div><a href="https://capacitate.edos.gov.co"><img class="card-img-top" src="/img/capacitate_banner_1.png"></a></div>
             </div>
 
         </div>
@@ -140,7 +140,7 @@ if ($f) {
 
             <div class="col-lg-6 mb-6">
                 <div class="card h-100 box-shadow" align="center">
-                    <div><a href="https://soporte.idm.gov.co"><img class="card-img-top" src="img/mesa_tic.png"></a></div>
+                    <div><a href="https://soporte.edos.gov.co"><img class="card-img-top" src="img/mesa_tic.png"></a></div>
                 </div>
             </div>
 
@@ -229,7 +229,7 @@ if ($f) {
                         <h5 class="my-0 font-weight-normal">Milán La Pradera - Prado Verde</h5>
                     </div>
 
-                    <div><a href="https://www.idm.gov.co/web/index.php/plan-de-movilidad/solucion-vial-milan-la-pradera-prado-verde" target="_blank"><img class="card-img-top" src="img/M3.jpg"></a></div>
+                    <div><a href="https://www.edos.gov.co/web/index.php/plan-de-movilidad/solucion-vial-milan-la-pradera-prado-verde" target="_blank"><img class="card-img-top" src="img/M3.jpg"></a></div>
 
                 </div>
             </div>
@@ -240,7 +240,7 @@ if ($f) {
                         <h5 class="my-0 font-weight-normal">La Popa – Fase Uno</h5>
                     </div>
 
-                    <div><a href="https://www.idm.gov.co/web/index.php/plan-de-movilidad/solucion-vial-la-popa-fase-uno" target="_blank"><img class="card-img-top" src="img/M1.jpg"></a></div>
+                    <div><a href="https://www.edos.gov.co/web/index.php/plan-de-movilidad/solucion-vial-la-popa-fase-uno" target="_blank"><img class="card-img-top" src="img/M1.jpg"></a></div>
 
                 </div>
             </div>
@@ -251,7 +251,7 @@ if ($f) {
                         <h5 class="my-0 font-weight-normal">Quebrada La Víbora - Molivento</h5>
                     </div>
 
-                    <div><a href="https://www.idm.gov.co/web/index.php/plan-de-movilidad/solucion-vial-quebrada-la-vibora-molivento" target="_blank"><img class="card-img-top" src="img/M2.jpg"></a></div>
+                    <div><a href="https://www.edos.gov.co/web/index.php/plan-de-movilidad/solucion-vial-quebrada-la-vibora-molivento" target="_blank"><img class="card-img-top" src="img/M2.jpg"></a></div>
 
                 </div>
             </div>
@@ -272,9 +272,9 @@ if ($f) {
                     <h5>Institucional</h5>
                     <ul class="list-unstyled text-small">
                         <li><a class="text-muted" href="https://www.edos.gov.co">EDOS Portal web oficial</a></li>
-                        <li><a class="text-muted" href="https://bien.idm.gov.co">BIEN - Base institucional estadistica normativa</a></li>
-                        <li><a class="text-muted" href="https://saga.idm.gov.co">SAGA - Sistema asistencial gestor de archivo</a></li>
-                        <li><a class="text-muted" href="https://soporte.idm.gov.co">MESA TIC - Mesa de ayuda y soporte TIC</a></li>
+                        <li><a class="text-muted" href="https://bien.edos.gov.co">BIEN - Base institucional estadistica normativa</a></li>
+                        <li><a class="text-muted" href="https://saga.edos.gov.co">SAGA - Sistema asistencial gestor de archivo</a></li>
+                        <li><a class="text-muted" href="https://soporte.edos.gov.co">MESA TIC - Mesa de ayuda y soporte TIC</a></li>
                     </ul>
                 </div>
                 <div class="col-6 col-md">

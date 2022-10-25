@@ -228,10 +228,10 @@ $currentPage = $_SERVER["PHP_SELF"];
                 <div class="col-6 col-md">
                     <h5>Institucional</h5>
                     <ul class="list-unstyled text-small">
-                        <li><a class="text-muted" href="https://www.idm.gov.co">IDM Portal web oficial</a></li>
-                        <li><a class="text-muted" href="https://bien.idm.gov.co">BIEN - Base institucional estadistica normativa</a></li>
-                        <li><a class="text-muted" href="https://saga.idm.gov.co">SAGA - Sistema asistencial gestor de archivo</a></li>
-                        <li><a class="text-muted" href="https://soporte.idm.gov.co">MESA TIC - Mesa de ayuda y soporte TIC</a></li>
+                    <li><a class="text-muted" href="https://www.edos.gov.co">EDOS Portal web oficial</a></li>
+                        <li><a class="text-muted" href="https://bien.edos.gov.co">BIEN - Base institucional estadistica normativa</a></li>
+                        <li><a class="text-muted" href="https://saga.edos.gov.co">SAGA - Sistema asistencial gestor de archivo</a></li>
+                        <li><a class="text-muted" href="https://soporte.edos.gov.co">MESA TIC - Mesa de ayuda y soporte TIC</a></li>
                     </ul>
                 </div>
                 <div class="col-6 col-md">
