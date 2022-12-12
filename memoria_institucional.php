@@ -101,20 +101,21 @@ $currentPage = $_SERVER["PHP_SELF"];
                     <li><a href="memoria/cap_conflicto_interes.pdf">Conflicto de intereses</a></li>
                     
                     <li><a href="memoria/cap_servicio_ciudadano.pdf">Servicio al ciudadano| 2020</a></li>
-                    <li><a href="memoria/capacitacion_participacion_ciudadana_2020.pdf">Mecanismos de participacion ciudadana | Agosto 2020</a></li>
+                    <li><a href="memoria/capacitacion_participacion_ciudadana_2020.pdf">Mecanismos de participación ciudadana | Agosto 2020</a></li>
 
-                    <li><a href="memoria/cap_gestion_documental.pdf">Gestion documental | Febrero 2021</a></li>
+                    <li><a href="memoria/cap_gestion_documental.pdf">Gestión documental | Febrero 2021</a></li>
                     <li><a href="memoria/codigo_colores_2021.pdf">Codigo de colores | 2021</a></li>
-                    <li><a href="memoria/prevencion_fraude_2021.ppt">Prevencion del fraude | 2021</a></li>
-                    <li><a href="memoria/Sistema integrado de conservacion SIC - 2021.ppt">Sistema integrado de conservacion SIC | 2021</a></li>
+                    <li><a href="memoria/prevencion_fraude_2021.ppt">Prevención del fraude | 2021</a></li>
+                    <li><a href="memoria/Sistema integrado de conservacion SIC - 2021.ppt">Sistema integrado de conservación SIC | 2021</a></li>
                     <li><a href="memoria/Roles control interno - 2021.ppt">Roles control interno | 2021</a></li>
-                    <li><a href="memoria/cap_gestion_conocimiento_junio_2021.pdf">Gestion del conocimiento | Junio 2021</a></li>
+                    <li><a href="memoria/cap_gestion_conocimiento_junio_2021.pdf">Gestión del conocimiento | Junio 2021</a></li>
                     <li><a href="memoria/cap_generalidades_SST.pdf">Generalidades SST | 2021</a></li>
 
-                    <li><a href="memoria/Digitalizacion de documentos AGN 2022.pdf">Digitalizacion de documentos AGN | 2022</a></li>
-                    <li><a href="memoria/cap_SIC_2022.ppt">Capacitacion SIC | 2022</a></li>
+                    <li><a href="memoria/Digitalizacion de documentos AGN 2022.pdf">Digitalización de documentos AGN | 2022</a></li>
+                    <li><a href="memoria/cap_SIC_2022.ppt">Capacitación SIC | 2022</a></li>
                     <li><a href="memoria/portafolio_servicio_EDOS_2022.pdf">Portafolio de servicios | 2022</a></li>
-                    <li><a href="memoria/cap_manejo_emociones_2022.pdf">Capacitacion manejo emociones | 2022</a></li>
+                    <li><a href="memoria/cap_manejo_emociones_2022.pdf">Capacitación manejo emociones | 2022</a></li>
+                    <li><a href="memoria/presentacion_COPASST_2022.pdf">Presentación COPASST | 2022</a></li>
 
                 </ul>
             </div>
