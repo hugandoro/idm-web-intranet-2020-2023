@@ -67,17 +67,14 @@ if ($f) {
                     <li class="nav-item">
                         <a class="nav-link" href="index.php">De interes general |</a>
                     </li>
-                    <li class="nav-item">
+                    <!--<li class="nav-item">
                         <a class="nav-link" href="index_mapa.php">Sistema de Calidad |</a>
-                    </li>
+                    </li>-->
                     <li class="nav-item">
                         <a class="nav-link" href="https://intranet.edos.gov.co/mapa_procesos/Repositorio_EDOS_2022/">Calidad EDOS |</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="memoria_institucional.php">Memoria institucional y del conocimiento |</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="https://soporte.idm.gov.co">Soporte TIC |</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="https://www.edos.gov.co/index.php/home/funcionarios">Directorio |</a>
@@ -212,7 +209,7 @@ if ($f) {
             </div>
             <div class="col-md-6" align="center">
                 <div style="font-size: 100pt"><b><?php echo "00"; ?></b></div><br>
-                <div style="font-size: 24pt">Accidentes laborales 2022</div>
+                <div style="font-size: 24pt">Accidentes laborales 2023</div>
             </div>
         </div>
 
@@ -223,35 +220,13 @@ if ($f) {
         <!-- Tarjetas -->
         <div class="row">
 
-            <div class="col-lg-4 mb-4">
+            <div class="col-lg-12 mb-12">
                 <div class="card h-100 box-shadow" align="center">
                     <div class="card-header bg-success text-white">
-                        <h5 class="my-0 font-weight-normal">Milán La Pradera - Prado Verde</h5>
+                        <h5 class="my-0 font-weight-normal">Proyecto Amali - Conjunto residencial</h5>
                     </div>
 
-                    <div><a href="https://www.edos.gov.co/web/index.php/plan-de-movilidad/solucion-vial-milan-la-pradera-prado-verde" target="_blank"><img class="card-img-top" src="img/M3.jpg"></a></div>
-
-                </div>
-            </div>
-
-            <div class="col-lg-4 mb-4">
-                <div class="card h-100 box-shadow" align="center">
-                    <div class="card-header bg-success text-white">
-                        <h5 class="my-0 font-weight-normal">La Popa – Fase Uno</h5>
-                    </div>
-
-                    <div><a href="https://www.edos.gov.co/web/index.php/plan-de-movilidad/solucion-vial-la-popa-fase-uno" target="_blank"><img class="card-img-top" src="img/M1.jpg"></a></div>
-
-                </div>
-            </div>
-
-            <div class="col-lg-4 mb-4">
-                <div class="card h-100 box-shadow" align="center">
-                    <div class="card-header bg-success text-white">
-                        <h5 class="my-0 font-weight-normal">Quebrada La Víbora - Molivento</h5>
-                    </div>
-
-                    <div><a href="https://www.edos.gov.co/web/index.php/plan-de-movilidad/solucion-vial-quebrada-la-vibora-molivento" target="_blank"><img class="card-img-top" src="img/M2.jpg"></a></div>
+                    <div><a href="https://utamali.com" target="_blank"><img class="card-img-top" src="img/Amali02.jpg"></a></div>
 
                 </div>
             </div>
@@ -262,26 +237,23 @@ if ($f) {
         <!-- Pie de pagina -->
         <footer class="pt-4 my-md-5 pt-md-5 border-top">
             <div class="row">
-                <div class="col-12 col-md">
-                    <center><img class="mb-2" src="img/logo_idm.png" alt="" width="100%">
+                <div class="col-4 col-md">
+                    <center><img class="mb-2" src="img/logo_idm.png" alt="" width="50%">
                         <small class="d-block mb-3 text-muted">Empresa de Desarrollo Urbano y Rural de Dosquebradas</small>
                         <small class="d-block mb-3 text-muted">&copy; 2020-2023</small>
                     </center>
                 </div>
-                <div class="col-6 col-md">
-                    <h5>Institucional</h5>
+                <div class="col-8 col-md">
+                    <h5>Aplicativos de apoyo institucional</h5>
                     <ul class="list-unstyled text-small">
-                        <li><a class="text-muted" href="https://www.edos.gov.co">EDOS Portal web oficial</a></li>
-                        <li><a class="text-muted" href="https://bien.edos.gov.co">BIEN - Base institucional estadistica normativa</a></li>
-                        <li><a class="text-muted" href="https://saga.edos.gov.co">SAGA - Sistema asistencial gestor de archivo</a></li>
-                        <li><a class="text-muted" href="https://soporte.edos.gov.co">MESA TIC - Mesa de ayuda y soporte TIC</a></li>
-                    </ul>
-                </div>
-                <div class="col-6 col-md">
-                    <h5>Referentes de interes general</h5>
-                    <ul class="list-unstyled text-small">
-                        <li><a class="text-muted" href="https://www.undp.org/content/undp/es/home/sustainable-development-goals.html">ODS - Objetivos del Desarrollo Sostenible</a></li>
-                        <li><a class="text-muted" href="https://plandesarrollo.dosquebradas.gov.co/">Plan de desarrollo municipio de Dosquebradas (Risaralda)</a></li>
+                        <li><a class="text-muted" href="https://www.edos.gov.co"><b>EDOS</b> Portal web oficial</a></li>
+                        <li><a class="text-muted" href="https://bien.edos.gov.co"><b>BIEN</b>Base institucional estadistica normativa</a></li>
+                        <li><a class="text-muted" href="https://soporte.edos.gov.co"><b>MESA TIC</b> Soporte TIC</a></li>
+                        <li><a class="text-muted" href="https://saga.edos.gov.co"><b>SAGA</b> Sistema asistencial gestor de archivo (Caja)</a></li>
+                        <li><a class="text-muted" href="https://intranet.edos.gov.co/gesar_temporal"><b>GESAR</b> Gestor de archivo historico</a></li>
+                        <li><a class="text-muted" href="https://sipma.edos.gov.co"><b>SIPMA</b> Seguimiento integral planes de mejoramiento</a></li>
+                        <li><a class="text-muted" href="https://pid.edos.gov.co"><b>PID</b> Contratistas</a></li>
+                        <li><a class="text-muted" href="https://capacitate.edos.gov.co"><b>CAPACITATE</b> Plataforma de capacitaciones</a></li>
                     </ul>
                 </div>
             </div>
