@@ -67,9 +67,9 @@ if ($f) {
                     <li class="nav-item">
                         <a class="nav-link" href="index.php">De interes general |</a>
                     </li>
-                    <!--<li class="nav-item">
+                    <li class="nav-item">
                         <a class="nav-link" href="index_mapa.php">Sistema de Calidad |</a>
-                    </li>-->
+                    </li>
                     <li class="nav-item">
                         <a class="nav-link" href="https://intranet.edos.gov.co/mapa_procesos/Repositorio_EDOS_2022/">Calidad EDOS |</a>
                     </li>
